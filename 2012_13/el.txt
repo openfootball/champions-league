@@ -1,0 +1,97 @@
+############################
+# Europa League 2012/13
+
+
+(1) Sechzehntelfinale / Hinspiele   //  Do 14. Februar 2013
+
+2013-02-14 18:00  Zenit St. Petersburg  2:0  Liverpool
+2013-02-14 18:00  Anzhi Makhachkala     3:1  Hannover 96
+2013-02-14 19:00  BATE Borisov          0:0  Fenerbahçe
+2013-02-14 19:00  Levante               3:0  Olympiacos
+2013-02-14 19:00  Dynamo Kyiv           1:1  Bordeaux
+2013-02-14 19:00  Bayer Leverkusen      0:1  Benfica
+2013-02-14 19:00  Ajax                  2:0  Steaua București
+2013-02-14 19:00  Sparta Prague         0:1  Chelsea
+2013-02-14 19:00  Napoli                0:3  Viktoria Plzeň
+2013-02-14 21:05  Internazionale        2:0  CFR Cluj
+2013-02-14 21:05  Newcastle United      0:0  Metalist Kharkiv
+2013-02-14 21:05  Stuttgart             1:1  Genk
+2013-02-14 21:05  Atlético Madrid       0:2  Rubin Kazan
+2013-02-14 21:05  Basel                 2:0  Dnipro Dnipropetrovsk
+2013-02-14 21:05  Borussia Mönchengladbach  3:3  Lazio
+2013-02-14 21:05  Tottenham Hotspur         2:1  Lyon
+
+(2) Sechzehntelfinale / Rückspiele  //  Do 21. Februar 2013
+
+2013-02-21 18:00  Rubin Kazan       0:1  Atlético Madrid
+2013-02-21 19:00  CFR Cluj          0:3  Internazionale
+2013-02-21 19:00  Metalist Kharkiv  0:1  Newcastle United
+2013-02-21 19:00  Genk              0:2  Stuttgart
+2013-02-21 19:00  Dnipro Dnipropetrovsk  1:1  Basel
+2013-02-21 19:00  Lazio             2:0  Borussia Mönchengladbach
+2013-02-21 19:00  Lyon              1:1  Tottenham Hotspur
+2013-02-21 21:05  Fenerbahçe        1:0  BATE Borisov
+2013-02-21 21:05  Olympiacos        0:1  Levante
+2013-02-21 21:05  Liverpool         3:1  Zenit St. Petersburg
+2013-02-21 21:05  Bordeaux          1:0  Dynamo Kyiv
+2013-02-21 21:05  Benfica           2:1  Bayer Leverkusen
+2013-02-21 21:05  Steaua București  2:0 2:0nV 4:2iE  Ajax
+2013-02-21 21:05  Hannover 96       1:1  Anzhi Makhachkala
+2013-02-21 21:05  Chelsea           1:1  Sparta Prague
+2013-02-21 21:05  Viktoria Plzeň    2:0  Napoli
+
+
+(3) Achtelfinale / Hinspiele    //  Do  7. März 2013
+
+2013-03-07 18:00 (Do)  Anzhi Makhachkala  0:0  Newcastle United
+2013-03-07 19:00 (Do)  Viktoria Plzeň     0:1  Fenerbahçe
+2013-03-07 19:00 (Do)  VfB Stuttgart      0:2  Lazio Roma
+2013-03-07 19:00 (Do)  Steaua București   1:0  Chelsea FC
+2013-03-07 21:05 (Do)  Benfica            1:0  Bordeaux
+2013-03-07 21:05 (Do)  Tottenham Hotspur  3:0  Internazionale
+2013-03-07 21:05 (Do)  Levante            0:0  Rubin Kazan
+2013-03-07 21:05 (Do)  FC Basel           2:0  Zenit St. Petersburg
+
+
+(4) Achtelfinale / Rückspiele   //  Do 14. März 2013
+
+2013-03-14 18:00 (Do)  Rubin Kazan           0:0 2:0nV Levante
+2013-03-14 18:00 (Do)  Zenit St. Petersburg  1:0       FC Basel
+2013-03-14 19:00 (Do)  Internazionale        3:0 4:1nV Tottenham Hotspur
+2013-03-14 21:05 (Do)  Fenerbahçe            1:1       Viktoria Plzeň
+2013-03-14 21:05 (Do)  Bordeaux              2:3       Benfica
+2013-03-14 21:05 (Do)  Newcastle United      1:0       Anzhi Makhachkala
+2013-03-14 21:05 (Do)  Lazio Roma            3:1       VfB Stuttgart
+2013-03-14 21:05 (Do)  Chelsea FC            3:1       Steaua București
+
+
+(5) Viertelfinale / Hinspiele  //   Do  4. April 2013
+
+2013-04-04 21:05 (Do)  Chelsea FC         3:1  Rubin Kazan
+2013-04-04 21:05 (Do)  Tottenham Hotspur  2:2  FC Basel
+2013-04-04 21:05 (Do)  Fenerbahçe         2:0  Lazio Roma
+2013-04-04 21:05 (Do)  Benfica            3:1  Newcastle United
+
+(6) Viertelfinale / Rückspiele //   Do 11. April 2013
+
+2013-04-11 21:05 (Do)  Rubin Kazan       3:2  Chelsea FC
+2013-04-11 21:05 (Do)  FC Basel          2:2 2:2nV 4:1iE  Tottenham Hotspur
+2013-04-11 21:05 (Do)  Lazio Roma        1:1  Fenerbahçe
+2013-04-11 21:05 (Do)  Newcastle United  1:1  Benfica
+
+
+(7) Halbfinale    / Hinspiele  //   Do  25. April 2013
+
+2013-04-25 21:05 (Do) Fenerbahçe  1:0  Benfica
+2013-04-25 21:05 (Do) Basel       1:2  Chelsea FC
+
+(8) Halbfinale    / Rückspiele //   Do  2. Mai 2013
+
+2013-05-02 21:05 (Do) Benfica     3:1   Fenerbahçe
+2013-05-02 21:05 (Do) Chelsea FC  3:1   Basel
+
+
+(9) Finale                     //   Mi  15. Mai 2013
+
+2013-05-13 20:45 (Mi) Benfica     1:2   Chelsea FC
+

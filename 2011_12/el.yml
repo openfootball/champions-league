@@ -1,0 +1,28 @@
+#################################
+# Europa League 2011/12
+
+
+league: el
+season: 2011/12
+start_at: 2011-10-10
+team3: false
+
+
+## fix/todo: add timezone cet
+
+
+###############
+# Teams
+
+teams:
+# Spain
+- valencia
+- athletic
+- atletico
+# Deutschland
+- schalke
+- hannover
+# More
+- alkmaar
+- sporting
+- metalist

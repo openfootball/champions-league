@@ -1,0 +1,32 @@
+#################################################
+# Champions League 2013/14 - Play-off Round
+
+
+(1) Play-off Round  / 1st Leg  //  Tu+We 20-21 August 2013
+
+Tu, 2013-08-20 17:00   FC Shakhter Karagandy  2-0  Celtic FC
+Tu, 2013-08-20 20:45   Olympique Lyonnais     0-2  Real Sociedad
+Tu, 2013-08-20 20:45   FC Paços de Ferreira   1-4  FC Zenit
+Tu, 2013-08-20 20:45   PSV Eindhoven          1-1  AC Milan
+Tu, 2013-08-20 20:45   FC Viktoria Plzeň      3-1  NK Maribor
+
+We, 2013-08-21 20:45   GNK Dinamo Zagreb      0-2  Austria Wien
+We, 2013-08-21 20:45   PFC Ludogorets Razgrad 2-4  FC Basel 1893
+We, 2013-08-21 20:45   FC Steaua Bucureşti    1-1  Legia Warszawa
+We, 2013-08-21 20:45   FC Schalke 04          1-1  PAOK FC
+We, 2013-08-21 20:45   Fenerbahçe SK          0-3  Arsenal FC
+
+
+(2) Play-off Round  / 2nd Leg //  Tu+We 27-28 August 2013
+
+Tu, 2013-08-27 20:45   Austria Wien         2-3  GNK Dinamo Zagreb
+Tu, 2013-08-27 20:45   FC Basel 1893        2-0  PFC Ludogorets Razgrad
+Tu, 2013-08-27 20:45   Legia Warszawa       2-2  FC Steaua Bucureşti
+Tu, 2013-08-27 20:45   PAOK FC              2-3  FC Schalke 04
+Tu, 2013-08-27 20:45   Arsenal FC           2-0  Fenerbahçe SK
+
+We, 2013-08-28 18:00   FC Zenit       4-2  FC Paços de Ferreira
+We, 2013-08-28 20:45   AC Milan       3-0  PSV Eindhoven
+We, 2013-08-28 20:45   NK Maribor     0-1  FC Viktoria Plzeň
+We, 2013-08-28 20:45   Celtic FC      3-0  FC Shakhter Karagandy
+We, 2013-08-28 20:45   Real Sociedad  2-0  Olympique Lyonnais

@@ -1,0 +1,39 @@
+#################################
+# Champions League 2011/12
+
+# note: timezone for games (play_at) is *always* CET (central european time)
+
+league:   cl
+season:   2011/12
+start_at: 2011-10-10
+team3:    false
+
+#########
+# Teams
+
+
+teams:
+# Spain
+- madrid
+- barcelona
+# Deutschland
+- bayern
+- leverkusen
+# England
+- chelsea
+- arsenal
+# France
+- marseille
+- lyon
+# Italy
+- inter
+- napoli
+- milan
+# Russia
+- moskva
+- zenit
+# More
+- benfica   # Portugal
+- basel     # Switzerland
+- apoel     # Cyprus
+

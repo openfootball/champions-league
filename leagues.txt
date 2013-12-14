@@ -1,0 +1,6 @@
+########################################
+#  international leagues w/ football clubs teams
+
+cl,                Champions League (Europe)  # change key to europe.cl to match folder structure?
+el,                Europa League              # change key to europe.el to match folder structure?
+

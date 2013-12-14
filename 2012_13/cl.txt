@@ -1,0 +1,301 @@
+#################################
+# Champions League 2012/13
+
+
+
+######################################
+# Gruppenphase (8 Groups x 4 Teams)
+
+Gruppe A  |  Paris Saint-Germain   FC Porto               Dynamo Kiew              Dinamo Zagreb
+Gruppe B  |  FC Schalke 04         FC Arsenal             Olympiakos Piräus        HSC Montpellier
+Gruppe C  |  FC Málaga             AC Mailand             Zenit Sankt Petersburg   RSC Anderlecht
+Gruppe D  |  Borussia Dortmund     Real Madrid            Ajax Amsterdam           Manchester City
+Gruppe E  |  Juventus Turin        Schachtar Donezk       FC Chelsea               FC Nordsjælland
+Gruppe F  |  Bayern München        FC Valencia            BATE Borissow            OSC Lille
+Gruppe G  |  FC Barcelona          Celtic Glasgow         Benfica Lissabon         Spartak Moskau
+Gruppe H  |  Manchester United     Galatasaray Istanbul   CFR Cluj                 SC Braga
+
+
+####################
+# Spieltage
+
+Spieltag 1  // Di./Mi., 18.+19. Sep 2012
+Spieltag 2  // Di./Mi., 2.+3. Okt 2012
+Spieltag 3  // Di./Mi., 23.+24. Okt 2012
+Spieltag 4  // Di./Mi., 6.+7. Nov 2012
+Spieltag 5  // Di./Mi., 20.+21. Nov 2012
+Spieltag 6  // Di./Mi., 4.+5. Dez 2012
+
+
+
+#################################
+# Gruppe A
+
+Spieltag 1 / Gruppe A  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-18 20:45  Dinamo Zagreb       0-2 FC Porto
+2012-09-18 20:45  Paris Saint-Germain 4-1 Dynamo Kiew
+
+Spieltag 2 / Gruppe A  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-03 20:45  Dynamo Kiew 2-0 Dinamo Zagreb
+2012-10-03 20:45  FC Porto    1-0 Paris Saint-Germain
+
+Spieltag 3 / Gruppe A  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-24 20:45  Dinamo Zagreb 0-2 Paris Saint-Germain
+2012-10-24 20:45  FC Porto      3-2 Dynamo Kiew
+
+Spieltag 4 / Gruppe A  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-06 20:45  Dynamo Kiew         0-0 FC Porto
+2012-11-06 20:45  Paris Saint-Germain 4-0 Dinamo Zagreb
+
+Spieltag 5 / Gruppe A  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-21 20:45  Dynamo Kiew 0-2 Paris Saint-Germain
+2012-11-21 20:45  FC Porto    3-0 Dinamo Zagreb
+
+Spieltag 6 / Gruppe A  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-04 20:45  Paris Saint-Germain 2-1 FC Porto
+2012-12-04 20:45  Dinamo Zagreb       1-1 Dynamo Kiew
+
+
+#################################
+# Gruppe B
+
+Spieltag 1 / Gruppe B  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-18 20:45  Montpellier        1-2  Arsenal
+2012-09-18 20:45  Olympiakos Piräus  1-2  Schalke 04
+
+Spieltag 2 / Gruppe B  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-03 20:45  Schalke 04  2-2  Montpellier
+2012-10-03 20:45  Arsenal     3-1  Olympiakos Piräus
+
+Spieltag 3 / Gruppe B  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-24 20:45  Arsenal      0-2  Schalke 04
+2012-10-24 20:45  Montpellier  1-2  Olympiakos Piräus
+
+Spieltag 4 / Gruppe B  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-06 20:45  Schalke 04         2-2  Arsenal
+2012-11-06 20:45  Olympiakos Piräus  3-1  Montpellier
+
+Spieltag 5 / Gruppe B  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-21 20:45  Arsenal     2-0  Montpellier
+2012-11-21 20:45  Schalke 04  1-0  Olympiakos Piräus
+
+Spieltag 6 / Gruppe B  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-04 20:45  Montpellier        1-1  Schalke 04
+2012-12-04 20:45  Olympiakos Piräus  2-1  Arsenal
+
+
+#################################
+# Gruppe C
+
+Spieltag 1 / Gruppe C  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-18 20:45  Málaga  3-0  Zenit St. Petersburg
+2012-09-18 20:45  Milan   0-0  Anderlecht
+
+Spieltag 2 / Gruppe C  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-03 18:00  Zenit St. Petersburg  2-3  Milan
+2012-10-03 20:45  Anderlecht            0-3  Málaga
+
+Spieltag 3 / Gruppe C  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-24 18:00  Zenit St. Petersburg  1-0  Anderlecht
+2012-10-24 20:45  Málaga                1-0  Milan
+
+Spieltag 4 / Gruppe C  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-06 20:45  Anderlecht  1-0  Zenit St. Petersburg
+2012-11-06 20:45  Milan       1-1  Málaga
+
+Spieltag 5 / Gruppe C  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-21 18:00  Zenit St. Petersburg  2-2  Málaga
+2012-11-21 20:45  Anderlecht            1-3  Milan
+
+Spieltag 6 / Gruppe C  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-04 20:45  Málaga  2-2  Anderlecht
+2012-12-04 20:45  Milan   0-1  Zenit St. Petersburg
+
+
+#################################
+# Gruppe D
+
+Spieltag 1 / Gruppe D  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-18 20:45  Borussia Dortmund  1-0  Ajax
+2012-09-18 20:45  Real Madrid        3-2  Manchester City
+
+Spieltag 2 / Gruppe D  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-03 20:45  Manchester City  1-1  Borussia Dortmund
+2012-10-03 20:45  Ajax             1-4  Real Madrid
+
+Spieltag 3 / Gruppe D  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-24 20:45  Ajax               3-1  Manchester City
+2012-10-24 20:45  Borussia Dortmund  2-1  Real Madrid
+
+Spieltag 4 / Gruppe D  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-06 20:45  Manchester City  2-2  Ajax
+2012-11-06 20:45  Real Madrid      2-2  Borussia Dortmund
+
+Spieltag 5 / Gruppe D  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-21 20:45  Ajax             1-4  Borussia Dortmund
+2012-11-21 20:45  Manchester City  1-1  Real Madrid
+
+Spieltag 6 / Gruppe D  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-04 20:45  Borussia Dortmund  1-0  Manchester City
+2012-12-04 20:45  Real Madrid        4-1  Ajax
+
+
+#################################
+# Gruppe E
+
+Spieltag 1 / Gruppe E  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-19 20:45  Schachtar Donezk  2-0  Nordsjælland
+2012-09-19 20:45  Chelsea           2-2  Juventus
+
+Spieltag 2 / Gruppe E  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-02 20:45  Juventus      1-1  Schachtar Donezk
+2012-10-02 20:45  Nordsjælland  0-4  Chelsea
+
+Spieltag 3 / Gruppe E  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-23 20:45  Nordsjælland      1-1  Juventus
+2012-10-23 20:45  Schachtar Donezk  2-1  Chelsea
+
+Spieltag 4 / Gruppe E  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-07 20:45  Juventus  4-0  Nordsjælland
+2012-11-07 20:45  Chelsea   3-2  Schachtar Donezk
+
+Spieltag 5 / Gruppe E  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-20 20:45  Nordsjælland  2-5  Schachtar Donezk
+2012-11-20 20:45  Juventus      3-0  Chelsea
+
+Spieltag 6 / Gruppe E  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-05 20:45  Schachtar Donezk  0-1  Juventus
+2012-12-05 20:45  Chelsea           6-1  Nordsjælland
+
+
+#################################
+# Gruppe F
+
+Spieltag 1 / Gruppe F  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-19 20:45  OSC Lille       1-3  BATE Borissow
+2012-09-19 20:45  Bayern München  2-1  Valencia
+
+Spieltag 2 / Gruppe F  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-02 20:45  Valencia       2-0  OSC Lille
+2012-10-02 20:45  BATE Borissow  3-1  Bayern München
+
+Spieltag 3 / Gruppe F  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-23 20:45  BATE Borissow  0-3  Valencia
+2012-10-23 20:45  OSC Lille      0-1  Bayern München
+
+Spieltag 4 / Gruppe F  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-07 20:45  Valencia        4-2  BATE Borissow
+2012-11-07 20:45  Bayern München  6-1  OSC Lille
+
+Spieltag 5 / Gruppe F  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-20 18:00  BATE Borissow  0-2  OSC Lille
+2012-11-20 20:45  Valencia       1-1  Bayern München
+
+Spieltag 6 / Gruppe F  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-05 20:45  OSC Lille       0-1  Valencia
+2012-12-05 20:45  Bayern München  4-1  BATE Borissow
+
+
+#################################
+# Gruppe G
+
+Spieltag 1 / Gruppe G  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-19 20:45  Barcelona       3-2  Spartak Moskau
+2012-09-19 20:45  Celtic Glasgow  0-0  Benfica
+
+Spieltag 2 / Gruppe G  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-02 18:00  Spartak Moskau  2-3  Celtic Glasgow
+2012-10-02 20:45  Benfica         0-2  Barcelona
+
+Spieltag 3 / Gruppe G  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-23 18:00  Spartak Moskau  2-1  Benfica
+2012-10-23 20:45  Barcelona       2-1  Celtic Glasgow
+
+Spieltag 4 / Gruppe G  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-07 20:45  Benfica         2-0  Spartak Moskau
+2012-11-07 20:45  Celtic Glasgow  2-1  Barcelona
+
+Spieltag 5 / Gruppe G  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-20 18:00  Spartak Moskau  0-3  Barcelona
+2012-11-20 20:45  Benfica         2-1  Celtic Glasgow
+
+Spieltag 6 / Gruppe G  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-05 20:45  Barcelona       0-0  Benfica
+2012-12-05 20:45  Celtic Glasgow  2-1  Spartak Moskau
+
+
+#################################
+# Gruppe H
+
+Spieltag 1 / Gruppe H  // Di./Mi., 18.+19. Sep 2012
+
+2012-09-19 20:45  Manchester United  1-0  Galatasaray
+2012-09-19 20:45  Braga              0-2  CFR Cluj
+
+Spieltag 2 / Gruppe H  // Di./Mi., 2.+3. Okt 2012
+
+2012-10-02 20:45  CFR Cluj     1-2  Manchester United
+2012-10-02 20:45  Galatasaray  0-2  Braga
+
+Spieltag 3 / Gruppe H  // Di./Mi., 23.+24. Okt 2012
+
+2012-10-23 20:45  Galatasaray        1-1  CFR Cluj
+2012-10-23 20:45  Manchester United  3-2  Braga
+
+Spieltag 4 / Gruppe H  // Di./Mi., 6.+7. Nov 2012
+
+2012-11-07 20:45  CFR Cluj  1-3  Galatasaray
+2012-11-07 20:45  Braga     1-3  Manchester United
+
+Spieltag 5 / Gruppe H  // Di./Mi., 20.+21. Nov 2012
+
+2012-11-20 20:45  Galatasaray  1-0  Manchester United
+2012-11-20 20:45  CFR Cluj     3-1  Braga
+
+Spieltag 6 / Gruppe H  // Di./Mi., 4.+5. Dez 2012
+
+2012-12-05 20:45  Manchester United  0-1  CFR Cluj
+2012-12-05 20:45  Braga              1-2  Galatasaray
+
