@@ -1,0 +1,18 @@
+####################
+# all fixtures
+
+leagues:
+- europe-champions-league!/leagues
+
+
+2011_12:
+- europe!/2011_12/cl
+- europe!/2011_12/el
+
+2012_13:
+- europe!/2012_13/cl
+- europe!/2012_13/el
+
+2013_14:
+- europe!/2013_14/cl
+
