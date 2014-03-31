@@ -25,18 +25,32 @@
 
 18.03.2014 20:45 (Tu)  Chelsea FC           2-0  Galatasaray
 18.03.2014 20:45 (Tu)  Real Madrid          3-1  FC Schalke 04
-19.03.2014 20:45 (We)  Manchester United    - Olympiacos
-19.03.2014 20:45 (We)  Borussia Dortmund    - Zenit St. Petersburg
+19.03.2014 20:45 (We)  Manchester United    3-0  Olympiacos
+19.03.2014 20:45 (We)  Borussia Dortmund    1-2  Zenit St. Petersburg
+
+
+(11) Quarter-finals - 1st Leg  // (Tu+We) 1-2 April 2014
+
+01.04.2014 20:45 (Tu)  FC Barcelona        - Atlético Madrid
+01.04.2014 20:45 (Tu)  Manchester United   - Bayern München
+02.04.2014 20:45 (We)  Real Madrid         - Borussia Dortmund
+02.04.2014 20:45 (We)  Paris Saint-Germain - Chelsea FC
+
+
+(12) Quarter-finals - 2nd Leg  // (Tu+We) 8-9 April 2014
+
+08.04.2014 20:45 (Tu)  Borussia Dortmund  - Real Madrid
+08.04.2014 20:45 (Tu)  Chelsea FC         - Paris Saint-Germain
+09.04.2014 20:45 (We)  Atlético Madrid    - FC Barcelona
+09.04.2014 20:45 (We)  Bayern München     - Manchester United
 
 
 
 #### todo: split into 1st Leg and 2nd Leg
 
-(11) Quarter-finals // (Tu+We) 1-2 April 2014, (Tu+We) 8-9 April 2014
+
+(13) Semi-finals  //  (Tu+We) 22-23 April 2014, (Tu+We) 29-30 April 2014
 
 
-(12) Semi-finals  //  (Tu+We) 22-23 April 2014, (Tu+We) 29-30 April 2014
-
-
-(13) Final  //   (Sa) 24 May 2014 @ Estádio da Luz, Lisbon
+(14) Final  //   (Sa) 24 May 2014 @ Estádio da Luz, Lisbon
 
