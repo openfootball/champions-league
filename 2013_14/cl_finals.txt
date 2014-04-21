@@ -31,26 +31,30 @@
 
 (11) Quarter-finals - 1st Leg  // (Tu+We) 1-2 April 2014
 
-01.04.2014 20:45 (Tu)  FC Barcelona        - Atlético Madrid
-01.04.2014 20:45 (Tu)  Manchester United   - Bayern München
-02.04.2014 20:45 (We)  Real Madrid         - Borussia Dortmund
-02.04.2014 20:45 (We)  Paris Saint-Germain - Chelsea FC
+01.04.2014 20:45 (Tu)  FC Barcelona        1-1  Atlético Madrid
+01.04.2014 20:45 (Tu)  Manchester United   1-1  Bayern München
+02.04.2014 20:45 (We)  Real Madrid         3-0  Borussia Dortmund
+02.04.2014 20:45 (We)  Paris Saint-Germain 3-1  Chelsea FC
 
 
 (12) Quarter-finals - 2nd Leg  // (Tu+We) 8-9 April 2014
 
-08.04.2014 20:45 (Tu)  Borussia Dortmund  - Real Madrid
-08.04.2014 20:45 (Tu)  Chelsea FC         - Paris Saint-Germain
-09.04.2014 20:45 (We)  Atlético Madrid    - FC Barcelona
-09.04.2014 20:45 (We)  Bayern München     - Manchester United
+08.04.2014 20:45 (Tu)  Borussia Dortmund  2-0  Real Madrid
+08.04.2014 20:45 (Tu)  Chelsea FC         2-0  Paris Saint-Germain
+09.04.2014 20:45 (We)  Atlético Madrid    1-0  FC Barcelona
+09.04.2014 20:45 (We)  Bayern München     3-1  Manchester United
 
 
+(13) Semi-finals - 1st Leg  //  (Tu+We) 22-23 April 2014
 
-#### todo: split into 1st Leg and 2nd Leg
+22.04.2014 20:45 (Tu)  Atlético Madrid   -  Chelsea FF
+23.04.2014 20:45 (We)  Real Madrid       -  Bayern München
+
+(14) Semi-finals - 2nd Leg  //  (Tu+We) 29-30 April 2014
+
+29.04.2014 20:45 (Tu)  Bayern München    -  Real Madrid
+30.04.2014 20:45 (We)  Chelsea FC        -  Atlético Madrid
 
 
-(13) Semi-finals  //  (Tu+We) 22-23 April 2014, (Tu+We) 29-30 April 2014
-
-
-(14) Final  //   (Sa) 24 May 2014 @ Estádio da Luz, Lisbon
+(15) Final  //   (Sa) 24 May 2014 @ Estádio da Luz, Lisbon
 
