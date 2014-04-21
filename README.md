@@ -15,6 +15,32 @@ Free open public domain football data (football.db) for Europe. Events include:
 - UEFA Champions League
 - UEFA Europa League
 
+Example:
+
+~~~
+####################
+# Champions League
+
+Group A |  Manchester United  Shakhtar Donetsk     Bayer Leverkusen      Real Sociedad
+Group B |  Real Madrid        Juventus             Galatasaray           FC København
+Group C |  Benfica Lisboa     Paris Saint-Germain  Olympiacos            RSC Anderlecht
+Group D |  Bayern München     CSKA Moskva          Manchester City       Viktoria Plzeň
+Group E |  Chelsea FC         FC Schalke 04        FC Basel              Steaua București
+Group F |  Arsenal FC         Olympique Marseille  Borussia Dortmund     SSC Napoli
+Group G |  FC Porto           Atlético Madrid      Zenit St. Petersburg  Austria Wien
+Group H |  FC Barcelona       AC Milan             Ajax Amsterdam        Celtic Glasgow
+
+...
+
+(11) Quarter-finals - 1st Leg
+
+Tu Apr/1 20:45  FC Barcelona        1-1  Atlético Madrid
+Tu Apr/1 20:45  Manchester United   1-1  Bayern München
+We Apr/2 20:45  Real Madrid         3-0  Borussia Dortmund
+We Apr/2 20:45  Paris Saint-Germain 3-1  Chelsea FC
+
+...
+~~~
 
 ## Build Your Own `football.db` Copy
 
