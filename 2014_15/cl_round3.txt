@@ -2,13 +2,23 @@
 # Champions League 2014/15 - Qualifying 3rd Round
 #
 # 30 teams
-# - champions track - 20 teams
+# - champions route - 20 teams
 #      - 3 champions from associations 14–16
 #      - 17 winners from the 2nd qualifying round
 #
-# - non-champions track - 10 teams 
+# - non-champions (league) route - 10 teams 
 #      - 9 runners-up from associations 7–15
 #      - 1 third-placed team from association 6
 
 
-## Third qualifying round    29–30 July 2014   5–6 August 2014
+## Third qualifying round
+
+
+3. Round /  1st Leg  // Tu+We 29+30 Jul
+
+## - Champions Route
+## - League Route
+
+
+3. Round / 2nd Leg  //  Tu+We 5+6 Aug
+
