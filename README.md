@@ -34,10 +34,10 @@ Group H |  FC Barcelona       AC Milan             Ajax Amsterdam        Celtic 
 
 (11) Quarter-finals - 1st Leg
 
-[Tu Apr/1]
+[Tue Apr/1]
   20.45  FC Barcelona        1-1  Atlético Madrid
   20.45  Manchester United   1-1  Bayern München
-[We Apr/2]
+[Wed Apr/2]
   20.45  Real Madrid         3-0  Borussia Dortmund
   20.45  Paris Saint-Germain 3-1  Chelsea FC
 

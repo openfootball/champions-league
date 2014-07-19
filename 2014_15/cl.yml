@@ -1,0 +1,24 @@
+####################################
+# Champions League 2014/15 - Qualifying 1st Round
+#
+#  - en.wikipedia.org/wiki/2014–15_UEFA_Champions_League
+
+#
+# Dates: 1 July – 27 August 2014 (qualifying)
+#       16 September 2014 – 6 June 2015 (competition proper)
+# Teams:  32 (group stage)
+#         77 (total) (from 53 associations)
+
+
+
+
+
+
+teams:
+## First qualifying round (6 teams)
+- levadiatallinn  #  Levadia Tallinn (1st/Estonia)
+- hbtorshavn      #  HB Tórshavn (1st/Faroe Islands)
+- fcsantacoloma   #  FC Santa Coloma (1st/Andorra)
+- banants         #  Banants (1st/Armenia)
+- lafiorita       #  La Fiorita (1st/San Marino)
+- lincolnfc       #  Lincoln Red Imps (1st/Gibraltar)

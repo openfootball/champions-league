@@ -28,22 +28,22 @@ Group H |  FC Barcelona       AC Milan             Ajax Amsterdam        Celtic 
 
 Group A:
 
-[Tu Sep/19]
+[Tue Sep/19]
   20.45   Manchester United  4-2  Bayer Leverkusen
   20.45   Real Sociedad      0-2  Shakhtar Donetsk
-[We Oct/2]
+[Wed Oct/2]
   20.45   Shakhtar Donetsk   1-1  Manchester United
   20.45   Bayer Leverkusen   2-1  Real Sociedad
-[We Oct/23]
+[Wed Oct/23]
   20.45   Bayer Leverkusen   4-0  Shakhtar Donetsk
   20.45   Manchester United  1-0  Real Sociedad
-[Tu Nov/5]
+[Tue Nov/5]
   20.45   Shakhtar Donetsk   0-0  Bayer Leverkusen
   20.45   Real Sociedad      0-0  Manchester United
-[We Nov/27]
+[Wed Nov/27]
   20.45   Bayer Leverkusen   0-5  Manchester United
   20.45   Shakhtar Donetsk   4-0  Real Sociedad
-[Tu Dec/10]
+[Tue Dec/10]
   20.45   Manchester United  1-0 Shakhtar Donetsk
   20.45   Real Sociedad      0-1 Bayer Leverkusen
 
