@@ -2,33 +2,39 @@
 # Europa League 2011/12
 
 
-(1) Viertelfinale / Hinspiele  //   Do 29. März 2012
+(1) Quarter-finals - 1st Leg
 
-2012-03-29 21:05   AZ Alkmaar       2:1  Valencia
-2012-03-29 21:05   Schalke 04       2:4  Athletic Bilbao
-2012-03-29 21:05   Sporting CP      2:1  Metalist Kharkiv
-2012-03-29 21:05   Atlético Madrid  2:1  Hannover 96
+[Thu Mar/29]
+  21.05   AZ Alkmaar       2-1  Valencia
+  21.05   Schalke 04       2-4  Athletic Bilbao
+  21.05   Sporting CP      2-1  Metalist Kharkiv
+  21.05   Atlético Madrid  2-1  Hannover 96
 
-(2) Viertelfinale / Rückspiele //   Do  5. April 2012
+(2) Quarter-finals - 2nd Leg
 
-2012-04-05 21:05  Valencia          4:0  AZ Alkmaar
-2012-04-05 21:05  Athletic Bilbao   2:2  Schalke 04
-2012-04-05 21:05  Metalist Kharkiv  1:1  Sporting CP
-2012-04-05 21:05  Hannover 96       1:2  Atlético Madrid
-
-
-(3) Halbfinale    / Hinspiele  //   Do 19. April 2012
-
-2012-04-19 21:05   Atlético Madrid  4:2  Valencia
-2012-04-19 21:05   Sporting CP      2:1  Athletic Bilbao
-
-(4) Halbfinale    / Rückspiele //   Do 26. April 2012
-
-2012-04-26 21:05   Valencia         0:1  Atlético Madrid
-2012-04-26 21:05   Athletic Bilbao  3:1  Sporting CP
+[Thu Apr/5]
+  21.05   Valencia          4-0  AZ Alkmaar
+  21.05   Athletic Bilbao   2-2  Schalke 04
+  21.05   Metalist Kharkiv  1-1  Sporting CP
+  21.05   Hannover 96       1-2  Atlético Madrid
 
 
-(5) Finale                     //   Mi  9. Mai 2012
+(3) Semi-finals - 1st Leg
 
-2012-05-09 20:45   Atlético Madrid  3:0  Athletic Bilbao
+[Thu Apr/19]
+  21.05   Atlético Madrid  4-2  Valencia
+  21.05   Sporting CP      2-1  Athletic Bilbao
+
+(4) Semi-finals - 2nd Leg
+
+[Thu Apr/26]
+  21.05   Valencia         0-1  Atlético Madrid
+  21.05   Athletic Bilbao  3-1  Sporting CP
+
+
+(5) Final
+
+[Wed May/9]
+  20.45   Atlético Madrid  3-0  Athletic Bilbao   @ Arena Națională, Bucharest
+             [Falcao  7', 34' Diego 85']
 

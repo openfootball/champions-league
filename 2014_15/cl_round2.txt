@@ -11,7 +11,7 @@
 ## note: all times are CEST (UTC+2)
 
 
-2. Round /  1st Leg    //  Tu+We 15+16 July 2014
+2. Round /  1st Leg
 
 [Tue Jul/15]
   18.30   Valletta           0-1  Qarabağ           @ Ta' Qali National Stadium, Ta' Qali
@@ -35,7 +35,7 @@
   20.45   Legia Warszawa       1-1  St Patrick's Athletic  @ Pepsi Arena, Warszawa
 
 
-2. Round /  2nd Leg    //  Tu+We 22+23 July 2014
+2. Round /  2nd Leg
 
 [Tue Jul/22]
   17.30   Sutjeska Nikšić   v  Sheriff Tiraspol    @ Stadion kraj Bistrice, Nikšić
@@ -47,8 +47,8 @@
   20.00   Skënderbeu Korçë  v  BATE Borisov        @ Stadiumi Skënderbeu, Korçë
   20.00   HB Tórshavn       v  Partizan            @ Tórsvøllur, Tórshavn
   20.15   Žalgiris Vilnius  v  Dinamo Zagreb       @ LFF stadionas, Vilnius
-  20.30   Debrecen          v  Cliftonville        @  Nagyerdei Stadion, Debrecen
-  20.45   Celtic            v  KR Reykjavík        @  Murrayfield Stadium, Edinburgh
+  20.30   Debrecen          v  Cliftonville        @ Nagyerdei Stadion, Debrecen
+  20.45   Celtic            v  KR Reykjavík        @ Murrayfield Stadium, Edinburgh
 
 [Wed Jul/23]
   17.00   Aktobe            v  Dinamo Tbilisi @ Aktobe Central Stadium, Aktobe

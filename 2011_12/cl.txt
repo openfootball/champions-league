@@ -49,26 +49,34 @@
 
 (4)  Quarter-finals - 2nd Leg   // Tu+We 3.+4.   April 2012
 
-2012-04-03 20.45  Bayern München  2-0  Marseille
-2012-04-03 20.45  FC Barcelona    3-1  Milan
-
-2012-04-04 20.45  Real Madrid     5-2  APOEL
-2012-04-04 20.45  Chelsea         2-1  Benfica
+[Tue Apr/3]
+  20.45  Bayern München  2-0  Marseille
+  20.45  FC Barcelona    3-1  Milan
+[Wed Apr/4]
+  20.45  Real Madrid     5-2  APOEL
+  20.45  Chelsea         2-1  Benfica
 
 
 (5)  Semi-finals - 1st Leg                // Tu+We 17.+18. April 2012
 
-2012-04-17 20.45  Bayern München  2-1  Real Madrid
-2012-04-18 20.45  Chelsea         1-0  FC Barcelona
+[Tue Apr/17]
+  20.45  Bayern München  2-1  Real Madrid   @ Allianz Arena, München
+           [Ribéry 17' Gómez 90'; Özil 53']
+[Wed Apr/18]
+  20.45  Chelsea         1-0  FC Barcelona  @ Stamford Bridge, London
+           [Drogba 45+2']
 
 (6)  Semi-finals - 2nd Leg     // Tu+We 24.+25. April 2012
 
-2012-04-24 20.45  FC Barcelona      2-2  Chelsea
-2012-04-25 20.45  Real Madrid   3-4 pen. 2-1 a.e.t. (2-1, )   Bayern München
+[Tue Apr/24]
+  20.45  FC Barcelona      2-2  Chelsea   @ Camp Nou, Barcelona
+           [Busquets 35' Iniesta 43'; Ramires 45+1' Torres 90+2']
+[Wed Apr/25]
+  20.45  Real Madrid   3-4 pen. 2-1 a.e.t. (2-1, )  Bayern München  @ Santiago Bernabéu Stadium, Madrid
+           [Ronaldo 6' (pen.), 14'; Robben 27' (pen.)]
 
-
-(7)  Final                    // Sa 19. Mai 2012
+(7)  Final
 
 [Sat May/19]
-  20.45  Bayern München   3-4 pen. 1-1 a.e.t. (1-1, )   Chelsea
-
+  20.45  Bayern München   3-4 pen. 1-1 a.e.t. (1-1, ) Chelsea   @ Allianz Arena, München
+            [Müller 83'; Drogba 88']
