@@ -5,57 +5,74 @@
 
 (9) Round of 16 - 1st Leg   //  (Tu+We) 18-19 & 25-26 February 2014
 
-18.02.2014 20:45 (Tu)  Manchester City      0-2  FC Barcelona
-18.02.2014 20:45 (Tu)  Bayer Leverkusen     0-4  Paris Saint-Germain
-19.02.2014 20:45 (We)  AC Milan             0-1  Atlético Madrid
-19.02.2014 20:45 (We)  Arsenal FC           0-2  Bayern München
+[Tu Feb/18]
+  20.45   Manchester City      0-2  FC Barcelona
+  20.45   Bayer Leverkusen     0-4  Paris Saint-Germain
+[We Feb/19]
+  20.45   AC Milan             0-1  Atlético Madrid
+  20.45   Arsenal FC           0-2  Bayern München
 
-25.02.2014 18:00 (Tu)  Zenit St. Petersburg 2-4  Borussia Dortmund
-25.02.2014 20:45 (Tu)  Olympiacos           2-0  Manchester United
-26.02.2014 20:45 (We)  Galatasaray          1-1  Chelsea FC
-26.02.2014 20:45 (We)  FC Schalke 04        1-6  Real Madrid
+[Tu Feb/25]
+  18.00   Zenit St. Petersburg 2-4  Borussia Dortmund
+  20.45   Olympiacos           2-0  Manchester United
+[We Feb/26]
+  20.45   Galatasaray          1-1  Chelsea FC
+  20.45   FC Schalke 04        1-6  Real Madrid
 
 
 (10) Round of 16 - 2nd Leg  //  (Tu+We) 11-12 & 18-19 March 2014
 
-11.03.2014 20:45 (Tu)  Atlético Madrid      4-1  AC Milan
-11.03.2014 20:45 (Tu)  Bayern München       1-1  Arsenal FC
-12.03.2014 20:45 (We)  FC Barcelona         2-1  Manchester City
-12.03.2014 20:45 (We)  Paris Saint-Germain  2-1  Bayer Leverkusen
+[Tu Mar/11]
+  20.45   Atlético Madrid      4-1  AC Milan
+  20.45   Bayern München       1-1  Arsenal FC
+[We Mar/12]
+  20.45   FC Barcelona         2-1  Manchester City
+  20.45   Paris Saint-Germain  2-1  Bayer Leverkusen
 
-18.03.2014 20:45 (Tu)  Chelsea FC           2-0  Galatasaray
-18.03.2014 20:45 (Tu)  Real Madrid          3-1  FC Schalke 04
-19.03.2014 20:45 (We)  Manchester United    3-0  Olympiacos
-19.03.2014 20:45 (We)  Borussia Dortmund    1-2  Zenit St. Petersburg
+[Tu Mar/18]
+  20.45   Chelsea FC           2-0  Galatasaray
+  20.45   Real Madrid          3-1  FC Schalke 04
+[We Mar/19]
+  20.45   Manchester United    3-0  Olympiacos
+  20.45   Borussia Dortmund    1-2  Zenit St. Petersburg
 
 
 (11) Quarter-finals - 1st Leg  // (Tu+We) 1-2 April 2014
 
-01.04.2014 20:45 (Tu)  FC Barcelona        1-1  Atlético Madrid
-01.04.2014 20:45 (Tu)  Manchester United   1-1  Bayern München
-02.04.2014 20:45 (We)  Real Madrid         3-0  Borussia Dortmund
-02.04.2014 20:45 (We)  Paris Saint-Germain 3-1  Chelsea FC
+[Tu Apr/1]
+  20.45   FC Barcelona        1-1  Atlético Madrid
+  20.45   Manchester United   1-1  Bayern München
+[We Apr/2]
+  20.45   Real Madrid         3-0  Borussia Dortmund
+  20.45   Paris Saint-Germain 3-1  Chelsea FC
 
 
 (12) Quarter-finals - 2nd Leg  // (Tu+We) 8-9 April 2014
 
-08.04.2014 20:45 (Tu)  Borussia Dortmund  2-0  Real Madrid
-08.04.2014 20:45 (Tu)  Chelsea FC         2-0  Paris Saint-Germain
-09.04.2014 20:45 (We)  Atlético Madrid    1-0  FC Barcelona
-09.04.2014 20:45 (We)  Bayern München     3-1  Manchester United
+[Tu Apr/8]
+  20.45   Borussia Dortmund  2-0  Real Madrid
+  20.45   Chelsea FC         2-0  Paris Saint-Germain
+[We Apr/9]
+  20.45   Atlético Madrid    1-0  FC Barcelona
+  20.45   Bayern München     3-1  Manchester United
 
 
 (13) Semi-finals - 1st Leg  //  (Tu+We) 22-23 April 2014
 
-22.04.2014 20:45 (Tu)  Atlético Madrid   0-0  Chelsea FC
-23.04.2014 20:45 (We)  Real Madrid       1-0  Bayern München
+[Tu Apr/22]
+  20.45   Atlético Madrid   0-0  Chelsea FC
+[We Apr/23]
+  20.45   Real Madrid       1-0  Bayern München
 
 (14) Semi-finals - 2nd Leg  //  (Tu+We) 29-30 April 2014
 
-29.04.2014 20:45 (Tu)  Bayern München    0-4  Real Madrid
-30.04.2014 20:45 (We)  Chelsea FC        1-3  Atlético Madrid
+[Tu Apr/29]
+  20.45   Bayern München    0-4  Real Madrid
+[We Apr/30]
+  20.45   Chelsea FC        1-3  Atlético Madrid
 
 
 (15) Final
 
-24.05.2014 20:45 (Sa)  Real Madrid     4-1nV 1-1	Atlético Madrid     @ Estádio da Luz, Lisbon
+[Sa May/24]
+  20.45    Real Madrid     4-1 a.e.t. (1-1, )  Atlético Madrid     @ Estádio da Luz, Lisbon

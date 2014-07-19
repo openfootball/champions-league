@@ -1,16 +1,16 @@
-# Champions League, Europa League (Europe)
+# Champions League, Europa League - Europe
 
 ## What's `football.db`?
 
-A free open public domain football (soccer) database & schema
-for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+A free open public domain football database & schema
+for use in any (programming) language (e.g. uses plain text data sets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 
 ## Intro
 
-Free open public domain football data (football.db) for Europe. Events include:
+Free open public domain football data for Europe.
+Intern'l football club tournaments include:
 
 - UEFA Champions League
 - UEFA Europa League
@@ -34,10 +34,12 @@ Group H |  FC Barcelona       AC Milan             Ajax Amsterdam        Celtic 
 
 (11) Quarter-finals - 1st Leg
 
-Tu Apr/1 20:45  FC Barcelona        1-1  Atlético Madrid
-Tu Apr/1 20:45  Manchester United   1-1  Bayern München
-We Apr/2 20:45  Real Madrid         3-0  Borussia Dortmund
-We Apr/2 20:45  Paris Saint-Germain 3-1  Chelsea FC
+[Tu Apr/1]
+  20.45  FC Barcelona        1-1  Atlético Madrid
+  20.45  Manchester United   1-1  Bayern München
+[We Apr/2]
+  20.45  Real Madrid         3-0  Borussia Dortmund
+  20.45  Paris Saint-Germain 3-1  Chelsea FC
 
 ...
 ~~~
@@ -45,7 +47,7 @@ We Apr/2 20:45  Paris Saint-Germain 3-1  Chelsea FC
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text data sets. [More »](http://openfootball.github.io/build.html)
 
 
 
