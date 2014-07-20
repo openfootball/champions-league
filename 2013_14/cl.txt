@@ -11,12 +11,7 @@ Group F |  Arsenal FC         Olympique Marseille  Borussia Dortmund     SSC Nap
 Group G |  FC Porto           Atlético Madrid      Zenit St. Petersburg  Austria Wien
 Group H |  FC Barcelona       AC Milan             Ajax Amsterdam        Celtic Glasgow
 
-
-###############
-# Matchdays
  
-# todo/fix: auto-detect matchday and group from game play_at date
-
 (3) Matchday 1 |  Sep/17 - Sep/18   # Tu+We 17-18 September 2013
 (4) Matchday 2 |  Oct/1 - Oct/2     # Tu+We 1-2 October 2013
 (5) Matchday 3 |  Oct/22 - Oct/23   # Tu+We 22-23 October 2013
@@ -44,245 +39,158 @@ Group A:
   20.45   Bayer Leverkusen   0-5  Manchester United
   20.45   Shakhtar Donetsk   4-0  Real Sociedad
 [Tue Dec/10]
-  20.45   Manchester United  1-0 Shakhtar Donetsk
-  20.45   Real Sociedad      0-1 Bayer Leverkusen
-
-
-############
-# Group B
-
-(3) Matchday 1 / Group B
-
-17.09.2013 20.45 (Tu)  Galatasaray   1-6  Real Madrid
-17.09.2013 20.45 (Tu)  FC København  1-1  Juventus
-
-(4) Matchday 2 / Group B
-
-02.10.2013 20.45 (We)  Juventus      2-2  Galatasaray
-02.10.2013 20.45 (We)  Real Madrid   4-0  FC København
-
-(5) Matchday 3 / Group B
-
-23.10.2013 20.45 (We)  Real Madrid   2-1  Juventus
-23.10.2013 20.45 (We)  Galatasaray   3-1  FC København
-
-(6) Matchday 4 / Group B
-
-05.11.2013 20.45 (Tu)  Juventus      2-2  Real Madrid
-05.11.2013 20.45 (Tu)  FC København  1-0  Galatasaray
-
-(7) Matchday 5 / Group B
-
-27.11.2013 20.45 (We)  Real Madrid   4-1  Galatasaray
-27.11.2013 20.45 (We)  Juventus      3-1  FC København
-
-(8) Matchday 6 / Group B
-
-10.12.2013 20.45 (Tu)  Galatasaray   1-0 Juventus
-10.12.2013 20.45 (Tu)  FC København  0-2 Real Madrid
-
-
-############
-# Group C
-
-(3) Matchday 1 / Group C
-
-17.09.2013 20.45 (Tu)  Olympiacos      1-4  Paris Saint-Germain
-17.09.2013 20.45 (Tu)  Benfica Lisboa  2-0  RSC Anderlecht
-
-(4) Matchday 2 / Group C
-
-02.10.2013 20.45 (We)  Paris Saint-Germain  3-0  Benfica Lisboa
-02.10.2013 20.45 (We)  RSC Anderlecht       0-3  Olympiacos
-
-(5) Matchday 3 / Group C
-
-23.10.2013 20.45 (We)  RSC Anderlecht  0-5  Paris Saint-Germain
-23.10.2013 20.45 (We)  Benfica Lisboa  1-1  Olympiacos
-
-(6) Matchday 4 / Group C
-
-05.11.2013 20.45 (Tu)  Paris Saint-Germain  1-1  RSC Anderlecht
-05.11.2013 20.45 (Tu)  Olympiacos           1-0  Benfica Lisboa
-
-(7) Matchday 5 / Group C
-
-27.11.2013 20.45 (We)  RSC Anderlecht       2-3  Benfica Lisboa
-27.11.2013 20.45 (We)  Paris Saint-Germain  2-1  Olympiacos
-
-(8) Matchday 6 / Group C
-
-10.12.2013 20.45 (Tu)  Benfica Lisboa  2-1 Paris Saint-Germain
-10.12.2013 20.45 (Tu)  Olympiacos      3-1 RSC Anderlecht
-
-
-
-############
-# Group D
-
-(3) Matchday 1 / Group D
-
-17.09.2013 20.45 (Tu)  Bayern München   3-0  CSKA Moskva
-17.09.2013 20.45 (Tu)  Viktoria Plzeň   0-3  Manchester City
-
-(4) Matchday 2 / Group D
-
-02.10.2013 18:00 (We)  CSKA Moskva      3-2  Viktoria Plzeň
-02.10.2013 20.45 (We)  Manchester City  1-3  Bayern München
-
-(5) Matchday 3 / Group D
-
-23.10.2013 18:00 (We)  CSKA Moskva     1-2  Manchester City
-23.10.2013 20.45 (We)  Bayern München  5-0  Viktoria Plzeň
-
-(6) Matchday 4 / Group D
-
-05.11.2013 20.45 (Tu)  Manchester City  5-2  CSKA Moskva
-05.11.2013 20.45 (Tu)  Viktoria Plzeň   0-1  Bayern München
-
-(7) Matchday 5 / Group D
-
-27.11.2013 18:00 (We)  CSKA Moskva      1-3  Bayern München
-27.11.2013 20.45 (We)  Manchester City  4-2  Viktoria Plzeň
-
-(8) Matchday 6 / Group D
-
-10.12.2013 20.45 (Tu)  Bayern München   2-3  Manchester City
-10.12.2013 20.45 (Tu)  Viktoria Plzeň   2-1  CSKA Moskva
-
-
-################
-# Gruppe E
-
-(3) Matchday 1 / Group E
-
-18.09.2013 20.45 (We) Chelsea FC    1-2 FC Basel
-18.09.2013 20.45 (We) FC Schalke 04 3-0 Steaua București
-
-(4) Matchday 2 / Group E
-
-01.10.2013 20.45 (Tu) FC Basel         0-1 FC Schalke 04
-01.10.2013 20.45 (Tu) Steaua București 0-4 Chelsea FC
-
-(5) Matchday 3 / Group E
-
-22.10.2013 20.45 (Tu) FC Schalke 04    0-3 Chelsea FC
-22.10.2013 20.45 (Tu) Steaua București 1-1 FC Basel
-
-(6) Matchday 4 / Group E
-
-06.11.2013 20.45 (We) Chelsea FC      3-0 FC Schalke 04
-06.11.2013 20.45 (We) FC Basel        1-1 Steaua București
-
-(7) Matchday 5 / Group E
-
-26.11.2013 20.45 (Tu) FC Basel         1-0 Chelsea FC
-26.11.2013 20.45 (Tu) Steaua București 0-0 FC Schalke 04
-
-(8) Matchday 6 / Group E
-
-11.12.2013 20.45 (We) FC Schalke 04    2-0  FC Basel
-11.12.2013 20.45 (We) Chelsea FC       1-0  Steaua București
-
-
-###################
-# Gruppe F
-
-(3) Matchday 1 / Group F
-
-18.09.2013 20.45 (We) Olympique Marseille  1-2 Arsenal FC
-18.09.2013 20.45 (We) SSC Napoli           2-1 Borussia Dortmund
-
-(4) Matchday 2 / Group F
-
-01.10.2013 20.45 (Tu) Borussia Dortmund    3-0 Olympique Marseille
-01.10.2013 20.45 (Tu) Arsenal FC           2-0 SSC Napoli
-
-(5) Matchday 3 / Group F
-
-22.10.2013 20.45 (Tu) Arsenal FC           1-2 Borussia Dortmund
-22.10.2013 20.45 (Tu) Olympique Marseille  1-2 SSC Napoli
-
-(6) Matchday 4 / Group F
-
-06.11.2013 20.45 (We) Borussia Dortmund    0-1 Arsenal FC
-06.11.2013 20.45 (We) SSC Napoli           3-2 Olympique Marseille
-
-(7) Matchday 5 / Group F
-
-26.11.2013 20.45 (Tu) Arsenal FC            2-0 Olympique Marseille
-26.11.2013 20.45 (Tu) Borussia Dortmund     3-1 SSC Napoli
-
-(8) Matchday 6 / Group F
-
-11.12.2013 20.45 (We) Olympique Marseille    1-2 Borussia Dortmund
-11.12.2013 20.45 (We) SSC Napoli             2-0 Arsenal FC
-
-
-#######################
-# Gruppe G
-
-(3) Matchday 1 / Group G
-
-18.09.2013 20.45 (We) Atlético Madrid        3-1 Zenit St. Petersburg
-18.09.2013 20.45 (We) Austria Wien           0-1 FC Porto
-
-(4) Matchday 2 / Group G
-
-01.10.2013 20.45 (Tu) FC Porto               1-2 Atlético Madrid
-01.10.2013 20.45 (Tu) Zenit St. Petersburg   0-0 Austria Wien
-
-(5) Matchday 3 / Group G
-
-22.10.2013 20.45 (Tu) FC Porto               0-1 Zenit St. Petersburg
-22.10.2013 20.45 (Tu) Austria Wien           0-3 Atlético Madrid
-
-(6) Matchday 4 / Group G
-
-06.11.2013 20.45 (We) Zenit St. Petersburg    1-1 FC Porto
-06.11.2013 20.45 (We) Atlético Madrid         4-0 Austria Wien
-
-(7) Matchday 5 / Group G
-
-26.11.2013 20.45 (Tu) Zenit St. Petersburg     1-1 Atlético Madrid
-26.11.2013 20.45 (Tu) FC Porto                 1-1 Austria Wien
-
-(8) Matchday 6 / Group G
-
-11.12.2013 20.45 (We) Atlético Madrid         2-0 FC Porto
-11.12.2013 20.45 (We) Austria Wien            4-1 Zenit St. Petersburg
-
-
-#######################
-# Gruppe H
-
-(3) Matchday 1 / Group H
-
-18.09.2013 20.45 (We) FC Barcelona   4-0 Ajax Amsterdam
-18.09.2013 20.45 (We) AC Milan       2-0 Celtic Glasgow
-
-(4) Matchday 2 / Group H
-
-01.10.2013 20.45 (Tu) Ajax Amsterdam   1-1 AC Milan
-01.10.2013 20.45 (Tu) Celtic Glasgow   0-1 FC Barcelona
-
-(5) Matchday 3 / Group H
-
-22.10.2013 20.45 (Tu) AC Milan        1-1 FC Barcelona
-22.10.2013 20.45 (Tu) Celtic Glasgow  2-1 Ajax Amsterdam
-
-(6) Matchday 4 / Group H
-
-06.11.2013 20.45 (We) FC Barcelona     3-1 AC Milan
-06.11.2013 20.45 (We) Ajax Amsterdam   1-0 Celtic Glasgow
-
-(7) Matchday 5 / Group H
-
-26.11.2013 20.45 (Tu) Ajax Amsterdam   2-1 FC Barcelona
-26.11.2013 20.45 (Tu) Celtic Glasgow   0-3 AC Milan
-
-(8) Matchday 6 / Group H
-
-11.12.2013 20.45 (We) AC Milan        0-0 Ajax Amsterdam
-11.12.2013 20.45 (We) FC Barcelona    6-1 Celtic Glasgow
+  20.45   Manchester United  1-0  Shakhtar Donetsk
+  20.45   Real Sociedad      0-1  Bayer Leverkusen
+
+
+Group B:
+
+[Tue Sep/17]
+  20.45   Galatasaray   1-6  Real Madrid
+  20.45   FC København  1-1  Juventus
+[Wed Oct/2]
+  20.45   Juventus      2-2  Galatasaray
+  20.45   Real Madrid   4-0  FC København
+[Wed Oct/23]
+  20.45   Real Madrid   2-1  Juventus
+  20.45   Galatasaray   3-1  FC København
+[Tue Nov/5]
+  20.45   Juventus      2-2  Real Madrid
+  20.45   FC København  1-0  Galatasaray
+[Wed Nov/27]
+  20.45   Real Madrid   4-1  Galatasaray
+  20.45   Juventus      3-1  FC København
+[Tue Dec/10]
+  20.45   Galatasaray   1-0  Juventus
+  20.45   FC København  0-2  Real Madrid
+
+
+Group C:
+
+[Tue Sep/17]
+  20.45   Olympiacos      1-4  Paris Saint-Germain
+  20.45   Benfica Lisboa  2-0  RSC Anderlecht
+[Wed Oct/2]
+  20.45   Paris Saint-Germain  3-0  Benfica Lisboa
+  20.45   RSC Anderlecht       0-3  Olympiacos
+[Wed Oct/23]
+  20.45   RSC Anderlecht  0-5  Paris Saint-Germain
+  20.45   Benfica Lisboa  1-1  Olympiacos
+[Tue Nov/5]
+  20.45   Paris Saint-Germain  1-1  RSC Anderlecht
+  20.45   Olympiacos           1-0  Benfica Lisboa
+[Wed Nov/27]
+  20.45   RSC Anderlecht       2-3  Benfica Lisboa
+  20.45   Paris Saint-Germain  2-1  Olympiacos
+[Tue Dec/10]
+  20.45   Benfica Lisboa  2-1 Paris Saint-Germain
+  20.45   Olympiacos      3-1 RSC Anderlecht
+
+
+Group D:
+
+[Tue Sep/17]
+  20.45   Bayern München   3-0  CSKA Moskva
+  20.45   Viktoria Plzeň   0-3  Manchester City
+[Wed Oct/2]
+  18:00   CSKA Moskva      3-2  Viktoria Plzeň
+  20.45   Manchester City  1-3  Bayern München
+[Wed Oct/23]
+  18:00   CSKA Moskva      1-2  Manchester City
+  20.45   Bayern München   5-0  Viktoria Plzeň
+[Tue Nov/5]
+  20.45   Manchester City  5-2  CSKA Moskva
+  20.45   Viktoria Plzeň   0-1  Bayern München
+[Wed Nov/27]
+  18:00   CSKA Moskva      1-3  Bayern München
+  20.45   Manchester City  4-2  Viktoria Plzeň
+[Tue Dec/10]
+  20.45   Bayern München   2-3  Manchester City
+  20.45   Viktoria Plzeň   2-1  CSKA Moskva
+
+
+Gruppe E:
+
+[Wed Sep/18]
+  20.45  Chelsea FC       1-2  FC Basel
+  20.45  FC Schalke 04    3-0  Steaua București
+[Tue Oct/1]
+  20.45  FC Basel         0-1  FC Schalke 04
+  20.45  Steaua București 0-4  Chelsea FC
+[Tue Oct/22]
+  20.45  FC Schalke 04    0-3  Chelsea FC
+  20.45  Steaua București 1-1  FC Basel
+[Wed Nov/6]
+  20.45  Chelsea FC       3-0  FC Schalke 04
+  20.45  FC Basel         1-1  Steaua București
+[Tue Nov/26]
+  20.45  FC Basel         1-0  Chelsea FC
+  20.45  Steaua București 0-0  FC Schalke 04
+[Wed Dec/11]
+  20.45  FC Schalke 04    2-0  FC Basel
+  20.45  Chelsea FC       1-0  Steaua București
+
+Gruppe F:
+
+[Wed Sep/18]
+  20.45  Olympique Marseille  1-2 Arsenal FC
+  20.45  SSC Napoli           2-1 Borussia Dortmund
+[Tue Oct/1]
+  20.45  Borussia Dortmund    3-0 Olympique Marseille
+  20.45  Arsenal FC           2-0 SSC Napoli
+[Tue Oct/22]
+  20.45  Arsenal FC           1-2 Borussia Dortmund
+  20.45  Olympique Marseille  1-2 SSC Napoli
+[Wed Nov/6]
+  20.45  Borussia Dortmund    0-1 Arsenal FC
+  20.45  SSC Napoli           3-2 Olympique Marseille
+[Tue Nov/26]
+  20.45  Arsenal FC            2-0 Olympique Marseille
+  20.45  Borussia Dortmund     3-1 SSC Napoli
+[Wed Dec/11]
+  20.45  Olympique Marseille    1-2 Borussia Dortmund
+  20.45  SSC Napoli             2-0 Arsenal FC
+
+
+Gruppe G:
+
+[Wed Sep/18]
+  20.45  Atlético Madrid        3-1 Zenit St. Petersburg
+  20.45  Austria Wien           0-1 FC Porto
+[Tue Oct/1]
+  20.45  FC Porto               1-2 Atlético Madrid
+  20.45  Zenit St. Petersburg   0-0 Austria Wien
+[Tue Oct/22]
+  20.45  FC Porto               0-1 Zenit St. Petersburg
+  20.45  Austria Wien           0-3 Atlético Madrid
+[Wed Nov/6]
+  20.45  Zenit St. Petersburg   1-1 FC Porto
+  20.45  Atlético Madrid        4-0 Austria Wien
+[Tue Nov/26]
+  20.45  Zenit St. Petersburg   1-1 Atlético Madrid
+  20.45  FC Porto               1-1 Austria Wien
+[Wed Dec/11]
+  20.45  Atlético Madrid        2-0 FC Porto
+  20.45  Austria Wien           4-1 Zenit St. Petersburg
+
+Gruppe H:
+
+[Wed Sep/18]
+  20.45  FC Barcelona     4-0 Ajax Amsterdam
+  20.45  AC Milan         2-0 Celtic Glasgow
+[Tue Oct/1]
+  20.45  Ajax Amsterdam   1-1 AC Milan
+  20.45  Celtic Glasgow   0-1 FC Barcelona
+[Tue Oct/22]
+  20.45  AC Milan         1-1 FC Barcelona
+  20.45  Celtic Glasgow   2-1 Ajax Amsterdam
+[Wed Nov/6]
+  20.45  FC Barcelona     3-1 AC Milan
+  20.45  Ajax Amsterdam   1-0 Celtic Glasgow
+[Tue Nov/26]
+  20.45  Ajax Amsterdam   2-1 FC Barcelona
+  20.45  Celtic Glasgow   0-3 AC Milan
+[Wed Dec/11]
+  20.45  AC Milan         0-0 Ajax Amsterdam
+  20.45  FC Barcelona     6-1 Celtic Glasgow
 

@@ -32,14 +32,18 @@ Group H |  FC Barcelona       AC Milan             Ajax Amsterdam        Celtic 
 
 ...
 
-(11) Quarter-finals - 1st Leg
+Quarter-finals - 1st Leg
 
 [Tue Apr/1]
-  20.45  FC Barcelona        1-1  Atlético Madrid
-  20.45  Manchester United   1-1  Bayern München
+  20.45   FC Barcelona        1-1  Atlético Madrid     @ Camp Nou, Barcelona
+            [Neymar 71'; Diego 56']
+  20.45   Manchester United   1-1  Bayern München      @ Old Trafford, Manchester
+            [Vidić 58'; Schweinsteiger 67']
 [Wed Apr/2]
-  20.45  Real Madrid         3-0  Borussia Dortmund
-  20.45  Paris Saint-Germain 3-1  Chelsea FC
+  20.45   Real Madrid         3-0  Borussia Dortmund   @ Santiago Bernabéu, Madrid
+            [Bale 3' Isco 27' Ronaldo 57']
+  20.45   Paris Saint-Germain 3-1  Chelsea FC          @ Parc des Princes, Paris
+            [Lavezzi 4' Luiz 61' (o.g.) Pastore 90+3'; Hazard 27' (pen.)]
 
 ...
 ~~~

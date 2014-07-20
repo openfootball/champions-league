@@ -7,6 +7,9 @@ season: 2012/13
 start_at: 2012-09-20
 team3: false
 
+fixtures:
+- el_finals
+
 
 ###############
 # Teams

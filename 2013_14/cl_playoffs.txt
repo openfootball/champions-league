@@ -29,8 +29,8 @@
   20.45   Arsenal FC           2-0  Fenerbahçe SK
 
 [Wed Aug/28]
-  18.00   FC Zenit       4-2  FC Paços de Ferreira
-  20.45   AC Milan       3-0  PSV Eindhoven
-  20.45   NK Maribor     0-1  FC Viktoria Plzeň
-  20.45   Celtic FC      3-0  FC Shakhter Karagandy
-  20.45   Real Sociedad  2-0  Olympique Lyonnais
+  18.00   FC Zenit             4-2  FC Paços de Ferreira
+  20.45   AC Milan             3-0  PSV Eindhoven
+  20.45   NK Maribor           0-1  FC Viktoria Plzeň
+  20.45   Celtic FC            3-0  FC Shakhter Karagandy
+  20.45   Real Sociedad        2-0  Olympique Lyonnais

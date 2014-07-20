@@ -4,14 +4,18 @@
 europe-champions-league!/leagues
 
 
-# -- 2011/12
+# - 2011/12
 europe-champions-league!/2011_12/cl
 europe-champions-league!/2011_12/el
 
-# -- 2012/13
+# - 2012/13
 europe-champions-league!/2012_13/cl
 europe-champions-league!/2012_13/el
 
-# -- 2013/14
+# - 2013/14
+europe-champions-league!/2013_14/cl_quali
 europe-champions-league!/2013_14/cl
 
+# - 2014/15
+europe-champions-league!/2014_15/cl_quali
+europe-champions-league!/2014_15/cl

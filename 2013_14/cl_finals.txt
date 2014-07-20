@@ -37,42 +37,54 @@
   20.45   Borussia Dortmund    1-2  Zenit St. Petersburg
 
 
-(11) Quarter-finals - 1st Leg  // (Tu+We) 1-2 April 2014
+(11) Quarter-finals - 1st Leg
 
 [Tue Apr/1]
-  20.45   FC Barcelona        1-1  Atlético Madrid
-  20.45   Manchester United   1-1  Bayern München
+  20.45   FC Barcelona        1-1  Atlético Madrid     @ Camp Nou, Barcelona
+            [Neymar 71'; Diego 56']
+  20.45   Manchester United   1-1  Bayern München      @ Old Trafford, Manchester
+            [Vidić 58'; Schweinsteiger 67']
 [Wed Apr/2]
-  20.45   Real Madrid         3-0  Borussia Dortmund
-  20.45   Paris Saint-Germain 3-1  Chelsea FC
+  20.45   Real Madrid         3-0  Borussia Dortmund   @ Santiago Bernabéu, Madrid
+            [Bale 3' Isco 27' Ronaldo 57']
+  20.45   Paris Saint-Germain 3-1  Chelsea FC          @ Parc des Princes, Paris
+            [Lavezzi 4' Luiz 61' (o.g.) Pastore 90+3'; Hazard 27' (pen.)]
 
-
-(12) Quarter-finals - 2nd Leg  // (Tu+We) 8-9 April 2014
+(12) Quarter-finals - 2nd Leg
 
 [Tue Apr/8]
-  20.45   Borussia Dortmund  2-0  Real Madrid
-  20.45   Chelsea FC         2-0  Paris Saint-Germain
+  20.45   Borussia Dortmund  2-0  Real Madrid          @ Signal Iduna Park, Dortmund
+            [Reus 24', 37']
+  20.45   Chelsea FC         2-0  Paris Saint-Germain  @ Stamford Bridge, London
+            [Schürrle 32' Ba 87']
 [Wed Apr/9]
-  20.45   Atlético Madrid    1-0  FC Barcelona
-  20.45   Bayern München     3-1  Manchester United
+  20.45   Atlético Madrid    1-0  FC Barcelona         @ Vicente Calderón, Madrid
+            [Koke 5']
+  20.45   Bayern München     3-1  Manchester United    @ Allianz Arena, München
+            [Mandžukić 59' Müller 68' Robben 76'; Evra 57']
 
 
-(13) Semi-finals - 1st Leg  //  (Tu+We) 22-23 April 2014
+(13) Semi-finals - 1st Leg
 
 [Tue Apr/22]
-  20.45   Atlético Madrid   0-0  Chelsea FC
+  20.45   Atlético Madrid   0-0  Chelsea FC        @ Vicente Calderón, Madrid
 [Wed Apr/23]
-  20.45   Real Madrid       1-0  Bayern München
+  20.45   Real Madrid       1-0  Bayern München    @ Santiago Bernabéu, Madrid
+             [Benzema 19']
 
-(14) Semi-finals - 2nd Leg  //  (Tu+We) 29-30 April 2014
+(14) Semi-finals - 2nd Leg
 
 [Tue Apr/29]
-  20.45   Bayern München    0-4  Real Madrid
+  20.45   Bayern München    0-4  Real Madrid       @ Allianz Arena, München
+             [-; Ramos 16', 20' Ronaldo 34', 90']
 [Wed Apr/30]
-  20.45   Chelsea FC        1-3  Atlético Madrid
+  20.45   Chelsea FC        1-3  Atlético Madrid   @ Stamford Bridge, London
+             [Torres 36';  Adrián 44' Costa 60' (pen.) Turan 72']
 
 
 (15) Final
 
 [Sat May/24]
   20.45    Real Madrid     4-1 a.e.t. (1-1, )  Atlético Madrid     @ Estádio da Luz, Lisbon
+             [Ramos 90+3' Bale 110' Marcelo 118' Ronaldo 120' (pen.); Godín 36'] 
+

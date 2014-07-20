@@ -8,6 +8,10 @@ season:   2011/12
 start_at: 2011-10-10
 team3:    false
 
+
+fixtures:
+- cl_finals
+
 #########
 # Teams
 

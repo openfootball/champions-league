@@ -1,84 +1,23 @@
 ####################################
-# Champions League 2014/15 - Qualifying 1st Round
+# Champions League 2014/15
 #
 #  - en.wikipedia.org/wiki/2014–15_UEFA_Champions_League
 
 #
-# Dates: 1 July – 27 August 2014 (qualifying)
-#       16 September 2014 – 6 June 2015 (competition proper)
+# Dates:  16 September 2014 – 6 June 2015 (competition proper)
 # Teams:  32 (group stage)
-#         77 (total) (from 53 associations)
+
+league: cl
+season: 2014/15
+start_at: 2014-09-16
 
 
 fixtures:
-- cl_round1
-- cl_round2
-- cl_round3
-- cl_playoffs
 - cl
 - cl_finals
 
 
 teams:
-## First qualifying round (6 teams)
-- levadiatallinn  #  Levadia Tallinn (1st/Estonia)
-- hbtorshavn      #  HB Tórshavn (1st/Faroe Islands)
-- fcsantacoloma   #  FC Santa Coloma (1st/Andorra)
-- banants         #  Banants (1st/Armenia)
-- lafiorita       #  La Fiorita (1st/San Marino)
-- lincolnfc       #  Lincoln Red Imps (1st/Gibraltar)
-## Second qualifying round (+ 31 teams)
-- praha           #  Sparta Praha (1st/Czech Republic)
-- partizan        #  Partizan (2nd/Serbia)
-- helsinki        #  HJK Helsinki (1st/Finland)
-- sutjeska        #  Sutjeska Nikšić (1st/Montenegro)
-- steaua          #  Steaua București (1st/Romania)
-- bratislava      #  Slovan Bratislava (1st/Slovakia)
-- zrinjski        #  Zrinjski Mostar (1st/Bosnia and Herzegovina)
-- rabotnicki      #  Rabotnički (1st/Macedonia)
-- maccabitelaviv  #  Maccabi Tel Aviv (1st/Israel)
-- stromsgodset    #  Strømsgodset (1st/Norway)
-- sheriff         #  Sheriff Tiraspol (1st/Moldova)
-- skenderbeu      #  Skënderbeu Korçë (1st/Albania)
-- borissow        #  BATE Borisov (1st/Belarus)
-- razgrad         #  Ludogorets Razgrad (1st/Bulgaria)
-- saintpatricks   #  St Patrick's Athletic (1st/Ireland)
-- valletta        #  Valletta (1st/Malta)
-- legiawarszawa   #  Legia Warszawa (1st/Poland)
-- debreceni       #  Debrecen (1st/Hungary)
-- zalgiris        #  Žalgiris Vilnius (1st/Lithuania)
-- dudelange       #  F91 Dudelange (1st/Luxembourg)
-- zagreb          #  Dinamo Zagreb (1st/Croatia)
-- maribor         #  Maribor (1st/Slovenia)
-- # Aktobe (1st/Kazakhstan)
-- # Cliftonville (1st/Northern Ireland)
-- # Malmö FF (1st/Sweden)
-- # Dinamo Tbilisi (1st/Georgia)
-- # Ventspils (1st/Latvia)
-- # The New Saints (1st/Wales)
-- # Celtic (1st/Scotland)
-- # Qarabağ (1st/Azerbaijan)
-- # KR Reykjavík (1st/Iceland)
-### Third qualifying round (+ ?? teams)
-- # APOEL (1st/Cyprus)
-- # Lille (3rd/France)
-- # Beşiktaş (3rd/Turkey)
-- # AEL Limassol (2nd/Cyprus)
-- # Aalborg BK (1st/Denmark)
-- # Dnipro Dnipropetrovsk (2nd/Ukraine)
-- # Standard Liège (2nd/Belgium)
-- # Copenhagen (2nd/Denmark)
--salzburg # RB Salzburg (1st/Austria)
-- # Zenit Saint Petersburg (2nd/Russia)
-- # Panathinaikos (2nd/Greece)
-- # Feyenoord (2nd/Netherlands)
-- # Grasshoppers (2nd/Switzerland)
-### Play-off round (+ ?? teams)
-- # Athletic Bilbao (4th/Spain)
-- # Bayer Leverkusen (4th/Germany)
-- # Porto (3rd/Portugal)
-- # Arsenal (4th/England)
-- # Napoli (3rd/Italy)
 ### Group stage
 - # Real Madrid (3rd/Spain)
 -bayern  # Bayern München (1st/Germany)
