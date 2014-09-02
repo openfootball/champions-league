@@ -1,6 +1,31 @@
 ############################################
 # Champions League 2014/15 - Group stage
 
+#
+# todo- search n replace
+#  Juventus Turin    -> Juventus Torino
+#  Olympiakos Piräus -> Olympiacos Piraeus
+#  
+#  Benfica Lissabon -> Benfica Lisboa
+#  
+#  AS Rom -> AS Roma
+#  ZSKA Moskau -> CSKA Moskva
+#
+#  APOEL Nikosia -> APOEL Nicosia
+#  Sporting Lissabon -> Sporting Lisboa
+#
+#  BATE Baryssau     -> BATE Borisov
+#  Schachtar Donezk  -> Shakhtar Donetsk
+
+Group A |  Atlético Madrid   Juventus Turin     Malmö FF                Olympiakos Piräus
+Group B |  FC Basel          Liverpool FC       PFC Ludogorets Razgrad  Real Madrid
+Group C |  AS Monaco         Bayer Leverkusen   Benfica Lissabon        Zenit St. Petersburg
+Group D |  Arsenal FC        Borussia Dortmund  Galatasaray             RSC Anderlecht
+Group E |  AS Rom            Bayern München     ZSKA Moskau             Manchester City
+Group F |  Ajax Amsterdam    APOEL Nikosia      FC Barcelona            Paris Saint-Germain
+Group G |  Chelsea FC        FC Schalke 04      NK Maribor              Sporting Lissabon
+Group H |  Athletic Bilbao   BATE Baryssau      FC Porto                Schachtar Donezk
+
 
 Matchday 1 | 16-17 September 2014
 Matchday 2 | 30 September-1 October 2014
@@ -9,4 +34,30 @@ Matchday 4 | 4-5 November 2014
 Matchday 5 | 25-26 November 2014
 Matchday 6 | 9-10 December 2014
 
+
+Group A:
+
+[Tue Sep/16]
+  20.45  Olympiakos Piräus - Atlético Madrid
+  20.45  Juventus Turin - Malmö FF
+
+[Wed Oct/1]
+  20.45  Atlético Madrid - Juventus Turin
+  20.45  Malmö FF - Olympiakos Piräus
+
+[Wed Oct/22]
+  20.45  Atlético Madrid - Malmö FF
+  20.45  Olympiakos Piräus - Juventus Turin
+
+[Tue Nov/4]
+  20.45  Malmö FF - Atlético Madrid
+  20.45  Juventus Turin - Olympiakos Piräus
+
+[Wed Nov/26]
+  20.45  Atlético Madrid  - Olympiakos Piräus
+  20.45  Malmö FF  - Juventus Turin
+
+[Tue Dec/9]
+  20.45  Juventus Turin - Atlético Madrid
+  20.45  Olympiakos Piräus - Malmö FF
 
