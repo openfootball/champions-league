@@ -1,30 +1,15 @@
 ############################################
 # Champions League 2014/15 - Group stage
 
-#
-# todo- search n replace
-#  Juventus Turin    -> Juventus Torino
-#  Olympiakos Piräus -> Olympiacos Piraeus
-#  
-#  Benfica Lissabon -> Benfica Lisboa
-#  
-#  AS Rom -> AS Roma
-#  ZSKA Moskau -> CSKA Moskva
-#
-#  APOEL Nikosia -> APOEL Nicosia
-#  Sporting Lissabon -> Sporting Lisboa
-#
-#  BATE Baryssau     -> BATE Borisov
-#  Schachtar Donezk  -> Shakhtar Donetsk
 
-Group A |  Atlético Madrid   Juventus Turin     Malmö FF                Olympiakos Piräus
+Group A |  Atlético Madrid   Juventus Torino    Malmö FF                Olympiacos Piraeus
 Group B |  FC Basel          Liverpool FC       PFC Ludogorets Razgrad  Real Madrid
-Group C |  AS Monaco         Bayer Leverkusen   Benfica Lissabon        Zenit St. Petersburg
+Group C |  AS Monaco         Bayer Leverkusen   Benfica Lisboa          Zenit St. Petersburg
 Group D |  Arsenal FC        Borussia Dortmund  Galatasaray             RSC Anderlecht
-Group E |  AS Rom            Bayern München     ZSKA Moskau             Manchester City
-Group F |  Ajax Amsterdam    APOEL Nikosia      FC Barcelona            Paris Saint-Germain
-Group G |  Chelsea FC        FC Schalke 04      NK Maribor              Sporting Lissabon
-Group H |  Athletic Bilbao   BATE Baryssau      FC Porto                Schachtar Donezk
+Group E |  AS Roma           Bayern München     CSKA Moskva             Manchester City
+Group F |  Ajax Amsterdam    APOEL Nicosia      FC Barcelona            Paris Saint-Germain
+Group G |  Chelsea FC        FC Schalke 04      NK Maribor              Sporting Lisboa
+Group H |  Athletic Bilbao   BATE Borisov       FC Porto                Shakhtar Donetsk
 
 
 Matchday 1 | 16-17 September 2014
@@ -38,26 +23,215 @@ Matchday 6 | 9-10 December 2014
 Group A:
 
 [Tue Sep/16]
-  20.45  Olympiakos Piräus - Atlético Madrid
-  20.45  Juventus Turin - Malmö FF
+  20.45  Olympiacos Piraeus - Atlético Madrid
+  20.45  Juventus Torino - Malmö FF
 
 [Wed Oct/1]
-  20.45  Atlético Madrid - Juventus Turin
-  20.45  Malmö FF - Olympiakos Piräus
+  20.45  Atlético Madrid - Juventus Torino
+  20.45  Malmö FF - Olympiacos Piraeus
 
 [Wed Oct/22]
   20.45  Atlético Madrid - Malmö FF
-  20.45  Olympiakos Piräus - Juventus Turin
+  20.45  Olympiacos Piraeus - Juventus Torino
 
 [Tue Nov/4]
   20.45  Malmö FF - Atlético Madrid
-  20.45  Juventus Turin - Olympiakos Piräus
+  20.45  Juventus Torino - Olympiacos Piraeus
 
 [Wed Nov/26]
-  20.45  Atlético Madrid  - Olympiakos Piräus
-  20.45  Malmö FF  - Juventus Turin
+  20.45  Atlético Madrid  - Olympiacos Piraeus
+  20.45  Malmö FF  - Juventus Torino
 
 [Tue Dec/9]
-  20.45  Juventus Turin - Atlético Madrid
-  20.45  Olympiakos Piräus - Malmö FF
+  20.45  Juventus Torino - Atlético Madrid
+  20.45  Olympiacos Piraeus - Malmö FF
+
+
+Group B:
+
+[Tue Sep/16]
+  20.45  Real Madrid - FC Basel
+  20.45  Liverpool FC - PFC Ludogorets Razgrad
+
+[Wed Oct/1]
+  20.45  FC Basel - Liverpool FC
+  20.45  PFC Ludogorets Razgrad - Real Madrid
+
+[Wed Oct/22]
+  20.45  PFC Ludogorets Razgrad - FC Basel
+  20.45  Liverpool FC - Real Madrid
+
+[Tue Nov/4]
+  20.45  FC Basel - PFC Ludogorets Razgrad
+  20.45  Real Madrid - Liverpool FC
+
+[Wed Nov/26]
+  20.45  FC Basel - Real Madrid
+  20.45  PFC Ludogorets Razgrad - Liverpool FC
+
+[Tue Dec/9]
+  20.45  Liverpool FC - FC Basel
+  20.45  Real Madrid - PFC Ludogorets Razgrad
+
+
+Group C:
+
+[Tue Sep/16]
+  20.45  AS Monaco - Bayer Leverkusen
+  20.45  Benfica Lisboa - Zenit St. Petersburg
+
+[Wed Oct/1]
+  18.00  Zenit St. Petersburg - AS Monaco
+  20.45  Bayer Leverkusen - Benfica Lisboa
+
+[Wed Oct/22]
+  20.45  AS Monaco - Benfica Lisboa
+  20.45  Bayer Leverkusen - Zenit St. Petersburg
+
+[Tue Nov/4]
+  18.00  Zenit St. Petersburg - Bayer Leverkusen
+  20.45  Benfica Lisboa - AS Monaco
+
+[Wed Nov/26]
+  18.00  Zenit St. Petersburg - Benfica Lisboa
+  20.45  Bayer Leverkusen - AS Monaco
+
+[Tue Dec/9]
+  20.45  AS Monaco - Zenit St. Petersburg
+  20.45  Benfica Lisboa - Bayer Leverkusen
+
+
+Group D:
+
+[Tue Sep/16]
+  20.45  Borussia Dortmund - Arsenal FC
+  20.45  Galatasaray - RSC Anderlecht
+
+[Wed Oct/1]
+  20.45  Arsenal FC - Galatasaray
+  20.45  RSC Anderlecht - Borussia Dortmund
+
+[Wed Oct/22]
+  20.45  RSC Anderlecht - Arsenal FC
+  20.45  Galatasaray - Borussia Dortmund
+
+[Tue Nov/4]
+  20.45  Arsenal FC - RSC Anderlecht
+  20.45  Borussia Dortmund - Galatasaray
+
+[Wed Nov/26]
+  20.45  Arsenal FC - Borussia Dortmund
+  20.45  RSC Anderlecht - Galatasaray
+
+[Tue Dec/9]
+  20.45  Galatasaray - Arsenal FC
+  20.45  Borussia Dortmund - RSC Anderlecht
+
+
+Group E:
+
+[Wed Sep/17]
+  20.45  AS Roma - CSKA Moskva
+  20.45  Bayern München - Manchester City
+
+[Tue Sep/30]
+  18.00  CSKA Moskva - Bayern München
+  20.45  Manchester City - AS Roma
+
+[Tue Oct/21]
+  18.00  CSKA Moskva - Manchester City
+  20.45  AS Roma - Bayern München
+
+[Wed Nov/5]
+  20.45  Bayern München - AS Roma
+  20.45  Manchester City - CSKA Moskva
+
+[Tue Nov/25]
+  18.00  CSKA Moskva - AS Roma
+  20.45  Manchester City - Bayern München
+
+[Wed Dec/10]
+  20.45  AS Roma - Manchester City
+  20.45  Bayern München - CSKA Moskva
+
+
+Group F:
+
+[Wed Sep/17]
+  20.45  Ajax Amsterdam - Paris Saint-Germain
+  20.45  FC Barcelona - APOEL Nicosia
+
+[Tue Sep/30]
+  20.45  APOEL Nicosia - Ajax Amsterdam
+  20.45  Paris Saint-Germain - FC Barcelona
+
+[Tue Oct/21]
+  20.45  FC Barcelona - Ajax Amsterdam
+  20.45  APOEL Nicosia - Paris Saint-Germain
+
+[Wed Nov/5]
+  20.45  Ajax Amsterdam - FC Barcelona
+  20.45  Paris Saint-Germain - APOEL Nicosia
+
+[Tue Nov/25]
+  20.45  Paris Saint-Germain - Ajax Amsterdam
+  20.45  APOEL Nicosia - FC Barcelona
+
+[Wed Dec/10]
+  20.45  Ajax Amsterdam - APOEL Nicosia
+  20.45  FC Barcelona - Paris Saint-Germain
+
+
+Group G:
+
+[Wed Sep/17]
+  20.45  Chelsea FC - FC Schalke 04
+  20.45  NK Maribor - Sporting Lisboa
+
+[Tue Sep/30]
+  20.45  Sporting Lisboa - Chelsea FC
+  20.45  FC Schalke 04 - NK Maribor
+
+[Tue Oct/21]
+  20.45  Chelsea FC - NK Maribor
+  20.45  FC Schalke 04 - Sporting Lisboa
+
+[Wed Nov/5]
+  20.45  NK Maribor - Chelsea FC
+  20.45  Sporting Lisboa - FC Schalke 04
+
+[Tue Nov/25]
+  20.45  FC Schalke 04 - Chelsea FC
+  20.45  Sporting Lisboa - NK Maribor
+
+[Wed Dec/10]
+  20.45  Chelsea FC - Sporting Lisboa
+  20.45  NK Maribor - FC Schalke 04
+
+
+Group H:
+
+[Wed Sep/17]
+  20.45  Athletic Bilbao - Shakhtar Donetsk
+  20.45  FC Porto - BATE Borisov
+
+[Tue Sep/30]
+  20.45  BATE Borisov - Athletic Bilbao
+  20.45  Shakhtar Donetsk - FC Porto
+
+[Tue Oct/21]
+  20.45  FC Porto - Athletic Bilbao
+  20.45  BATE Borisov - Shakhtar Donetsk
+
+[Wed Nov/5]
+  20.45  Athletic Bilbao - FC Porto
+  20.45  Shakhtar Donetsk - BATE Borisov
+
+[Tue Nov/25]
+  18.00  BATE Borisov - FC Porto
+  20.45  Shakhtar Donetsk - Athletic Bilbao
+
+[Wed Dec/10]
+  20.45  Athletic Bilbao - BATE Borisov
+  20.45  FC Porto - Shakhtar Donetsk
 

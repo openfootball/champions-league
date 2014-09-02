@@ -18,7 +18,7 @@ fixtures:
 
 
 teams:
-### Group stage (20 ?? teams fix)
+### Group stage (22 ?? teams fix)
 - madrid       # Real Madrid (3rd/Spain)
 - bayern       # Bayern München (1st/Germany)
 - sporting     # Sporting CP (2nd/Portugal)
@@ -41,5 +41,15 @@ teams:
 - chelsea      # Chelsea (3rd/England)
 - benfica      # Benfica (1st/Portugal)
 - ajax         # Ajax (1st/Netherlands)
-### Group stage (12 ?? from playoffs)
+### Group stage (10 ?? from playoffs)
+- malmoe       # Malmö FF (1st/Sweden)
+- ludogorets   # PFC Ludogorets Razgrad (?/Bulgaria)
+- zenit        # Zenit St. Petersburg (?/Russia)
+- leverkusen   # Bayer 04 Leverkusen (4th/Germany)
+- arsenal      # Arsenal (?/England)
+- apoel        # APOEL (?/Cyprus)
+- maribor      # NK Maribor (?/Slovenia)
+- porto        # FC Porto (?/Portugal)
+- athletic     # Athletic Bilbao (?/Spain)
+- borissow     # BATE Borissow (?/Belarus)
 
