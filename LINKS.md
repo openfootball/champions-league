@@ -1,5 +1,5 @@
 
-## UEFA Champions League
+## UEFA Champions League (1992/93 - )
 
 Official site - [`www.uefa.com/uefachampionsleague`](http://www.uefa.com/uefachampionsleague)
 
@@ -24,13 +24,13 @@ Champions League 2011/12
 ### Wikipedia
 
 
-- [2012–13_UEFA_Champions_League](http://en.wikipedia.org/wiki/2012–13_UEFA_Champions_League)
-    - [Knockout_phase](http://en.wikipedia.org/wiki/2012–13_UEFA_Champions_League_knockout_phase)
-- [2011-12_UEFA_Champions_League](http://en.wikipedia.org/wiki/2011–12_UEFA_Champions_League)
-    - [Knockout_phase](http://en.wikipedia.org/wiki/2011–12_UEFA_Champions_League_knockout_phase)
+- [2012–13 UEFA Champions League](http://en.wikipedia.org/wiki/2012–13_UEFA_Champions_League)
+    - [Knockout phase](http://en.wikipedia.org/wiki/2012–13_UEFA_Champions_League_knockout_phase)
+- [2011-12 UEFA Champions League](http://en.wikipedia.org/wiki/2011–12_UEFA_Champions_League)
+    - [Knockout phase](http://en.wikipedia.org/wiki/2011–12_UEFA_Champions_League_knockout_phase)
 
 
-## Europa League
+## Europa League (1992/93 - )
 
 Official site - [`www.uefa.com/uefaeuropaleague`](http://www.uefa.com/uefaeuropaleague)
 
@@ -51,9 +51,17 @@ Europa League 2011/12
 
 ### Wikipedia
 
-- [2012–13_UEFA_Europa_League](http://en.wikipedia.org/wiki/2012–13_UEFA_Europa_League)
-    - [Knockout_phase](http://en.wikipedia.org/wiki/2012–13_UEFA_Europa_League_knockout_phase)
-- [2011-12_UEFA_Europa_League](http://en.wikipedia.org/wiki/2011–12_UEFA_Europa_League)
-    - [Knockout_phase](http://en.wikipedia.org/wiki/2011–12_UEFA_Europa_League_knockout_phase)
+- [2012–13 UEFA Europa League](http://en.wikipedia.org/wiki/2012–13_UEFA_Europa_League)
+    - [Knockout phase](http://en.wikipedia.org/wiki/2012–13_UEFA_Europa_League_knockout_phase)
+- [2011-12 UEFA Europa League](http://en.wikipedia.org/wiki/2011–12_UEFA_Europa_League)
+    - [Knockout phase](http://en.wikipedia.org/wiki/2011–12_UEFA_Europa_League_knockout_phase)
 
+
+## European Cup (1955/56 - 1991/92)
+
+### Wikipedia
+
+- [1955–56 European Cup](http://en.wikipedia.org/wiki/1955–56_European_Cup)
+- [1956–57 European_Cup](http://en.wikipedia.org/wiki/1956–57_European_Cup)
+- [1957–58 European_Cup](http://en.wikipedia.org/wiki/1957–58_European_Cup)
 
