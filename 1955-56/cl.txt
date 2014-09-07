@@ -1,0 +1,24 @@
+#################################
+# European Champion Clubs' Cup
+
+
+Semi-finals, 1st leg
+
+[Apr/4]
+  Stade Reims  2-0  Hibernian FC
+[Apr/19]
+  Real Madrid  4-2  AC Milan
+
+Semi-finals, 2nd leg
+
+[Apr/18]
+  Hibernian FC  0-1  Stade Reims
+[May/1]
+  AC Milan      2-1  Real Madrid
+
+
+Final
+
+[Jun/13]
+  Real Madrid   4-3 (2-2)   Stade Reims     @  Stadium Parc des Princes, Paris
+
