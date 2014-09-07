@@ -1,0 +1,37 @@
+############################
+# Atlético Madrid / Spain
+
+
+## Goalkeepers
+
+1   Miguel Ángel Moyà
+13  Jan Oblak
+
+## Defenders
+
+2   Diego Godín
+3   Guilherme Siqueira
+15  Cristian Ansaldi
+18  Jesús Gámez
+20  Juanfran
+23  Miranda
+24  José María Giménez
+
+
+## Midfielders
+
+4   Mario Suárez
+5   Tiago
+6   Koke
+7   Antoine Griezmann
+8   Raúl García
+10  Arda Turan
+14  Gabi
+17  Saúl Ñíguez
+21  Cristian Rodríguez
+
+## Forwards
+
+9   Mario Mandžukić
+11  Raúl Jiménez
+22  Alessio Cerci

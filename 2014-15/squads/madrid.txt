@@ -1,0 +1,40 @@
+##################################
+# Real Madrid CF / Spain
+
+
+## Goalkeepers
+
+1   Iker Casillas
+13  Keylor Navas
+25  Fernando Pacheco
+
+## Defenders
+
+2   Raphaël Varane
+3   Pepe
+4   Sergio Ramos
+5   Fábio Coentrão
+12  Marcelo
+15  Dani Carvajal
+17  Álvaro Arbeloa
+18  Nacho
+28  Guillermo Varela
+30  Abner
+
+## Midfielders
+
+6   Sami Khedira
+8   Toni Kroos
+10  James Rodríguez
+11  Gareth Bale
+19  Luka Modrić
+23  Isco
+24  Asier Illarramendi 
+
+## Forwards
+
+7   Cristiano Ronaldo
+9   Karim Benzema
+14  Javier Hernández
+20  Jesé
+29  Eero Markkanen

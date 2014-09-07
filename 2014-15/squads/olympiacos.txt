@@ -1,0 +1,37 @@
+######################################
+# Olympiacos FC / Greece
+
+## Goalkeepers
+
+16  Roberto
+42  Balázs Megyeri
+
+## Defenders
+
+2   Giannis Maniatis
+3   Alberto Botía
+14  Omar Elabdellaoui
+20  Kostas Giannoulis
+22  Éric Abidal
+23  Dimitris Siovas
+24  Tassos Avlonitis
+26  Arthur Masuaku
+30  Leandro Salino
+
+## Midfielders
+
+5   Luka Milivojević
+6   Ibrahim Afellay
+8   Delvin N'Dinga
+9   Jimmy Durmaz
+10  Alejandro Domínguez
+11  Pajtim Kasami
+18  Andreas Bouchalakis
+19  David Fuster
+
+## Forwards
+
+7   Kostas Mitroglou
+17  Dimitris Diamantakos
+27  Jorge Benitez
+

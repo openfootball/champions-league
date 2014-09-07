@@ -1,0 +1,39 @@
+##############################
+# Juventus Torino / Italy
+
+
+## Goalkeepers
+
+1   Gianluigi Buffon
+30  Marco Storari
+34  Rubinho
+
+## Defenders
+
+3   Giorgio Chiellini
+4   Martín Cáceres
+5   Angelo Ogbonna
+15  Andrea Barzagli
+19  Leonardo Bonucci
+26  Stephan Lichtsteiner
+33  Patrice Evra
+
+## Midfielders
+
+2   Rômulo
+7   Simone Pepe
+8   Claudio Marchisio
+20  Simone Padoin
+21  Andrea Pirlo
+22  Kwadwo Asamoah
+23  Arturo Vidal
+37  Roberto Pereyra
+39  Luca Marrone
+
+## Forwards
+
+9   Álvaro Morata
+10  Carlos Tévez
+11  Kingsley Coman
+12  Sebastian Giovinco
+14  Fernando Llorente

@@ -1,0 +1,36 @@
+#########################################
+# PFC Ludogorets Razgrad / Bulgaria
+
+
+## Goalkeepers
+
+21  Vladislav Stoyanov
+91  Ivan Čvorović
+
+## Defenders
+
+5   Alexandre Barthe
+15  Aleksandar Aleksandrov
+16  Brayan Angulo
+25  Yordan Minev
+27  Cosmin Moţi
+55  Georgi Terziev
+80  Júnior Caiçara
+
+## Midfielders
+
+8   Fábio Espinho
+12  Anicet Abel
+17  Dani Abalo
+18  Svetoslav Dyakov
+23  Hristo Zlatinski
+84  Marcelinho
+88  Wanderson
+
+## Forwards
+
+7   Mihail Aleksandrov
+9   Roman Bezjak
+11  Júnior Quixadá
+93  Virgil Misidjan
+99  Younes Hamza

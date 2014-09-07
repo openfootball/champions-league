@@ -1,0 +1,38 @@
+##################################
+# Liverpool FC / England
+
+
+## Goalkeepers
+
+1   Brad Jones
+22  Simon Mignolet
+
+## Defenders
+
+2   Glen Johnson
+3   José Enrique
+4   Kolo Touré
+6   Dejan Lovren
+17  Mamadou Sakho
+18  Alberto Moreno
+19  Javi Manquillo
+37  Martin Škrtel
+
+## Midfielders
+
+8   Steven Gerrard
+10  Coutinho
+14  Jordan Henderson
+20  Adam Lallana
+21  Lucas
+23  Emre Can
+24  Joe Allen
+50  Lazar Marković
+
+## Forwards
+
+9   Rickie Lambert
+15  Daniel Sturridge
+29  Fabio Borini
+45  Mario Balotelli
+

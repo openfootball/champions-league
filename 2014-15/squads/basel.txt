@@ -1,0 +1,37 @@
+##################################
+# FC Basel 1893 / Switzerland
+
+## Goalkeepers
+
+1   Tomáš Vaclík
+18  Germano Vailati
+
+## Defenders
+
+4   Philipp Degen
+6   Walter Samuel
+15  Ivan Ivanov
+16  Fabian Schär
+17  Marek Suchý
+19  Behrang Safari
+
+## Midfielders
+
+7   Luca Zuffi
+8   Serey Die
+10  Matías Delgado
+20  Fabian Frei
+21  Marcelo Díaz
+24  Ahmed Hamoudi
+33  Mohamed Elneny 
+34  Taulant Xhaka
+39  Davide Calla
+
+## Forwards
+
+9   Marco Streller
+11  Shkelzen Gashi
+14  Yoichiro Kakitani
+25  Derlis Gonzalez
+30  Giovanni Sio
+
