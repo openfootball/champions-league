@@ -1,0 +1,39 @@
+##########################################
+#  Borussia Dortmund / Germany
+
+## Goalkeepers
+
+1   Roman Weidenfeller
+22  Mitchell Langerak
+33  Zlatan Alomerović
+
+## Defenders
+
+3   Marc Hornschuh
+4   Neven Subotić
+15  Mats Hummels
+25  Sokratis Papastathopoulos
+26  Łukasz Piszczek
+28  Matthias Ginter
+29  Marcel Schmelzer
+37  Erik Durm
+
+## Midfielders
+
+5   Sebastian Kehl
+6   Sven Bender
+7   Shinji Kagawa
+8   İlkay Gündoğan
+11  Marco Reus
+14  Miloš Jojić
+16  Jakub Błaszczykowski
+18  Nuri Şahin
+19  Kevin Grosskreutz
+21  Oliver Kirch
+
+## Forwards
+
+9   Ciro Immobile
+10  Henrikh Mkhitaryan
+17  Pierre-Emerick Aubameyang
+20  Adrián Ramos

@@ -1,0 +1,38 @@
+############################################
+# Bayer 04 Leverkusen / Germany
+
+## Goalkeepers
+
+1   Bernd Leno
+25  Dario Krešić
+36  Niklas Lomb
+
+## Defenders
+
+5   Emir Spahić
+13  Roberto Hilbert
+14  Kyriakos Papadopoulos
+16  Tin Jedvaj
+17  Sebastian Boenisch
+18  Wendell
+21  Ömer Toprak
+26  Giulio Donati
+
+## Midfielders
+
+3   Stefan Reinartz
+6   Simon Rolfes
+8   Lars Bender
+10  Hakan Çalhanoğlu
+15  Levin Öztunali
+27  Gonzalo Castro
+35  Vladlen Yurchenko
+38  Karim Bellarabi
+
+## Forwards
+
+7   Son Heung-Min
+9   Josip Drmic
+11  Stefan Kiessling
+19  Julian Brandt
+23  Robbie Kruse
