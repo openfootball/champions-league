@@ -3,35 +3,35 @@
 
 ## Goalkeepers
 
-1   Tomáš Vaclík
+1   Tomáš Vaclík     (CZE)
 18  Germano Vailati
 
 ## Defenders
 
 4   Philipp Degen
-6   Walter Samuel
-15  Ivan Ivanov
+6   Walter Samuel    (ARG)
+15  Ivan Ivanov      (BUL)
 16  Fabian Schär
-17  Marek Suchý
-19  Behrang Safari
+17  Marek Suchý      (CZE)
+19  Behrang Safari   (SWE)
 
 ## Midfielders
 
 7   Luca Zuffi
-8   Serey Die
-10  Matías Delgado
+8   Serey Die         (CIV)
+10  Matías Delgado    (ARG)
 20  Fabian Frei
-21  Marcelo Díaz
-24  Ahmed Hamoudi
-33  Mohamed Elneny 
-34  Taulant Xhaka
+21  Marcelo Díaz      (CHI)
+24  Ahmed Hamoudi     (EGY)
+33  Mohamed Elneny    (EGY)
+34  Taulant Xhaka     (ALB)
 39  Davide Calla
 
 ## Forwards
 
 9   Marco Streller
-11  Shkelzen Gashi
-14  Yoichiro Kakitani
-25  Derlis Gonzalez
-30  Giovanni Sio
+11  Shkelzen Gashi     (ALB)
+14  Yoichiro Kakitani  (JPN)
+25  Derlis Gonzalez    (PAR)
+30  Giovanni Sio       (CIV)
 

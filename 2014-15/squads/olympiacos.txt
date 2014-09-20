@@ -3,35 +3,37 @@
 
 ## Goalkeepers
 
-16  Roberto
-42  Balázs Megyeri
+16  Roberto           (ESP)
+42  Balázs Megyeri    (HUN)
+
 
 ## Defenders
 
 2   Giannis Maniatis
-3   Alberto Botía
-14  Omar Elabdellaoui
+3   Alberto Botía     (ESP)
+14  Omar Elabdellaoui (NOR)
 20  Kostas Giannoulis
-22  Éric Abidal
+22  Éric Abidal       (FRA)
 23  Dimitris Siovas
 24  Tassos Avlonitis
-26  Arthur Masuaku
-30  Leandro Salino
+26  Arthur Masuaku    (FRA)
+30  Leandro Salino    (BRA)
+
 
 ## Midfielders
 
-5   Luka Milivojević
-6   Ibrahim Afellay
-8   Delvin N'Dinga
-9   Jimmy Durmaz
-10  Alejandro Domínguez
-11  Pajtim Kasami
+5   Luka Milivojević  (SRB)
+6   Ibrahim Afellay   (NED)
+8   Delvin N'Dinga    (CGO)
+9   Jimmy Durmaz      (SWE)
+10  Alejandro Domínguez (ARG)
+11  Pajtim Kasami     (SUI)
 18  Andreas Bouchalakis
-19  David Fuster
+19  David Fuster      (ESP)
 
 ## Forwards
 
 7   Kostas Mitroglou
 17  Dimitris Diamantakos
-27  Jorge Benitez
+27  Jorge Benitez     (PAR)
 
