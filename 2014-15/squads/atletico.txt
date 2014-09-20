@@ -5,33 +5,33 @@
 ## Goalkeepers
 
 1   Miguel Ángel Moyà
-13  Jan Oblak
+13  Jan Oblak           (SLO)
 
 ## Defenders
 
-2   Diego Godín
-3   Guilherme Siqueira
-15  Cristian Ansaldi
+2   Diego Godín         (URU)
+3   Guilherme Siqueira  (BRA)
+15  Cristian Ansaldi    (ARG)
 18  Jesús Gámez
 20  Juanfran
-23  Miranda
-24  José María Giménez
+23  Miranda             (BRA)
+24  José María Giménez  (URU)
 
 
 ## Midfielders
 
 4   Mario Suárez
-5   Tiago
+5   Tiago               (POR)
 6   Koke
-7   Antoine Griezmann
+7   Antoine Griezmann   (FRA)
 8   Raúl García
-10  Arda Turan
+10  Arda Turan          (TUR)
 14  Gabi
 17  Saúl Ñíguez
-21  Cristian Rodríguez
+21  Cristian Rodríguez  (URU)
 
 ## Forwards
 
-9   Mario Mandžukić
-11  Raúl Jiménez
-22  Alessio Cerci
+9   Mario Mandžukić     (CRO)
+11  Raúl Jiménez        (MEX)
+22  Alessio Cerci       (ITA)

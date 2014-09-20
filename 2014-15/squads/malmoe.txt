@@ -3,7 +3,7 @@
 
 ## Goalkeepers
 
-25  Robin Olsen
+25  Robin Olsen      (DEN)
 27  Zlatan Azinovic
 
 ## Defenders
@@ -12,14 +12,14 @@
 3   Anton Tinnerholm
 4   Filip Helander
 18  Johan Hammar
-20  Ricardinho
+20  Ricardinho       (BRA)
 21  Erik Johansson
 
 ## Midfielders
 
-6   Markus Halsti
+6   Markus Halsti    (FIN)
 7   Magnus Eriksson
-8   Enoch Adu
+8   Enoch Adu        (GHA)
 11  Simon Thern
 14  Simon Kroon
 22  Amin Nazari
@@ -27,8 +27,8 @@
 
 ## Forwards
 
-9   Markus Rosenberg
+9   Markus Rosenberg  
 24  Isaac Thelin
-26  Agon Mehmeti
+26  Agon Mehmeti    (ALB)
 
 
