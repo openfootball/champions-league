@@ -1,0 +1,37 @@
+##################################
+#  PFC CSKA Moskva / Russia
+
+## Goalkeepers
+
+1   Sergei Chepchugov
+35  Igor Akinfeev
+
+## Defenders
+
+2   Mário Fernandes
+4   Sergei Ignashevich
+6   Aleksei Berezutski
+14  Kirill Nababkin
+24  Vasili Berezutski
+42  Georgi Schennikov
+
+## Midfielders
+
+3   Pontus Wernbloom
+7   Zoran Tošić
+10  Alan Dzagoev
+15  Dmitri Efremov
+19  Aleksandrs Cauņa
+20  Rasmus Elm
+23  Georgi Milanov
+25  Roman Eremenko
+66  Bebras Natcho
+
+## Forwards
+
+8   Kirill Panchenko
+18  Ahmed Musa
+31  Vitinho
+71  Konstantin Bazelyuk
+88  Seydou Doumbia
+

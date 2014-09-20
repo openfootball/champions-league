@@ -1,0 +1,40 @@
+###################################
+# Bayern München  /  Germany
+
+## Goalkeepers
+
+1   Manuel Neuer
+22  Tom Starke
+23  Pepe Reina
+
+## Defenders
+
+4   Dante
+5   Medhi Benatia
+13  Rafinha
+17  Jérôme Boateng
+18  Juan Bernat
+21  Philipp Lahm
+27  David Alaba
+28  Holger Badstuber
+
+## Midfielders
+
+3   Xabi Alonso
+6   Thiago Alcántara
+7   Franck Ribéry
+8   Javi Martínez
+11  Xherdan Shaqiri
+19  Mario Götze
+20  Sebastian Rode
+30  Mitchell Weiser
+31  Bastian Schweinsteiger
+
+## Forwards
+
+9   Robert Lewandowski
+10  Arjen Robben
+14  Claudio Pizarro
+24  Sinan Kurt
+25  Thomas Müller
+

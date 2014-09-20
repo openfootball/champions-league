@@ -1,0 +1,37 @@
+#################################
+# Manchester City / England
+
+## Goalkeepers
+
+1   Joe Hart
+13  Willy Caballero
+
+## Defenders
+
+3   Bacary Sagna
+4   Vincent Kompany
+5   Pablo Zabaleta
+11  Aleksandar Kolarov
+20  Eliaquim Mangala
+22  Gaël Clichy
+26  Martín Demichelis
+38  Dedryck Boyata
+
+
+## Midfielders
+
+6   Fernando
+7   James Milner
+8   Samir Nasri
+15  Jesús Navas
+18  Frank Lampard
+21  David Silva
+25  Fernandinho
+42  Yaya Touré
+
+## Forwards
+
+10  Edin Džeko
+16  Sergio Agüero
+35  Stevan Jovetić
+
