@@ -1,0 +1,34 @@
+##########################################
+# Ajax Amsterdam  / Netherlands
+
+## Goalkeepers
+
+22  Jasper Cillessen
+33  Diederik Boer
+
+## Defenders
+
+2   Ricardo van Rhijn
+3   Joël Veltman
+4   Niklas Moisander
+5   Nicolai Boilesen
+6   Mike van der Hoorn
+26  Nick Viergever
+29  Ruben Ligeon
+
+## Midfielders
+
+8   Lerin Duarte
+20  Lasse Schöne
+25  Thulani Serero
+27  Riechedly Bazoer
+32  Niki Zimling
+
+## Forwards
+
+9   Kolbeinn Sigthórsson
+16  Lucas Andersen
+18  Robert Murić
+19  Arek Milik
+21  Anwar El Ghazi
+30  Richairo Zivkovic

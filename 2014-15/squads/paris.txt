@@ -1,0 +1,37 @@
+#####################################
+#  Paris Saint-Germain / France
+
+
+## Goalkeepers
+
+1   Nicolas Douchez
+30  Salvatore Sirigu
+
+## Defenders
+
+2   Thiago Silva
+5   Marquinhos
+6   Zoumana Camara
+17  Maxwell
+19  Serge Aurier
+21  Lucas Digne
+23  Gregory van der Wiel
+32  David Luiz
+
+## Midfielders
+
+4   Yohan Cabaye
+7   Lucas
+8   Thiago Motta
+14  Blaise Matuidi
+20  Clément Chantôme
+24  Marco Verratti
+27  Javier Pastore
+
+## Forwards
+
+9   Edinson Cavani
+10  Zlatan Ibrahimović
+15  Jean-Christophe Bahebeck
+22  Ezequiel Lavezzi
+

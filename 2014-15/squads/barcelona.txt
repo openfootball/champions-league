@@ -1,0 +1,42 @@
+######################################
+#  FC Barcelona / Spain
+
+
+## Goalkeepers
+
+1   Marc-André ter Stegen
+13  Claudio Bravo
+25  Jordi Masip
+
+## Defenders
+
+2   Martín Montoya
+3   Gerard Piqué
+14  Javier Mascherano
+15  Marc Bartra
+16  Douglas
+18  Jordi Alba
+21  Adriano
+22  Daniel Alves
+23  Thomas Vermaelen
+24  Jérémy Mathieu
+33  Diawandou Diagné
+
+## Midfielders
+
+4   Ivan Rakitić
+5   Sergio Busquets
+6   Xavi Hernández
+8   Andrés Iniesta
+12  Rafinha
+20  Sergi Roberto
+30  Alen Halilović
+
+
+## Forwards
+
+7   Pedro Rodríguez
+9   Luis Suárez
+10  Lionel Messi
+11  Neymar
+
