@@ -1,0 +1,34 @@
+###########################################
+#  Chelsea FC / England
+
+## Goalkeepers
+
+1   Petr Čech
+13  Thibaut Courtois
+
+## Defenders
+
+2   Branislav Ivanović
+3   Filipe Luís
+5   Kurt Zouma
+24  Gary Cahill
+26  John Terry
+28  César Azpilicueta
+
+## Midfielders
+
+4   Cesc Fàbregas
+7   Ramires
+8   Oscar
+10  Eden Hazard
+12  John Obi Mikel
+17  Mohamed Salah
+21  Nemanja Matić
+22  Willian
+
+## Forwards
+
+11  Didier Drogba
+14  André Schürrle
+18  Loïc Rémy
+19  Diego Costa

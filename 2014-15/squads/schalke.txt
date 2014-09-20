@@ -1,0 +1,39 @@
+#############################
+#  FC Schalke 04 / Germany
+
+
+## Goalkeepers
+
+1   Ralf Fährmann
+28  Christian Wetklo
+34  Fabian Giefer
+40  Timon Wellenreuther
+
+## Defenders
+
+2   Marvin Friedrich
+3   Jan Kirchhoff
+4   Benedikt Höwedes
+5   Felipe Santana
+15  Dennis Aogo
+22  Atsuto Uchida
+23  Christian Fuchs
+32  Joel Matip
+37  Pascal Itter
+
+## Midfielders
+
+8   Leon Goretzka
+9   Kevin-Prince Boateng
+11  Christian Clemens
+12  Marco Höger
+18  Sidney Sam
+27  Tranquillo Barnetta
+33  Roman Neustädter
+
+## Forwards
+
+13  Eric Maxim Choupo-Moting
+17  Jefferson Farfán
+20  Chinedu Obasi
+25  Klaas-Jan Huntelaar

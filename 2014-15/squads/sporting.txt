@@ -1,0 +1,41 @@
+##########################################
+#  Sporting Clube de Portugal / Portugal
+
+
+## Goalkeepers
+
+1   Rui Patrício
+22  Marcelo
+96  Luís Ribeiro
+
+## Defenders
+
+2   Rami Rabia
+3   Maurício
+4   Jefferson
+26  Paulo Oliveira
+29  Naby Sarr
+33  Jonathan Silva
+41  Cédric
+81  André Geraldes
+
+## Midfielders
+
+8   André Martins
+14  William Carvalho
+23  Adrien Silva
+24  Oriol Rosell
+27  Ryan Gauld
+32  Simeon Slavchev
+
+## Forwards
+
+9   Islam Slimani
+10  Fredy Montero
+11  Diego Capel
+18  André Carrillo
+19  Junya Tanaka
+20  Héldon Ramos
+25  Hadi Sacko
+77  Nani
+

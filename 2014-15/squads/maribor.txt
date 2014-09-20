@@ -1,0 +1,40 @@
+#############################
+#  NK Maribor / Slovenia
+
+
+## Goalkeepers
+
+1   Aljaž Cotman
+33  Jasmin Handanovič
+69  Matko Obradović
+
+## Defenders
+
+4   Marko Šuler
+7   Aleš Mejač
+24  Dejan Trajkovski
+26  Aleksander Rajčevič
+28  Mitja Viler
+44  Arghus
+
+## Midfielders
+
+5   Željko Filipović
+6   Welle Ndiaye
+8   Sintayehu Sallalich
+10  Agim Ibraimi
+21  Amir Derviševič
+22  Dare Vršič
+25  Ranko Moravac
+39  Damjan Bohar
+70  Aleš Mertelj
+92  Matic Črnic
+
+## Forwards
+
+9   Tavares
+14  Jean-Philippe Mendy
+15  Rok Sirk
+17  Nusmir Fajić
+20  David Biton
+27  Alen Ploj
