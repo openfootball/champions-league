@@ -1,0 +1,38 @@
+##############################
+#  Athletic Bilbao / Spain
+
+
+## Goalkeepers
+
+1   Gorka Iraizoz
+13  Iago Herrerín
+
+## Defenders
+
+3   Jon Aurtenetxe
+4   Aymeric Laporte
+6   Mikel San José
+12  Unai Bustinza
+15  Andoni Iraola
+16  Xabier Etxeita
+18  Carlos Gurpegi
+24  Mikel Balenziaga
+
+## Midfielders
+
+5   Erik Morán
+7   Beñat
+8   Ander Iturraspe
+10  Óscar de Marcos
+11  Ibai Gómez
+14  Markel Susaeta
+17  Mikel Rico
+19  Iker Muniain
+
+## Forwards
+
+2   Gaizka Toquero
+9   Kike Sola
+20  Aritz Aduriz
+21  Borja Viguera
+22  Guillermo Fernández
