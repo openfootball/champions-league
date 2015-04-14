@@ -12,12 +12,12 @@ Group G  |  FC Barcelona          Celtic Glasgow         Benfica Lissabon       
 Group H  |  Manchester United     Galatasaray Istanbul   CFR Cluj                 SC Braga
 
 
-Matchday 1 |  Tu+We, 18.+19. Sep 2012
-Matchday 2 |  Tu+We, 2.+3. Oct 2012
-Matchday 3 |  Tu+We, 23.+24. Oct 2012
-Matchday 4 |  Tu+We, 6.+7. Nov 2012
-Matchday 5 |  Tu+We, 20.+21. Nov 2012
-Matchday 6 |  Tu+We, 4.+5. Dec 2012
+Matchday 1 | Sep/18 - Sep/19    # Tu+We, 18.+19. Sep 2012
+Matchday 2 | Oct/2  - Oct/3     # Tu+We, 2.+3. Oct 2012
+Matchday 3 | Oct/23 - Oct/24    # Tu+We, 23.+24. Oct 2012
+Matchday 4 | Nov/6  - Nov/7     # Tu+We, 6.+7. Nov 2012
+Matchday 5 | Nov/20 - Nov/21    # Tu+We, 20.+21. Nov 2012
+Matchday 6 | Dec/4  - Dec/5     # Tu+We, 4.+5. Dec 2012
 
 
 Group A:
