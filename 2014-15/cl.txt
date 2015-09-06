@@ -1,5 +1,7 @@
 ############################################
 # Champions League 2014/15 - Group stage
+#
+#   see en.wikipedia.org/wiki/2014–15_UEFA_Champions_League_group_stage
 
 
 Group A |  Atlético Madrid   Juventus Torino    Malmö FF                Olympiacos Piraeus
@@ -27,24 +29,24 @@ Group A:
   20.45  Juventus Torino     2-0 (0-0)  Malmö FF
 
 [Wed Oct/1]
-  20.45  Atlético Madrid - Juventus Torino
-  20.45  Malmö FF - Olympiacos Piraeus
+  20.45  Atlético Madrid  1-0  Juventus Torino
+  20.45  Malmö FF         2-0  Olympiacos Piraeus
 
 [Wed Oct/22]
-  20.45  Atlético Madrid - Malmö FF
-  20.45  Olympiacos Piraeus - Juventus Torino
+  20.45  Atlético Madrid     5-0  Malmö FF
+  20.45  Olympiacos Piraeus  1-0  Juventus Torino
 
 [Tue Nov/4]
-  20.45  Malmö FF - Atlético Madrid
-  20.45  Juventus Torino - Olympiacos Piraeus
+  20.45  Malmö FF         0-2  Atlético Madrid
+  20.45  Juventus Torino  3-2  Olympiacos Piraeus
 
 [Wed Nov/26]
-  20.45  Atlético Madrid  - Olympiacos Piraeus
-  20.45  Malmö FF  - Juventus Torino
+  20.45  Atlético Madrid  4-0  Olympiacos Piraeus
+  20.45  Malmö FF         0-2  Juventus Torino
 
 [Tue Dec/9]
-  20.45  Juventus Torino - Atlético Madrid
-  20.45  Olympiacos Piraeus - Malmö FF
+  20.45  Juventus Torino     0-0  Atlético Madrid
+  20.45  Olympiacos Piraeus  4-2  Malmö FF
 
 
 Group B:
@@ -54,24 +56,24 @@ Group B:
   20.45  Liverpool FC  2-1 (0-0)  PFC Ludogorets Razgrad
 
 [Wed Oct/1]
-  20.45  FC Basel - Liverpool FC
-  20.45  PFC Ludogorets Razgrad - Real Madrid
+  20.45  FC Basel                1-0  Liverpool FC
+  20.45  PFC Ludogorets Razgrad  1-2  Real Madrid
 
 [Wed Oct/22]
-  20.45  PFC Ludogorets Razgrad - FC Basel
-  20.45  Liverpool FC - Real Madrid
+  20.45  PFC Ludogorets Razgrad  1-0  FC Basel
+  20.45  Liverpool FC            0-3  Real Madrid
 
 [Tue Nov/4]
-  20.45  FC Basel - PFC Ludogorets Razgrad
-  20.45  Real Madrid - Liverpool FC
+  20.45  FC Basel                4-0  PFC Ludogorets Razgrad
+  20.45  Real Madrid             1-0  Liverpool FC
 
 [Wed Nov/26]
-  20.45  FC Basel - Real Madrid
-  20.45  PFC Ludogorets Razgrad - Liverpool FC
+  20.45  FC Basel                0-1  Real Madrid
+  20.45  PFC Ludogorets Razgrad  2-2  Liverpool FC
 
 [Tue Dec/9]
-  20.45  Liverpool FC - FC Basel
-  20.45  Real Madrid - PFC Ludogorets Razgrad
+  20.45  Liverpool FC            1-1  FC Basel
+  20.45  Real Madrid             4-0  PFC Ludogorets Razgrad
 
 
 Group C:
@@ -81,24 +83,24 @@ Group C:
   20.45  Benfica Lisboa  0-2 (0-2) Zenit St. Petersburg
 
 [Wed Oct/1]
-  18.00  Zenit St. Petersburg - AS Monaco
-  20.45  Bayer Leverkusen - Benfica Lisboa
+  18.00  Zenit St. Petersburg  0-0  AS Monaco
+  20.45  Bayer Leverkusen      3-1  Benfica Lisboa
 
 [Wed Oct/22]
-  20.45  AS Monaco - Benfica Lisboa
-  20.45  Bayer Leverkusen - Zenit St. Petersburg
+  20.45  AS Monaco             0-0  Benfica Lisboa
+  20.45  Bayer Leverkusen      2-0  Zenit St. Petersburg
 
 [Tue Nov/4]
-  18.00  Zenit St. Petersburg - Bayer Leverkusen
-  20.45  Benfica Lisboa - AS Monaco
+  18.00  Zenit St. Petersburg  1-2  Bayer Leverkusen
+  20.45  Benfica Lisboa        1-0  AS Monaco
 
 [Wed Nov/26]
-  18.00  Zenit St. Petersburg - Benfica Lisboa
-  20.45  Bayer Leverkusen - AS Monaco
+  18.00  Zenit St. Petersburg  1-0  Benfica Lisboa
+  20.45  Bayer Leverkusen      0-1  AS Monaco
 
 [Tue Dec/9]
-  20.45  AS Monaco - Zenit St. Petersburg
-  20.45  Benfica Lisboa - Bayer Leverkusen
+  20.45  AS Monaco             2-0  Zenit St. Petersburg
+  20.45  Benfica Lisboa        0-0  Bayer Leverkusen
 
 
 Group D:
@@ -108,24 +110,24 @@ Group D:
   20.45  Galatasaray        1-1 (0-0)  RSC Anderlecht
 
 [Wed Oct/1]
-  20.45  Arsenal FC - Galatasaray
-  20.45  RSC Anderlecht - Borussia Dortmund
+  20.45  Arsenal FC          4-1  Galatasaray
+  20.45  RSC Anderlecht      0-3  Borussia Dortmund
 
 [Wed Oct/22]
-  20.45  RSC Anderlecht - Arsenal FC
-  20.45  Galatasaray - Borussia Dortmund
+  20.45  RSC Anderlecht      1-2  Arsenal FC
+  20.45  Galatasaray         0-4  Borussia Dortmund
 
 [Tue Nov/4]
-  20.45  Arsenal FC - RSC Anderlecht
-  20.45  Borussia Dortmund - Galatasaray
+  20.45  Arsenal FC         3-3  RSC Anderlecht
+  20.45  Borussia Dortmund  4-1  Galatasaray
 
 [Wed Nov/26]
-  20.45  Arsenal FC - Borussia Dortmund
-  20.45  RSC Anderlecht - Galatasaray
+  20.45  Arsenal FC         2-0  Borussia Dortmund
+  20.45  RSC Anderlecht     2-0  Galatasaray
 
 [Tue Dec/9]
-  20.45  Galatasaray - Arsenal FC
-  20.45  Borussia Dortmund - RSC Anderlecht
+  20.45  Galatasaray        1-4  Arsenal FC
+  20.45  Borussia Dortmund  1-1  RSC Anderlecht
 
 
 Group E:
@@ -135,24 +137,24 @@ Group E:
   20.45  Bayern München  1-0 (0-0)  Manchester City
 
 [Tue Sep/30]
-  18.00  CSKA Moskva - Bayern München
-  20.45  Manchester City - AS Roma
+  18.00  CSKA Moskva       0-1  Bayern München
+  20.45  Manchester City   1-1  AS Roma
 
 [Tue Oct/21]
-  18.00  CSKA Moskva - Manchester City
-  20.45  AS Roma - Bayern München
+  18.00  CSKA Moskva       2-2  Manchester City
+  20.45  AS Roma           1-7  Bayern München
 
 [Wed Nov/5]
-  20.45  Bayern München - AS Roma
-  20.45  Manchester City - CSKA Moskva
+  20.45  Bayern München    2-0  AS Roma
+  20.45  Manchester City   1-2  CSKA Moskva
 
 [Tue Nov/25]
-  18.00  CSKA Moskva - AS Roma
-  20.45  Manchester City - Bayern München
+  18.00  CSKA Moskva       1-1  AS Roma
+  20.45  Manchester City   3-2  Bayern München
 
 [Wed Dec/10]
-  20.45  AS Roma - Manchester City
-  20.45  Bayern München - CSKA Moskva
+  20.45  AS Roma           0-2  Manchester City
+  20.45  Bayern München    3-0  CSKA Moskva
 
 
 Group F:
@@ -162,24 +164,24 @@ Group F:
   20.45  FC Barcelona    1-0 (1-0)  APOEL Nicosia
 
 [Tue Sep/30]
-  20.45  APOEL Nicosia - Ajax Amsterdam
-  20.45  Paris Saint-Germain - FC Barcelona
+  20.45  APOEL Nicosia        1-1  Ajax Amsterdam
+  20.45  Paris Saint-Germain  3-2  FC Barcelona
 
 [Tue Oct/21]
-  20.45  FC Barcelona - Ajax Amsterdam
-  20.45  APOEL Nicosia - Paris Saint-Germain
+  20.45  FC Barcelona         3-1  Ajax Amsterdam
+  20.45  APOEL Nicosia        0-1  Paris Saint-Germain
 
 [Wed Nov/5]
-  20.45  Ajax Amsterdam - FC Barcelona
-  20.45  Paris Saint-Germain - APOEL Nicosia
+  20.45  Ajax Amsterdam       0-2  FC Barcelona
+  20.45  Paris Saint-Germain  1-0  APOEL Nicosia
 
 [Tue Nov/25]
-  20.45  Paris Saint-Germain - Ajax Amsterdam
-  20.45  APOEL Nicosia - FC Barcelona
+  20.45  Paris Saint-Germain  3-1  Ajax Amsterdam
+  20.45  APOEL Nicosia        0-4  FC Barcelona
 
 [Wed Dec/10]
-  20.45  Ajax Amsterdam - APOEL Nicosia
-  20.45  FC Barcelona - Paris Saint-Germain
+  20.45  Ajax Amsterdam  4-0  APOEL Nicosia
+  20.45  FC Barcelona    3-1  Paris Saint-Germain
 
 
 Group G:
@@ -189,24 +191,24 @@ Group G:
   20.45  NK Maribor  1-1 (0-0)  Sporting Lisboa
 
 [Tue Sep/30]
-  20.45  Sporting Lisboa - Chelsea FC
-  20.45  FC Schalke 04 - NK Maribor
+  20.45  Sporting Lisboa  0-1  Chelsea FC
+  20.45  FC Schalke 04    1-1  NK Maribor
 
 [Tue Oct/21]
-  20.45  Chelsea FC - NK Maribor
-  20.45  FC Schalke 04 - Sporting Lisboa
+  20.45  Chelsea FC      6-0  NK Maribor
+  20.45  FC Schalke 04   4-3  Sporting Lisboa
 
 [Wed Nov/5]
-  20.45  NK Maribor - Chelsea FC
-  20.45  Sporting Lisboa - FC Schalke 04
+  20.45  NK Maribor       1-1  Chelsea FC
+  20.45  Sporting Lisboa  4-2  FC Schalke 04
 
 [Tue Nov/25]
-  20.45  FC Schalke 04 - Chelsea FC
-  20.45  Sporting Lisboa - NK Maribor
+  20.45  FC Schalke 04    0-5  Chelsea FC
+  20.45  Sporting Lisboa  3-1  NK Maribor
 
 [Wed Dec/10]
-  20.45  Chelsea FC - Sporting Lisboa
-  20.45  NK Maribor - FC Schalke 04
+  20.45  Chelsea FC   3-1  Sporting Lisboa
+  20.45  NK Maribor   0-1  FC Schalke 04
 
 
 Group H:
@@ -216,22 +218,22 @@ Group H:
   20.45  FC Porto          6-0 (3-0)  BATE Borisov
 
 [Tue Sep/30]
-  20.45  BATE Borisov - Athletic Bilbao
-  20.45  Shakhtar Donetsk - FC Porto
+  20.45  BATE Borisov      2-1  Athletic Bilbao
+  20.45  Shakhtar Donetsk  2-2  FC Porto
 
 [Tue Oct/21]
-  20.45  FC Porto - Athletic Bilbao
-  20.45  BATE Borisov - Shakhtar Donetsk
+  20.45  FC Porto      2-1  Athletic Bilbao
+  20.45  BATE Borisov  0-7  Shakhtar Donetsk
 
 [Wed Nov/5]
-  20.45  Athletic Bilbao - FC Porto
-  20.45  Shakhtar Donetsk - BATE Borisov
+  20.45  Athletic Bilbao   0-2  FC Porto
+  20.45  Shakhtar Donetsk  5-0  BATE Borisov
 
 [Tue Nov/25]
-  18.00  BATE Borisov - FC Porto
-  20.45  Shakhtar Donetsk - Athletic Bilbao
+  18.00  BATE Borisov     0-3  FC Porto
+  20.45  Shakhtar Donetsk 0-1  Athletic Bilbao
 
 [Wed Dec/10]
-  20.45  Athletic Bilbao - BATE Borisov
-  20.45  FC Porto - Shakhtar Donetsk
+  20.45  Athletic Bilbao  2-0  BATE Borisov
+  20.45  FC Porto         1-1  Shakhtar Donetsk
 
