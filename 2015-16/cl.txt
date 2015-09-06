@@ -1,0 +1,23 @@
+############################################
+# Champions League 2015/16 - Group stage
+
+
+
+Group A |  Paris Saint-Germain     Real Madrid         Shakhtar Donetsk   Malmö FF
+Group B |  PSV Eindhoven           Manchester United   CSKA Moscow        Wolfsburg
+Group C |  Benfica                 Atlético Madrid     Galatasaray        Astana
+Group D |  Juventus                Manchester City     Sevilla            Bor. Mönchengladbach
+Group E |  Barcelona               Bayer Leverkusen    Roma               BATE Borisov
+Group F |  Bayern München          Arsenal             Olympiacos         Dinamo Zagreb
+Group G |  Chelsea                 Porto               Dynamo Kyiv        Maccabi Tel Aviv
+Group H |  Zenit Saint Petersburg  Valencia            Lyon               Gent
+
+
+Matchday 1 | 15-16 September 2015
+Matchday 2 | 29-30 September 2015
+Matchday 3 | 20-21 October 2015
+Matchday 4 | 3-4 November 2015
+Matchday 5 | 24-25 November 2015
+Matchday 6 | 8-9 December 2015
+
+

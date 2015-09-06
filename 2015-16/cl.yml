@@ -1,0 +1,56 @@
+###################################
+# Champions League 2015/16
+#
+#  - en.wikipedia.org/wiki/2015–16_UEFA_Champions_League
+
+# Dates: 30 June – 26 August 2015 (qualifying)
+#        15 September 2015 – 28 May 2016 (competition proper)
+# Teams: 32 (group stage)
+
+
+league: cl
+season: 2015/16
+start_at: 2015-09-15
+
+
+fixtures:
+- cl
+- cl_finals
+
+
+32 teams:
+## Group stage
+- FC Barcelona         ## (TH) Spain 1st
+- Real Madrid          ## Spain 2nd
+- Atlético Madrid      ## Spain 3rd
+- Sevilla FC           ## (EL) Spain 
+- Bayern München       ## Germany 1st
+- Wolfsburg            ## Germany 2nd
+- Bor. Mönchengladbach ## Germany 3rd
+- Porto                ## Portugal 2nd
+- Gent                 ## Belgium 1st
+- Paris Saint-Germain  ## France  1st
+- Lyon                 ## France 2nd
+- Galatasaray          ## Turkey 1st
+- Olympiacos           ## Greece 1st
+- Chelsea              ## England 1st
+- Manchester City      ## England 2nd
+- Arsenal              ## England 3rd
+- Juventus             ## Italy 1st
+- AS Roma               ## Italy 2nd
+- Zenit Saint Petersburg  ## Russia 1st
+- PSV Eindhoven        ## Netherlands 1st	
+- Benfica              ## Portugal 1st
+- Dynamo Kyiv          ## Ukraine 1st
+### Group stage (10 ?? from playoffs)
+- Astana                ## Kazakhstan
+- Dinamo Zagreb         ## Croatia 
+- Malmö FF              ## Sweden
+- Maccabi Tel Aviv      ## Israel 
+- BATE Borissow         ## Belarus   (use BATE Borisov ??)
+- Bayer 04 Leverkusen   ## Germany 
+- Manchester United     ## England
+- CSKA Moscow           ## Russia 
+- Shakhtar Donetsk      ## Ukraine 
+- Valencia              ## Spain
+
