@@ -1,0 +1,38 @@
+league:
+# see en.wikipedia.org/wiki/1960–61_European_Cup
+season: 1960/61
+28 teams:
+- Haka              # Finland 
+- Fenerbahçe        # Turkey 
+- Steaua Bucureşti  # Romania
+- Austria Wien	    # Austria 
+- Nuremberg         # West Germany
+- Drumcondra	      # Ireland
+- Servette          # Switzerland
+- Hibernians	      # Malta
+- CDNA Sofia        # Bulgaria
+- Dukla Prague	    # Czechoslovakia
+- IFK Göteborg      # Sweden
+- Feyenoord	        # Netherlands
+- Górnik Zabrze     # Poland
+- Tottenham Hotspur # England
+- Standard Liège    # Belgium
+- Fredrikstad	      # Norway
+- Vorwärts Berlin   # East Germany
+- Linfield          # Northern Ireland
+- AS Monaco         # France     ## fix: use monaco for country ???
+- Rangers         	# Scotland 
+- Sporting CP       # Portugal
+- Partizan	        # Yugoslavia
+- Panathinaikos     # Greece
+- Juventus	        # Italy
+- Spora Luxembourg  # Luxembourg
+- Boldklubben 1913  # Denmark
+- Vasas             # Hungary
+- Real Madrid       # Spain 
+
+----
+# see en.wikipedia.org/wiki/1961–62_European_Cup
+season: 1961/62
+teams:
+
