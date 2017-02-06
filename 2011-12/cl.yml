@@ -18,26 +18,26 @@ fixtures:
 
 teams:
 # Spain
-- madrid
-- barcelona
+- Real Madrid
+- Barcelona
 # Deutschland
-- bayern
-- leverkusen
+- Bayern München
+- Bayer Leverkusen
 # England
-- chelsea
-- arsenal
+- Chelsea
+- Arsenal
 # France
-- marseille
-- lyon
+- Marseille
+- Olympique Lyonnais
 # Italy
-- inter
-- napoli
-- milan
+- Internazionale
+- Napoli
+- Milan
 # Russia
-- moskva
-- zenit
+- CSKA Moskva
+- Zenit St. Petersburg
 # More
-- benfica   # Portugal
-- basel     # Switzerland
-- apoel     # Cyprus
+- Benfica   # Portugal
+- Basel     # Switzerland
+- APOEL     # Cyprus
 
