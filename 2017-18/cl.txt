@@ -1,7 +1,7 @@
 ############################################
 # Champions League 2017/18 - Group stage
 #
-#  see en.wikipedia.org/wiki/2017–18_UEFA_Champions_League_group_stage
+#  see en.wikipedia.org/wiki/2017-18_UEFA_Champions_League_group_stage
 
 
 Group A |  Manchester United    Basel                CSKA Moscow        Benfica
@@ -15,9 +15,67 @@ Group H |  Tottenham Hotspur    Real Madrid          Borussia Dortmund  APOEL
 
 
 
-Matchday 1 | Sep/12 - Sep/13    ## Tu+We 12–13 September 2017
-Matchday 2 | Sep/26 - Sep/27    ## Tu+We 26–27 September 2017
-Matchday 3 | Oct/17 - Oct/18    ## Tu+We 17–18 October 2017
-Matchday 4 | Oct/31 – Nov/1     ## Tu+We 31 October – 1 November 2017
-Matchday 5 | Nov/21 – Nov/22    ## Tu+We 21–22 November 2017
-Matchday 6 | Dec/5  – Dec/6     ## Tu+We 5–6 December 2017
+Matchday 1 | Sep/12 - Sep/13     ## Tu+We 12-13 September 2017
+Matchday 2 | Sep/26 - Sep/27     ## Tu+We 26-27 September 2017
+Matchday 3 | Oct/17 - Oct/18     ## Tu+We 17-18 October 2017
+Matchday 4 | Oct/31 - Nov/1      ## Tu+We 31 October - 1 November 2017
+Matchday 5 | Nov/21 - Nov/22     ## Tu+We 21-22 November 2017
+Matchday 6 | Dec/5  - Dec/6      ## Tu+We 5-6 December 2017
+
+
+Group A:
+
+[Tue Sep/12]
+  20.45    Benfica                    1-2   CSKA Moscow    @ Estádio da Luz, Lisbon
+  20.45    Manchester United          3-0   Basel          @ Old Trafford, Manchester
+
+[Wed Sep/27]
+  20.45     Basel  5-0  Benfica   @ St. Jakob-Park, Basel
+  20.45     CSKA Moscow 1-4  Manchester United  @ VEB Arena, Moscow
+
+[Wed Oct/18]
+  20.45     CSKA Moscow  0-2  Basel   @ VEB Arena, Moscow
+  20.45     Benfica  0-1 Manchester United  @ Estádio da Luz, Lisbon
+
+[Tue Oct/31]
+  20.45     Basel  1-2  CSKA Moscow   @ St. Jakob-Park, Basel
+  20.45     Manchester United  2-0  Benfica  @ Old Trafford, Manchester
+
+[Wed Nov/22]
+  18.00    CSKA Moscow  2-0  Benfica    @ VEB Arena, Moscow
+  20.45    Basel  1-0  Manchester United  @ St. Jakob-Park, Basel
+
+[Tue Dec/5]
+  20.45    Benfica  0-2  Basel   @ Estádio da Luz, Lisbon
+  20.45    Manchester United  2-1  CSKA Moscow  @ Old Trafford, Manchester
+
+
+Group B:
+
+[Tue Sep/12]
+  20.45   Bayern München  3-0  Anderlecht  @  Allianz Arena, München
+    [Lewandowski 12' (pen.) Thiago 65' Kimmich 90']
+  20.45   Celtic  0-5  Paris Saint-Germain  @ Celtic Park, Glasgow
+    [-; Neymar 19' Mbappé 34' Cavani 40' (pen.), 85' Lustig 83' (o.g.)]
+
+[Wed Sep/27]
+  20.45  Paris Saint-Germain  3-0  Bayern München  @ Parc des Princes, Paris
+     [Dani Alves 2' Cavani 31' Neymar 63']
+  20.45  Anderlecht  0-3  Celtic   @ Constant Vanden Stock Stadium, Anderlecht
+     [-; Griffiths 38' Roberts 50' Sinclair 90+3']
+
+[Wed Oct/18]
+  20.45  Anderlecht  0-4  Paris Saint-Germain  @ Constant Vanden Stock Stadium, Anderlecht
+  20.45  Bayern München  3-0  Celtic  @ Allianz Arena, München
+
+[Tue Oct/31]
+  20.45  Paris Saint-Germain  5-0  Anderlecht  @ Parc des Princes, Paris
+  20.45  Celtic  1-2  Bayern München  @ Celtic Park, Glasgow
+
+[Wed Nov/22]
+  20.45  Anderlecht  1-2  Bayern München  @ Constant Vanden Stock Stadium, Anderlecht
+  20.45  Paris Saint-Germain  7-1  Celtic @ Parc des Princes, Paris
+
+[Tue Dec/5]
+  20.45  Bayern München  3-1  Paris Saint-Germain  @ Allianz Arena, München
+  20.45  Celtic  0-1  Anderlecht  @ Celtic Park, Glasgow
