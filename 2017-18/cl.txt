@@ -1,0 +1,23 @@
+############################################
+# Champions League 2017/18 - Group stage
+#
+#  see en.wikipedia.org/wiki/2017–18_UEFA_Champions_League_group_stage
+
+
+Group A |  Manchester United    Basel                CSKA Moscow        Benfica
+Group B |  Paris Saint-Germain  Bayern München       Celtic             Anderlecht
+Group C |  Roma                 Chelsea              Atlético Madrid    Qarabağ
+Group D |  Barcelona            Juventus             Sporting CP        Olympiacos
+Group E |  Liverpool            Sevilla              Spartak Moscow     Maribor
+Group F |  Manchester City      Shakhtar Donetsk     Napoli             Feyenoord
+Group G |  Beşiktaş             Porto                RB Leipzig         Monaco
+Group H |  Tottenham Hotspur    Real Madrid          Borussia Dortmund  APOEL
+
+
+
+Matchday 1 | Sep/12 - Sep/13    ## Tu+We 12–13 September 2017
+Matchday 2 | Sep/26 - Sep/27    ## Tu+We 26–27 September 2017
+Matchday 3 | Oct/17 - Oct/18    ## Tu+We 17–18 October 2017
+Matchday 4 | Oct/31 – Nov/1     ## Tu+We 31 October – 1 November 2017
+Matchday 5 | Nov/21 – Nov/22    ## Tu+We 21–22 November 2017
+Matchday 6 | Dec/5  – Dec/6     ## Tu+We 5–6 December 2017

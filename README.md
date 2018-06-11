@@ -17,7 +17,7 @@ Intern'l football club tournaments include:
 
 Example:
 
-~~~
+```
 ####################
 # Champions League
 
@@ -46,7 +46,7 @@ Quarter-finals - 1st Leg
             [Lavezzi 4' Luiz 61' (o.g.) Pastore 90+3'; Hazard 27' (pen.)]
 
 ...
-~~~
+```
 
 ## Build Your Own `football.db` Copy
 
