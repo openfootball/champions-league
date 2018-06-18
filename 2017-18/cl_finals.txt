@@ -104,5 +104,5 @@ Semi-finals - 2nd Leg
 Final
 
 [Sat May/26]
-  {{CEST|20.45|displaytz=EEST}}<!--20.45 CEST, 21.45 EEST-->  Real Madrid          3-1  Liverpool            @ NSC Olimpiyskiy Stadium, Kiev
+  20.45  Real Madrid          3-1  Liverpool            @ NSC Olimpiyskiy Stadium, Kiev
            [Benzema 51' Bale 64', 83'; Mané 55']
