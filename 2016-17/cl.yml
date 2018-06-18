@@ -1,0 +1,47 @@
+###################################
+# Champions League 2016/17
+
+league:   cl
+season:   2016/17
+start_at: 2016-09-13
+
+
+fixtures:
+- cl
+- cl_finals
+
+
+32 teams:
+## Group stage
+- Arsenal
+- Paris Saint-Germain
+- Ludogorets Razgrad
+- Basel
+- Napoli
+- Benfica
+- Beşiktaş
+- Dynamo Kyiv
+- Barcelona
+- Manchester City
+- Borussia Mönchengladbach
+- Celtic
+- Atlético Madrid
+- Bayern München
+- Rostov
+- PSV Eindhoven
+- Monaco
+- Bayer Leverkusen
+- Tottenham Hotspur
+- CSKA Moscow
+- Borussia Dortmund
+- Real Madrid
+- Legia Warsaw
+- Sporting CP
+- Leicester City
+- Porto
+- Copenhagen
+- Club Brugge
+- Juventus
+- Sevilla
+- Lyon
+- Dinamo Zagreb
