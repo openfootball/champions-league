@@ -2,14 +2,14 @@
 # Champions League 2017/18
 
 
-league: cl
-season: 2017/18
+league:   cl
+season:   2017/18
 start_at: 2017-09-12
 
 
-## fixtures:
-## - cl
-## - cl_finals
+fixtures:
+- cl
+- cl_finals
 
 
 32 teams:
