@@ -23,3 +23,8 @@ europe-champions-league!/2014-15/cl
 # - 2015/16
 europe-champions-league!/2015-16/cl
 
+# - 2016/17
+europe-champions-league!/2016-17/cl
+
+# - 2017/18
+europe-champions-league!/2017-18/cl
