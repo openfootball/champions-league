@@ -1,0 +1,155 @@
+38 datafiles:
+[1/38] >2011-12/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[2/38] >2011-12/el_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[3/38] >2012-13/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[4/38] >2012-13/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[5/38] >2012-13/el_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[6/38] >2013-14/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[7/38] >2013-14/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[8/38] >2013-14/cl_playoffs.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[9/38] >2014-15/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[10/38] >2014-15/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[11/38] >2014-15/cl_playoffs.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[12/38] >2014-15/cl_round1.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[13/38] >2014-15/cl_round2.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[14/38] >2014-15/cl_round3.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[15/38] >2015-16/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[16/38] >2015-16/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[17/38] >2016-17/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[18/38] >2016-17/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[19/38] >2017-18/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[20/38] >2017-18/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[21/38] >archive/1950s/1955-56/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[22/38] >archive/1950s/1956-57/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[23/38] >archive/1950s/1957-58/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[24/38] >archive/1950s/1958-59/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[25/38] >archive/1950s/1959-60/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[26/38] >archive/1960s/1960-61/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[27/38] >archive/1960s/1961-62/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[28/38] >archive/1960s/1962-63/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[29/38] >archive/1960s/1963-64/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[30/38] >archive/1960s/1964-65/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[31/38] >archive/1960s/1965-66/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[32/38] >archive/1960s/1966-67/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[33/38] >archive/1960s/1967-68/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[34/38] >archive/1960s/1968-69/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[35/38] >archive/1960s/1969-70/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[36/38] >archive/1970s/1970-71/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[37/38] >archive/1970s/1971-72/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[38/38] >archive/1970s/1972-73/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+
+
+[1/38] >2011-12/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[2/38] >2011-12/el_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[3/38] >2012-13/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[4/38] >2012-13/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[5/38] >2012-13/el_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[6/38] >2013-14/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[7/38] >2013-14/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[8/38] >2013-14/cl_playoffs.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[9/38] >2014-15/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[10/38] >2014-15/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[11/38] >2014-15/cl_playoffs.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[12/38] >2014-15/cl_round1.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[13/38] >2014-15/cl_round2.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[14/38] >2014-15/cl_round3.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[15/38] >2015-16/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[16/38] >2015-16/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[17/38] >2016-17/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[18/38] >2016-17/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[19/38] >2017-18/cl.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[20/38] >2017-18/cl_finals.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[21/38] >archive/1950s/1955-56/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[22/38] >archive/1950s/1956-57/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[23/38] >archive/1950s/1957-58/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[24/38] >archive/1950s/1958-59/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[25/38] >archive/1950s/1959-60/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[26/38] >archive/1960s/1960-61/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[27/38] >archive/1960s/1961-62/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[28/38] >archive/1960s/1962-63/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[29/38] >archive/1960s/1963-64/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[30/38] >archive/1960s/1964-65/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[31/38] >archive/1960s/1965-66/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[32/38] >archive/1960s/1966-67/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[33/38] >archive/1960s/1967-68/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[34/38] >archive/1960s/1968-69/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[35/38] >archive/1960s/1969-70/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[36/38] >archive/1970s/1970-71/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[37/38] >archive/1970s/1971-72/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[38/38] >archive/1970s/1972-73/cup.txt<
+  !!! WARN !!! - NO sections found; 0 sections
