@@ -1,6 +1,0 @@
-#######################
-# 2013/14 Fixtures
-
-europe-champions-league!/leagues
-europe-champions-league!/2013-14/cl
-
