@@ -1,5 +1,4 @@
-#################################
-# Champions League 2011/12
+= Champions League 2011/12
 
 
 # note: timezone for games (play_at) is *always* CET (central european time)

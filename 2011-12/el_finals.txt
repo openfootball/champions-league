@@ -1,5 +1,4 @@
-#################################
-# Europa League 2011/12
+= Europa League 2011/12
 
 
 (1) Quarter-finals - 1st Leg
@@ -37,4 +36,3 @@
 [Wed May/9]
   20.45   Atlético Madrid  3-0  Athletic Bilbao   @ Arena Națională, Bucharest
              [Falcao  7', 34' Diego 85']
-
