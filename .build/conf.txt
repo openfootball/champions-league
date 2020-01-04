@@ -1,8 +1,18 @@
 38 datafiles:
 [1/38] >2011-12/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (3) found for >Arsenal<
+ !!! WARN: too many name matches (2) found for >Barcelona<
+    58 lines - league: >UEFA Champions League< (cl), season: >2011/12<, 20 clubs, 7 rounds
+     !! pen.    Bayern München
+     !! pen.    Olympique Lyonnais
+     !! pen.   Chelsea
+!! ERROR: 1 duplicate club record(s) found
+    2 duplicate names for >FC Barcelona<:  FC Barcelona | Barcelona
 [2/38] >2011-12/el_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Valencia<
+    24 lines - league: >UEFA Europa League< (el), season: >2011/12<, 8 clubs, 5 rounds
 [3/38] >2012-13/cl.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [4/38] >2012-13/cl_finals.txt<
@@ -78,9 +88,60 @@
 
 
 [1/38] >2011-12/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    58 lines - league: >UEFA Champions League< (cl), season: >2011/12<
+      20 clubs:
+        6× Bayern München
+        6× Chelsea ⇒ Chelsea FC
+        6× Real Madrid
+        4× APOEL ⇒ APOEL Nicosia FC
+        4× Benfica ⇒ SL Benfica
+        4× FC Barcelona
+        4× Marseille ⇒ Olympique de Marseille
+        4× Milan ⇒ AC Milan
+ !!! WARN: too many name matches (3) found for >Arsenal<
+        2× Arsenal ⇒ Arsenal FC
+ !!! WARN: too many name matches (2) found for >Barcelona<
+        2× Barcelona ⇒ FC Barcelona
+        2× Basel ⇒ FC Basel
+        2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        2× CSKA Moskva ⇒ PFC CSKA Moskva
+        2× Internazionale ⇒ FC Internazionale Milano
+        2× Napoli ⇒ SSC Napoli
+        2× Zenit St. Petersburg
+        Olympique Lyonnais
+     !! pen.    Bayern München
+     !! pen.    Olympique Lyonnais
+     !! pen.   Chelsea
+!! ERROR: 1 duplicate club record(s) found
+    2 duplicate names for >FC Barcelona<:  FC Barcelona | Barcelona
+      7 rounds:
+        (1)  Round of 16 - 1st Leg             //  Tu+We 14.+15. & 21.+22. Feb 2012, 8 matches
+        (2)  Round of 16 - 2nd Leg   // Tu+We 6.+7. & 13.+14. March 2012, 8 matches
+        (3)  Quarter-finals - 1st Leg    // Tu+We 27.+28. March 2012, 4 matches
+        (4)  Quarter-finals - 2nd Leg   // Tu+We 3.+4.   April 2012, 4 matches
+        (5)  Semi-finals - 1st Leg                // Tu+We 17.+18. April 2012, 2 matches
+        (6)  Semi-finals - 2nd Leg     // Tu+We 24.+25. April 2012, 2 matches
+        (7)  Final, 1 matches
 [2/38] >2011-12/el_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    24 lines - league: >UEFA Europa League< (el), season: >2011/12<
+      8 clubs:
+        5× Athletic Bilbao ⇒ Athletic Club Bilbao
+        5× Atlético Madrid
+        4× Sporting CP
+ !!! WARN: too many name matches (2) found for >Valencia<
+        4× Valencia ⇒ Valencia CF
+        2× AZ Alkmaar
+        2× Hannover 96
+        2× Metalist Kharkiv ⇒ FC Metalist Kharkiv
+        2× Schalke 04 ⇒ FC Schalke 04
+      5 rounds:
+        (1) Quarter-finals - 1st Leg, 4 matches
+        (2) Quarter-finals - 2nd Leg, 4 matches
+        (3) Semi-finals - 1st Leg, 2 matches
+        (4) Semi-finals - 2nd Leg, 2 matches
+        (5) Final, 1 matches
 [3/38] >2012-13/cl.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [4/38] >2012-13/cl_finals.txt<
