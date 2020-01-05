@@ -44,13 +44,13 @@
   20.45  Benfica    0-1  Chelsea
 [Wed Mar/28]
   20.45  Marseille  0-2  Bayern München
-  20.45  Milan      0-0  FC Barcelona
+  20.45  Milan      0-0  Barcelona
 
 (4)  Quarter-finals - 2nd Leg   // Tu+We 3.+4.   April 2012
 
 [Tue Apr/3]
   20.45  Bayern München  2-0  Marseille
-  20.45  FC Barcelona    3-1  Milan
+  20.45  Barcelona    3-1  Milan
 [Wed Apr/4]
   20.45  Real Madrid     5-2  APOEL
   20.45  Chelsea         2-1  Benfica
@@ -62,13 +62,13 @@
   20.45  Bayern München  2-1  Real Madrid   @ Allianz Arena, München
            [Ribéry 17' Gómez 90'; Özil 53']
 [Wed Apr/18]
-  20.45  Chelsea         1-0  FC Barcelona  @ Stamford Bridge, London
+  20.45  Chelsea         1-0  Barcelona  @ Stamford Bridge, London
            [Drogba 45+2']
 
 (6)  Semi-finals - 2nd Leg     // Tu+We 24.+25. April 2012
 
 [Tue Apr/24]
-  20.45  FC Barcelona      2-2  Chelsea   @ Camp Nou, Barcelona
+  20.45  Barcelona      2-2  Chelsea   @ Camp Nou, Barcelona
            [Busquets 35' Iniesta 43'; Ramires 45+1' Torres 90+2']
 [Wed Apr/25]
   20.45  Real Madrid   3-4 pen. 2-1 a.e.t. (2-1, )  Bayern München  @ Santiago Bernabéu Stadium, Madrid

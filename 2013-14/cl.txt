@@ -1,5 +1,4 @@
-############################################
-# Champions League 2013/14 - Group Phase
+= Champions League 2013/14      ## Group Phase
 
 
 Group A |  Manchester United  Shakhtar Donetsk     Bayer Leverkusen      Real Sociedad
@@ -11,7 +10,7 @@ Group F |  Arsenal FC         Olympique Marseille  Borussia Dortmund     SSC Nap
 Group G |  FC Porto           Atlético Madrid      Zenit St. Petersburg  Austria Wien
 Group H |  FC Barcelona       AC Milan             Ajax Amsterdam        Celtic Glasgow
 
- 
+
 (3) Matchday 1 |  Sep/17 - Sep/18   # Tu+We 17-18 September 2013
 (4) Matchday 2 |  Oct/1 - Oct/2     # Tu+We 1-2 October 2013
 (5) Matchday 3 |  Oct/22 - Oct/23   # Tu+We 22-23 October 2013
@@ -193,4 +192,3 @@ Gruppe H:
 [Wed Dec/11]
   20.45  AC Milan         0-0 Ajax Amsterdam
   20.45  FC Barcelona     6-1 Celtic Glasgow
-

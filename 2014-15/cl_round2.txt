@@ -1,12 +1,11 @@
-#############################################################
-# Champions League 2014/15 - Qualifying 2nd Round
-#
+= Champions League 2014/15     ## Qualifying 2nd Round
+
 # 34 teams
 #  - 31 champions from associations 17-48 (except Liechtenstein)
 #  -  3 winners from the 1st qualifying round
 
 
-### Second qualifying round      
+### Second qualifying round
 
 ## note: all times are CEST (UTC+2)
 
@@ -57,4 +56,3 @@
   19.30   Steaua București  v  Strømsgodset       @ Arena Națională, București
   20.00   NK Maribor        v  Zrinjski Mostar      @ Ljudski vrt, Maribor
   20.45   St Patrick's Athletic   v  Legia Warszawa  @ Tallaght Stadium, Dublin
-

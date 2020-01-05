@@ -1,5 +1,4 @@
-###################################################
-# Champions League 2013/14 -  Play-off Round
+= Champions League 2013/14      ##  Play-off Round
 
 
 (1) Play-off Round  /  1st Leg

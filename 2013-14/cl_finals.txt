@@ -1,5 +1,4 @@
-#############################################
-# Champions League 2013/14 - Knockout phase
+= Champions League 2013/14    ## Knockout phase
 
 
 
@@ -86,5 +85,4 @@
 
 [Sat May/24]
   20.45    Real Madrid     4-1 a.e.t. (1-1, )  Atlético Madrid     @ Estádio da Luz, Lisbon
-             [Ramos 90+3' Bale 110' Marcelo 118' Ronaldo 120' (pen.); Godín 36'] 
-
+             [Ramos 90+3' Bale 110' Marcelo 118' Ronaldo 120' (pen.); Godín 36']

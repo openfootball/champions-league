@@ -1,6 +1,5 @@
-#############################################################
-# Champions League 2014/15 - Qualifying 1st Round
-#
+= Champions League 2014/15     ## Qualifying 1st Round
+
 # 6 teams
 #  - 6 champions from associations 49–54
 

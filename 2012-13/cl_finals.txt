@@ -1,5 +1,4 @@
-##############################################
-# Champions League 2012/13  - Finals
+= Champions League 2012/13   ## Finals
 
 
 (7)  Round of 16 - 1st Leg       // Tu+We, 12.+13./19.+20. Feb 2013
@@ -94,4 +93,3 @@
 [Sat May/25]
   20.45   Borussia Dortmund  1-2  Bayern München   @ Wembley Stadium, London
     [Gündoğan 68' (pen.);  Mandžukić 60' Robben 89']
-

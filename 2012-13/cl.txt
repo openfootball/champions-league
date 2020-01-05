@@ -1,5 +1,4 @@
-################################################################
-# Champions League 2012/13 - Group phase (8 groups x 4 teams)
+= Champions League 2012/13    ## Group phase (8 groups x 4 teams)
 
 
 Group A  |  Paris Saint-Germain   FC Porto               Dynamo Kiew              Dinamo Zagreb
@@ -234,4 +233,3 @@ Group H:
 [Wed Dec/5]
  20.45  Manchester United  0-1  CFR Cluj
  20.45  Braga              1-2  Galatasaray
-

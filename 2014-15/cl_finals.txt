@@ -1,7 +1,6 @@
-#########################################################
-# Champions League 2014/15 -  Knockout phase / Finals
-#
-#   see en.wikipedia.org/wiki/2014–15_UEFA_Champions_League_knockout_phase
+= Champions League 2014/15      ##  Knockout phase / Finals
+
+# see en.wikipedia.org/wiki/2014–15_UEFA_Champions_League_knockout_phase
 
 
 Round of 16  - 1st Leg  //  17-18 & 24-25 February 2015
@@ -75,5 +74,3 @@ Final          //   6 June 2015
 
 [Jun/6]
   20.45    Juventus    1-3    Barcelona         @ Olympiastadion, Berlin
-
-

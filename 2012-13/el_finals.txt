@@ -1,5 +1,4 @@
-############################
-# Europa League 2012/13
+= Europa League 2012/13
 
 
 (1) Round of 32 - 1st Leg
@@ -104,4 +103,3 @@
 [Wed May/15]
   20.45  Benfica     1-2   Chelsea FC   @ Amsterdam Arena, Amsterdam
           [Cardozo 68' (pen.); Torres 60' Ivanović 90+3']
-
