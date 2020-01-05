@@ -1,42 +1,80 @@
 38 datafiles:
 [1/38] >2011-12/cl_finals.txt<
   1 section(s):
- !!! WARN: too many name matches (3) found for >Arsenal<
  !!! WARN: too many name matches (2) found for >Barcelona<
-    58 lines - league: >UEFA Champions League< (cl), season: >2011/12<, 20 clubs, 7 rounds
+ !!! WARN: too many name matches (3) found for >Arsenal<
+    58 lines - league: >UEFA Champions League< (cl), season: >2011/12<, 19 clubs, 7 rounds
      !! pen.    Bayern München
      !! pen.    Olympique Lyonnais
      !! pen.   Chelsea
-!! ERROR: 1 duplicate club record(s) found
-    2 duplicate names for >FC Barcelona<:  FC Barcelona | Barcelona
 [2/38] >2011-12/el_finals.txt<
   1 section(s):
  !!! WARN: too many name matches (2) found for >Valencia<
     24 lines - league: >UEFA Europa League< (el), season: >2011/12<, 8 clubs, 5 rounds
 [3/38] >2012-13/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (3) found for >Arsenal<
+ !!! WARN: too many name matches (2) found for >Barcelona<
+ !!! WARN: too many name matches (2) found for >Valencia<
+    166 lines - league: >UEFA Champions League< (cl), season: >2012/13<, 32 clubs, 6 rounds
 [4/38] >2012-13/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Barcelona<
+ !!! WARN: too many name matches (3) found for >Arsenal<
+ !!! WARN: too many name matches (2) found for >Valencia<
+    73 lines - league: >UEFA Champions League< (cl), season: >2012/13<, 18 clubs, 7 rounds
+!! ERROR: 2 duplicate club record(s) found
+    2 duplicate names for >FC Barcelona<:  Barcelona | FC Barcelona
+    2 duplicate names for >Málaga CF<:  Málaga | Málaga CF
 [5/38] >2012-13/el_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Liverpool<
+    80 lines - league: >UEFA Europa League< (el), season: >2012/13<, 38 clubs, 9 rounds
+     !! pen.     Tottenham Hotspur
+     !! pen.    Ajax
+!! ERROR: 4 duplicate club record(s) found
+    2 duplicate names for >Chelsea FC<:  Chelsea FC | Chelsea
+    2 duplicate names for >FC Basel<:  Basel | FC Basel
+    2 duplicate names for >SS Lazio<:  Lazio Roma | Lazio
+    2 duplicate names for >VfB Stuttgart<:  Stuttgart | VfB Stuttgart
 [6/38] >2013-14/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+    166 lines - league: >UEFA Champions League< (cl), season: >2013/14<, 32 clubs, 6 rounds
 [7/38] >2013-14/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+    65 lines - league: >UEFA Champions League< (cl), season: >2013/14<, 16 clubs, 7 rounds
 [8/38] >2013-14/cl_playoffs.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+    26 lines - league: >UEFA Champions League< (cl), season: >2013/14<, 20 clubs, 2 rounds
 [9/38] >2014-15/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+ !!! WARN: too many name matches (2) found for >Liverpool FC<
+    166 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 32 clubs, 6 rounds
+     !! 6× APOEL Nicosia
 [10/38] >2014-15/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+ !!! WARN: too many name matches (2) found for >Barcelona<
+ !!! WARN: too many name matches (3) found for >Arsenal<
+    53 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 17 clubs, 7 rounds
+     !! pen.   Bayer Leverkusen
 [11/38] >2014-15/cl_playoffs.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    2 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 0 clubs, 2 rounds
 [12/38] >2014-15/cl_round1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    11 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 7 clubs, 2 rounds
+     !! Armenia Banants
 [13/38] >2014-15/cl_round2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    40 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 34 clubs, 2 rounds
+     !! 2× Partizan Beograd
 [14/38] >2014-15/cl_round3.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    2 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 0 clubs, 2 rounds
 [15/38] >2015-16/cl.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [16/38] >2015-16/cl_finals.txt<
@@ -90,19 +128,18 @@
 [1/38] >2011-12/cl_finals.txt<
   1 section(s):
     58 lines - league: >UEFA Champions League< (cl), season: >2011/12<
-      20 clubs:
+      19 clubs:
+ !!! WARN: too many name matches (2) found for >Barcelona<
+        6× Barcelona ⇒ FC Barcelona
         6× Bayern München
         6× Chelsea ⇒ Chelsea FC
         6× Real Madrid
         4× APOEL ⇒ APOEL Nicosia FC
         4× Benfica ⇒ SL Benfica
-        4× FC Barcelona
         4× Marseille ⇒ Olympique de Marseille
         4× Milan ⇒ AC Milan
  !!! WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
- !!! WARN: too many name matches (2) found for >Barcelona<
-        2× Barcelona ⇒ FC Barcelona
         2× Basel ⇒ FC Basel
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         2× CSKA Moskva ⇒ PFC CSKA Moskva
@@ -113,8 +150,6 @@
      !! pen.    Bayern München
      !! pen.    Olympique Lyonnais
      !! pen.   Chelsea
-!! ERROR: 1 duplicate club record(s) found
-    2 duplicate names for >FC Barcelona<:  FC Barcelona | Barcelona
       7 rounds:
         (1)  Round of 16 - 1st Leg             //  Tu+We 14.+15. & 21.+22. Feb 2012, 8 matches
         (2)  Round of 16 - 2nd Leg   // Tu+We 6.+7. & 13.+14. March 2012, 8 matches
@@ -143,29 +178,391 @@
         (4) Semi-finals - 2nd Leg, 2 matches
         (5) Final, 1 matches
 [3/38] >2012-13/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    166 lines - league: >UEFA Champions League< (cl), season: >2012/13<
+      32 clubs:
+        6× Ajax ⇒ Ajax Amsterdam
+        6× Anderlecht ⇒ RSC Anderlecht
+ !!! WARN: too many name matches (3) found for >Arsenal<
+        6× Arsenal ⇒ Arsenal FC
+        6× BATE Borissow ⇒ FC BATE Borisov
+ !!! WARN: too many name matches (2) found for >Barcelona<
+        6× Barcelona ⇒ FC Barcelona
+        6× Bayern München
+        6× Benfica ⇒ SL Benfica
+        6× Borussia Dortmund
+        6× Braga ⇒ SC Braga
+        6× CFR Cluj
+        6× Celtic Glasgow ⇒ Celtic FC
+        6× Chelsea ⇒ Chelsea FC
+        6× Dinamo Zagreb ⇒ GNK Dinamo Zagreb
+        6× Dynamo Kiew ⇒ FC Dynamo Kyiv
+        6× FC Porto
+        6× Galatasaray ⇒ Galatasaray İstanbul AŞ
+        6× Juventus
+        6× Manchester City ⇒ Manchester City FC
+        6× Manchester United ⇒ Manchester United FC
+        6× Milan ⇒ AC Milan
+        6× Montpellier ⇒ Montpellier HSC
+        6× Málaga ⇒ Málaga CF
+        6× Nordsjælland ⇒ FC Nordsjælland
+        6× OSC Lille ⇒ Lille OSC
+        6× Olympiakos Piräus ⇒ Olympiacos Piraeus FC
+        6× Paris Saint-Germain
+        6× Real Madrid
+        6× Schachtar Donezk ⇒ FC Shakhtar Donetsk
+        6× Schalke 04 ⇒ FC Schalke 04
+        6× Spartak Moskau ⇒ FC Spartak Moskva
+ !!! WARN: too many name matches (2) found for >Valencia<
+        6× Valencia ⇒ Valencia CF
+        6× Zenit St. Petersburg
+      6 rounds:
+        Matchday 1 | Sep/18 - Sep/19, 0 matches
+        Matchday 2 | Oct/2  - Oct/3, 0 matches
+        Matchday 3 | Oct/23 - Oct/24, 0 matches
+        Matchday 4 | Nov/6  - Nov/7, 0 matches
+        Matchday 5 | Nov/20 - Nov/21, 0 matches
+        Matchday 6 | Dec/4  - Dec/5, 96 matches
 [4/38] >2012-13/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    73 lines - league: >UEFA Champions League< (cl), season: >2012/13<
+      18 clubs:
+        7× Bayern München
+        7× Borussia Dortmund
+        6× Real Madrid
+        4× Galatasaray ⇒ Galatasaray İstanbul AŞ
+        4× Juventus
+        4× Paris Saint-Germain
+ !!! WARN: too many name matches (2) found for >Barcelona<
+        3× Barcelona ⇒ FC Barcelona
+        3× FC Barcelona
+        3× Málaga ⇒ Málaga CF
+ !!! WARN: too many name matches (3) found for >Arsenal<
+        2× Arsenal ⇒ Arsenal FC
+        2× Celtic Glasgow ⇒ Celtic FC
+        2× Manchester United ⇒ Manchester United FC
+        2× Milan ⇒ AC Milan
+        2× Porto ⇒ FC Porto
+        2× Schachtar Donezk ⇒ FC Shakhtar Donetsk
+        2× Schalke 04 ⇒ FC Schalke 04
+ !!! WARN: too many name matches (2) found for >Valencia<
+        2× Valencia ⇒ Valencia CF
+        Málaga CF
+!! ERROR: 2 duplicate club record(s) found
+    2 duplicate names for >FC Barcelona<:  Barcelona | FC Barcelona
+    2 duplicate names for >Málaga CF<:  Málaga | Málaga CF
+      7 rounds:
+        (7)  Round of 16 - 1st Leg       // Tu+We, 12.+13./19.+20. Feb 2013, 8 matches
+        (8)  Round of 16 - 2nd Leg      // Tu+We, 5.+6./12.+13. Mar 2013, 8 matches
+        (9)  Quarter-finals - 1st Leg           // Tu+We, 2.+3. Apr 2013, 4 matches
+        (10)  Quarter-finals - 2nd Leg // Tu+We, 9.+10. Apr 2013, 4 matches
+        (11) Semi-finals - 1st Leg          // Tu+We, 23.+24. Apr 2013, 2 matches
+        (12) Semi-finals - 2nd Leg    // Tu+We, 30. Apr/1. May 2013, 2 matches
+        (13) Final, 1 matches
 [5/38] >2012-13/el_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    80 lines - league: >UEFA Europa League< (el), season: >2012/13<
+      38 clubs:
+        9× Benfica ⇒ SL Benfica
+        8× Fenerbahçe ⇒ Fenerbahçe İstanbul SK
+        7× Chelsea FC
+        6× Newcastle United ⇒ Newcastle United FC
+        6× Rubin Kazan ⇒ FC Rubin Kazan
+        5× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        4× Anzhi Makhachkala ⇒ FC Anzhi Makhachkala
+        4× Basel ⇒ FC Basel
+        4× Bordeaux ⇒ Girondins de Bordeaux
+        4× FC Basel
+        4× Internazionale ⇒ FC Internazionale Milano
+        4× Lazio Roma ⇒ SS Lazio
+        4× Levante ⇒ Levante UD
+        4× Steaua București
+        4× Viktoria Plzeň
+        4× Zenit St. Petersburg
+        2× Atlético Madrid
+        2× BATE Borisov ⇒ FC BATE Borisov
+        2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        2× Borussia Mönchengladbach ⇒ Bor. Mönchengladbach
+        2× CFR Cluj
+        2× Chelsea ⇒ Chelsea FC
+        2× Dnipro Dnipropetrovsk ⇒ FC Dnipro
+        2× Dynamo Kyiv ⇒ FC Dynamo Kyiv
+        2× Genk ⇒ KRC Genk
+        2× Hannover 96
+        2× Lazio ⇒ SS Lazio
+ !!! WARN: too many name matches (2) found for >Liverpool<
+        2× Liverpool ⇒ Liverpool FC
+        2× Lyon ⇒ Olympique Lyonnais
+        2× Metalist Kharkiv ⇒ FC Metalist Kharkiv
+        2× Napoli ⇒ SSC Napoli
+        2× Olympiacos ⇒ Olympiacos Piraeus FC
+        2× Sparta Prague ⇒ AC Sparta Praha
+        2× Stuttgart ⇒ VfB Stuttgart
+        2× VfB Stuttgart
+        Ajax ⇒ Ajax Amsterdam
+     !! pen.     Tottenham Hotspur
+     !! pen.    Ajax
+!! ERROR: 4 duplicate club record(s) found
+    2 duplicate names for >Chelsea FC<:  Chelsea FC | Chelsea
+    2 duplicate names for >FC Basel<:  Basel | FC Basel
+    2 duplicate names for >SS Lazio<:  Lazio Roma | Lazio
+    2 duplicate names for >VfB Stuttgart<:  Stuttgart | VfB Stuttgart
+      9 rounds:
+        (1) Round of 32 - 1st Leg, 16 matches
+        (2) Round of 32 - 2nd Leg, 16 matches
+        (3) Round of 16 - 1st Leg, 8 matches
+        (4) Round of 16 - 2nd Leg, 8 matches
+        (5) Quarter-finals - 1st Leg, 4 matches
+        (6) Quarter-finals - 2nd Leg, 4 matches
+        (7) Semi-finals - 1st Leg, 2 matches
+        (8) Semi-finals - 2nd Leg, 2 matches
+        (9) Final, 1 matches
 [6/38] >2013-14/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    166 lines - league: >UEFA Champions League< (cl), season: >2013/14<
+      32 clubs:
+        6× AC Milan
+        6× Ajax Amsterdam
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+        6× Arsenal FC
+        6× Atlético Madrid
+        6× Austria Wien ⇒ FK Austria Wien
+        6× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        6× Bayern München
+        6× Benfica Lisboa ⇒ SL Benfica
+        6× Borussia Dortmund
+        6× CSKA Moskva ⇒ PFC CSKA Moskva
+        6× Celtic Glasgow ⇒ Celtic FC
+        6× Chelsea FC
+        6× FC Barcelona
+        6× FC Basel
+        6× FC København
+        6× FC Porto
+        6× FC Schalke 04
+        6× Galatasaray ⇒ Galatasaray İstanbul AŞ
+        6× Juventus
+        6× Manchester City ⇒ Manchester City FC
+        6× Manchester United ⇒ Manchester United FC
+        6× Olympiacos ⇒ Olympiacos Piraeus FC
+        6× Olympique Marseille ⇒ Olympique de Marseille
+        6× Paris Saint-Germain
+        6× RSC Anderlecht
+        6× Real Madrid
+        6× Real Sociedad
+        6× SSC Napoli
+        6× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
+        6× Steaua București
+        6× Viktoria Plzeň
+        6× Zenit St. Petersburg
+      6 rounds:
+        (3) Matchday 1 |  Sep/17 - Sep/18, 0 matches
+        (4) Matchday 2 |  Oct/1 - Oct/2, 0 matches
+        (5) Matchday 3 |  Oct/22 - Oct/23, 0 matches
+        (6) Matchday 4 |  Nov/5  - Nov/6, 0 matches
+        (7) Matchday 5 |  Nov/26 - Nov/27, 0 matches
+        (8) Matchday 6 |  Dec/10 - Dec/11, 96 matches
 [7/38] >2013-14/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    65 lines - league: >UEFA Champions League< (cl), season: >2013/14<
+      16 clubs:
+        7× Atlético Madrid
+        7× Real Madrid
+        6× Bayern München
+        6× Chelsea FC
+        4× Borussia Dortmund
+        4× FC Barcelona
+        4× Manchester United ⇒ Manchester United FC
+        4× Paris Saint-Germain
+        2× AC Milan
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+        2× Arsenal FC
+        2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        2× FC Schalke 04
+        2× Galatasaray ⇒ Galatasaray İstanbul AŞ
+        2× Manchester City ⇒ Manchester City FC
+        2× Olympiacos ⇒ Olympiacos Piraeus FC
+        2× Zenit St. Petersburg
+      7 rounds:
+        (9) Round of 16 - 1st Leg   //  (Tu+We) 18-19 & 25-26 February 2014, 8 matches
+        (10) Round of 16 - 2nd Leg  //  (Tu+We) 11-12 & 18-19 March 2014, 8 matches
+        (11) Quarter-finals - 1st Leg, 4 matches
+        (12) Quarter-finals - 2nd Leg, 4 matches
+        (13) Semi-finals - 1st Leg, 2 matches
+        (14) Semi-finals - 2nd Leg, 2 matches
+        (15) Final, 1 matches
 [8/38] >2013-14/cl_playoffs.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    26 lines - league: >UEFA Champions League< (cl), season: >2013/14<
+      20 clubs:
+        2× AC Milan
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+        2× Arsenal FC
+        2× Austria Wien ⇒ FK Austria Wien
+        2× Celtic FC
+        2× FC Basel 1893 ⇒ FC Basel
+        2× FC Paços de Ferreira
+        2× FC Schalke 04
+        2× FC Shakhter Karagandy
+        2× FC Steaua Bucureşti ⇒ Steaua București
+        2× FC Viktoria Plzeň ⇒ Viktoria Plzeň
+        2× FC Zenit ⇒ Zenit St. Petersburg
+        2× Fenerbahçe SK ⇒ Fenerbahçe İstanbul SK
+        2× GNK Dinamo Zagreb
+        2× Legia Warszawa
+        2× NK Maribor
+        2× Olympique Lyonnais
+        2× PAOK FC
+        2× PFC Ludogorets Razgrad
+        2× PSV Eindhoven
+        2× Real Sociedad
+      2 rounds:
+        (1) Play-off Round  /  1st Leg, 10 matches
+        (2) Play-off Round  /  2nd Leg, 10 matches
 [9/38] >2014-15/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    166 lines - league: >UEFA Champions League< (cl), season: >2014/15<
+      32 clubs:
+     !! 6× APOEL Nicosia
+        6× AS Monaco
+        6× AS Roma
+        6× Ajax Amsterdam
+ !!! WARN: too many name matches (2) found for >Arsenal FC<
+        6× Arsenal FC
+        6× Athletic Bilbao ⇒ Athletic Club Bilbao
+        6× Atlético Madrid
+        6× BATE Borisov ⇒ FC BATE Borisov
+        6× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+        6× Bayern München
+        6× Benfica Lisboa ⇒ SL Benfica
+        6× Borussia Dortmund
+        6× CSKA Moskva ⇒ PFC CSKA Moskva
+        6× Chelsea FC
+        6× FC Barcelona
+        6× FC Basel
+        6× FC Porto
+        6× FC Schalke 04
+        6× Galatasaray ⇒ Galatasaray İstanbul AŞ
+        6× Juventus Torino ⇒ Juventus
+ !!! WARN: too many name matches (2) found for >Liverpool FC<
+        6× Liverpool FC
+        6× Malmö FF
+        6× Manchester City ⇒ Manchester City FC
+        6× NK Maribor
+        6× Olympiacos Piraeus ⇒ Olympiacos Piraeus FC
+        6× PFC Ludogorets Razgrad
+        6× Paris Saint-Germain
+        6× RSC Anderlecht
+        6× Real Madrid
+        6× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
+        6× Sporting Lisboa ⇒ Sporting CP
+        6× Zenit St. Petersburg
+      6 rounds:
+        Matchday 1 | 16-17 September 2014, 0 matches
+        Matchday 2 | 30 September-1 October 2014, 0 matches
+        Matchday 3 | 21-22 October 2014, 0 matches
+        Matchday 4 | 4-5 November 2014, 0 matches
+        Matchday 5 | 25-26 November 2014, 0 matches
+        Matchday 6 | 9-10 December 2014, 96 matches
 [10/38] >2014-15/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    53 lines - league: >UEFA Champions League< (cl), season: >2014/15<
+      17 clubs:
+ !!! WARN: too many name matches (2) found for >Barcelona<
+        7× Barcelona ⇒ FC Barcelona
+        7× Juventus
+        6× Bayern München
+        6× Real Madrid
+        4× Atlético Madrid
+        4× Monaco ⇒ AS Monaco
+        4× Paris Saint-Germain
+        4× Porto ⇒ FC Porto
+ !!! WARN: too many name matches (3) found for >Arsenal<
+        2× Arsenal ⇒ Arsenal FC
+        2× Basel ⇒ FC Basel
+        2× Borussia Dortmund
+        2× Chelsea ⇒ Chelsea FC
+        2× Manchester City ⇒ Manchester City FC
+        2× Schalke 04 ⇒ FC Schalke 04
+        2× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
+        Bayer Leverkusen ⇒ Bayer 04 Leverkusen
+     !! pen.   Bayer Leverkusen
+      7 rounds:
+        Round of 16  - 1st Leg  //  17-18 & 24-25 February 2015, 8 matches
+        Round of 16  - 2nd Leg //  10-11 & 17-18 March 2015, 8 matches
+        Quarter-finals - 1st Leg //   14-15 April 2015, 4 matches
+        Quarter-finals - 2nd Leg // 21-22 April 2015, 4 matches
+        Semi-finals - 1st Leg   // 5-6 May 2015, 2 matches
+        Semi-finals - 2nd Leg   // 12-13 May 2015, 2 matches
+        Final          //   6 June 2015, 1 matches
 [11/38] >2014-15/cl_playoffs.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    2 lines - league: >UEFA Champions League< (cl), season: >2014/15<
+      0 clubs:
+      2 rounds:
+        Play-off Round  /  1st Leg   //   Tu+We 19+20 August 2014, 0 matches
+        Play-off Round  /  2nd Leg   //   Tu+We 26+27 August 2014, 0 matches
 [12/38] >2014-15/cl_round1.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    11 lines - league: >UEFA Champions League< (cl), season: >2014/15<
+      7 clubs:
+        2× FC Santa Coloma
+        2× HB Tórshavn
+        2× La Fiorita ⇒ SP La Fiorita
+        2× Levadia Tallinn ⇒ FC Levadia Tallinn
+        2× Lincoln Red Imps ⇒ Lincoln FC
+     !! Armenia Banants
+        Banants ⇒ FC Urartu
+      2 rounds:
+        1. Round / 1st Leg, 3 matches
+        1. Round / 2nd Leg, 3 matches
 [13/38] >2014-15/cl_round2.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    40 lines - league: >UEFA Champions League< (cl), season: >2014/15<
+      34 clubs:
+        2× Aktobe ⇒ FC Aktobe
+        2× BATE Borissow ⇒ FC BATE Borisov
+        2× Celtic Glasgow ⇒ Celtic FC
+        2× Cliftonville ⇒ Cliftonville FC
+        2× Debreceni VSC
+        2× Dinamo Tbilisi ⇒ FC Dinamo Tbilisi
+        2× Dinamo Zagreb ⇒ GNK Dinamo Zagreb
+        2× F91 Dudelange
+        2× FC Santa Coloma
+        2× HB Tórshavn
+        2× HJK Helsinki
+        2× KR Reykjavík
+        2× Legia Warszawa
+        2× Levadia Tallinn ⇒ FC Levadia Tallinn
+        2× Ludogorets Razgrad ⇒ PFC Ludogorets Razgrad
+        2× Maccabi Tel Aviv ⇒ Maccabi Tel-Aviv FC
+        2× Malmö FF
+        2× NK Maribor
+     !! 2× Partizan Beograd
+        2× Qarabağ ⇒ Qarabağ FK
+        2× Rabotnički Skopje ⇒ FK Rabotnički
+        2× Sheriff Tiraspol ⇒ FC Sheriff Tiraspol
+        2× Skënderbeu Korçë ⇒ KS Skënderbeu
+        2× Slovan Bratislava ⇒ ŠK Slovan Bratislava
+        2× Sparta Praha ⇒ AC Sparta Praha
+        2× St Patrick's Athletic ⇒ St Patrick's Athletic FC
+        2× Steaua București
+        2× Strømsgodset ⇒ Strømsgodset IF
+        2× Sutjeska Nikšić ⇒ FK Sutjeska
+        2× The New Saints ⇒ The New Saints FC
+        2× Valletta ⇒ Valletta FC
+        2× Ventspils ⇒ FK Ventspils
+        2× Zrinjski Mostar ⇒ HŠK Zrinjski
+        2× Žalgiris Vilnius ⇒ VMFD Žalgiris
+      2 rounds:
+        2. Round /  1st Leg, 17 matches
+        2. Round /  2nd Leg, 17 matches
 [14/38] >2014-15/cl_round3.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  1 section(s):
+    2 lines - league: >UEFA Champions League< (cl), season: >2014/15<
+      0 clubs:
+      2 rounds:
+        3. Round /  1st Leg  // Tu+We 29+30 Jul, 0 matches
+        3. Round / 2nd Leg  //  Tu+We 5+6 Aug, 0 matches
 [15/38] >2015-16/cl.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [16/38] >2015-16/cl_finals.txt<
