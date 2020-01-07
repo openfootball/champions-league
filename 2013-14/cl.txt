@@ -92,16 +92,16 @@ Group D:
   20.45   Bayern München   3-0  CSKA Moskva
   20.45   Viktoria Plzeň   0-3  Manchester City
 [Wed Oct/2]
-  18:00   CSKA Moskva      3-2  Viktoria Plzeň
+  18.00   CSKA Moskva      3-2  Viktoria Plzeň
   20.45   Manchester City  1-3  Bayern München
 [Wed Oct/23]
-  18:00   CSKA Moskva      1-2  Manchester City
+  18.00   CSKA Moskva      1-2  Manchester City
   20.45   Bayern München   5-0  Viktoria Plzeň
 [Tue Nov/5]
   20.45   Manchester City  5-2  CSKA Moskva
   20.45   Viktoria Plzeň   0-1  Bayern München
 [Wed Nov/27]
-  18:00   CSKA Moskva      1-3  Bayern München
+  18.00   CSKA Moskva      1-3  Bayern München
   20.45   Manchester City  4-2  Viktoria Plzeň
 [Tue Dec/10]
   20.45   Bayern München   2-3  Manchester City

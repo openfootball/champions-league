@@ -1,155 +1,134 @@
 38 datafiles:
 [1/38] >2011-12/cl_finals.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Barcelona<
- !!! WARN: too many name matches (3) found for >Arsenal<
-    58 lines - league: >UEFA Champions League< (cl), season: >2011/12<, 19 clubs, 7 rounds
-     !! pen.    Bayern München
-     !! pen.    Olympique Lyonnais
-     !! pen.   Chelsea
+    WARN: too many name matches (2) found for >Barcelona<
+    WARN: too many name matches (3) found for >Arsenal<
+    58 lines - league: >UEFA Champions League< (cl), season: >2011/12<, 16 clubs, 7 rounds
 [2/38] >2011-12/el_finals.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Valencia<
+    WARN: too many name matches (2) found for >Valencia<
     24 lines - league: >UEFA Europa League< (el), season: >2011/12<, 8 clubs, 5 rounds
 [3/38] >2012-13/cl.txt<
   1 section(s):
- !!! WARN: too many name matches (3) found for >Arsenal<
- !!! WARN: too many name matches (2) found for >Barcelona<
- !!! WARN: too many name matches (2) found for >Valencia<
+    WARN: too many name matches (3) found for >Arsenal<
+    WARN: too many name matches (2) found for >Barcelona<
+    WARN: too many name matches (2) found for >Valencia<
     166 lines - league: >UEFA Champions League< (cl), season: >2012/13<, 32 clubs, 6 rounds
 [4/38] >2012-13/cl_finals.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Barcelona<
- !!! WARN: too many name matches (3) found for >Arsenal<
- !!! WARN: too many name matches (2) found for >Valencia<
-    73 lines - league: >UEFA Champions League< (cl), season: >2012/13<, 18 clubs, 7 rounds
-!! ERROR: 2 duplicate club record(s) found
-    2 duplicate names for >FC Barcelona<:  Barcelona | FC Barcelona
-    2 duplicate names for >Málaga CF<:  Málaga | Málaga CF
+    WARN: too many name matches (3) found for >Arsenal<
+    WARN: too many name matches (2) found for >Valencia<
+    73 lines - league: >UEFA Champions League< (cl), season: >2012/13<, 16 clubs, 7 rounds
 [5/38] >2012-13/el_finals.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Liverpool<
-    80 lines - league: >UEFA Europa League< (el), season: >2012/13<, 38 clubs, 9 rounds
-     !! pen.     Tottenham Hotspur
-     !! pen.    Ajax
-!! ERROR: 4 duplicate club record(s) found
-    2 duplicate names for >Chelsea FC<:  Chelsea FC | Chelsea
-    2 duplicate names for >FC Basel<:  Basel | FC Basel
-    2 duplicate names for >SS Lazio<:  Lazio Roma | Lazio
-    2 duplicate names for >VfB Stuttgart<:  Stuttgart | VfB Stuttgart
+    WARN: too many name matches (2) found for >Liverpool<
+    80 lines - league: >UEFA Europa League< (el), season: >2012/13<, 32 clubs, 9 rounds
 [6/38] >2013-14/cl.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
     166 lines - league: >UEFA Champions League< (cl), season: >2013/14<, 32 clubs, 6 rounds
 [7/38] >2013-14/cl_finals.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
     65 lines - league: >UEFA Champions League< (cl), season: >2013/14<, 16 clubs, 7 rounds
 [8/38] >2013-14/cl_playoffs.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
     26 lines - league: >UEFA Champions League< (cl), season: >2013/14<, 20 clubs, 2 rounds
 [9/38] >2014-15/cl.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Arsenal FC<
- !!! WARN: too many name matches (2) found for >Liverpool FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Liverpool FC<
     166 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 32 clubs, 6 rounds
-     !! 6× APOEL Nicosia
 [10/38] >2014-15/cl_finals.txt<
   1 section(s):
- !!! WARN: too many name matches (2) found for >Barcelona<
- !!! WARN: too many name matches (3) found for >Arsenal<
-    53 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 17 clubs, 7 rounds
-     !! pen.   Bayer Leverkusen
+    WARN: too many name matches (2) found for >Barcelona<
+    WARN: too many name matches (3) found for >Arsenal<
+    53 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 16 clubs, 7 rounds
 [11/38] >2014-15/cl_playoffs.txt<
   1 section(s):
     2 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 0 clubs, 2 rounds
 [12/38] >2014-15/cl_round1.txt<
   1 section(s):
-    11 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 7 clubs, 2 rounds
-     !! Armenia Banants
+    11 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 6 clubs, 2 rounds
 [13/38] >2014-15/cl_round2.txt<
   1 section(s):
     40 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 34 clubs, 2 rounds
-     !! 2× Partizan Beograd
 [14/38] >2014-15/cl_round3.txt<
   1 section(s):
     2 lines - league: >UEFA Champions League< (cl), season: >2014/15<, 0 clubs, 2 rounds
 [15/38] >2015-16/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [16/38] >2015-16/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [17/38] >2016-17/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [18/38] >2016-17/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [19/38] >2017-18/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [20/38] >2017-18/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [21/38] >archive/1950s/1955-56/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [22/38] >archive/1950s/1956-57/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [23/38] >archive/1950s/1957-58/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [24/38] >archive/1950s/1958-59/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [25/38] >archive/1950s/1959-60/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [26/38] >archive/1960s/1960-61/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [27/38] >archive/1960s/1961-62/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [28/38] >archive/1960s/1962-63/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [29/38] >archive/1960s/1963-64/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [30/38] >archive/1960s/1964-65/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [31/38] >archive/1960s/1965-66/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [32/38] >archive/1960s/1966-67/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [33/38] >archive/1960s/1967-68/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [34/38] >archive/1960s/1968-69/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [35/38] >archive/1960s/1969-70/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [36/38] >archive/1970s/1970-71/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [37/38] >archive/1970s/1971-72/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [38/38] >archive/1970s/1972-73/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 
 
 [1/38] >2011-12/cl_finals.txt<
   1 section(s):
     58 lines - league: >UEFA Champions League< (cl), season: >2011/12<
-      19 clubs:
- !!! WARN: too many name matches (2) found for >Barcelona<
+      16 clubs:
+        7× Bayern München
+        7× Chelsea ⇒ Chelsea FC
+    WARN: too many name matches (2) found for >Barcelona<
         6× Barcelona ⇒ FC Barcelona
-        6× Bayern München
-        6× Chelsea ⇒ Chelsea FC
         6× Real Madrid
         4× APOEL ⇒ APOEL Nicosia FC
         4× Benfica ⇒ SL Benfica
         4× Marseille ⇒ Olympique de Marseille
         4× Milan ⇒ AC Milan
- !!! WARN: too many name matches (3) found for >Arsenal<
+    WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Basel ⇒ FC Basel
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         2× CSKA Moskva ⇒ PFC CSKA Moskva
         2× Internazionale ⇒ FC Internazionale Milano
         2× Napoli ⇒ SSC Napoli
+        2× Olympique Lyonnais
         2× Zenit St. Petersburg
-        Olympique Lyonnais
-     !! pen.    Bayern München
-     !! pen.    Olympique Lyonnais
-     !! pen.   Chelsea
       7 rounds:
         (1)  Round of 16 - 1st Leg             //  Tu+We 14.+15. & 21.+22. Feb 2012, 8 matches
         (2)  Round of 16 - 2nd Leg   // Tu+We 6.+7. & 13.+14. March 2012, 8 matches
@@ -165,7 +144,7 @@
         5× Athletic Bilbao ⇒ Athletic Club Bilbao
         5× Atlético Madrid
         4× Sporting CP
- !!! WARN: too many name matches (2) found for >Valencia<
+    WARN: too many name matches (2) found for >Valencia<
         4× Valencia ⇒ Valencia CF
         2× AZ Alkmaar
         2× Hannover 96
@@ -183,10 +162,10 @@
       32 clubs:
         6× Ajax ⇒ Ajax Amsterdam
         6× Anderlecht ⇒ RSC Anderlecht
- !!! WARN: too many name matches (3) found for >Arsenal<
+    WARN: too many name matches (3) found for >Arsenal<
         6× Arsenal ⇒ Arsenal FC
         6× BATE Borissow ⇒ FC BATE Borisov
- !!! WARN: too many name matches (2) found for >Barcelona<
+    WARN: too many name matches (2) found for >Barcelona<
         6× Barcelona ⇒ FC Barcelona
         6× Bayern München
         6× Benfica ⇒ SL Benfica
@@ -213,7 +192,7 @@
         6× Schachtar Donezk ⇒ FC Shakhtar Donetsk
         6× Schalke 04 ⇒ FC Schalke 04
         6× Spartak Moskau ⇒ FC Spartak Moskva
- !!! WARN: too many name matches (2) found for >Valencia<
+    WARN: too many name matches (2) found for >Valencia<
         6× Valencia ⇒ Valencia CF
         6× Zenit St. Petersburg
       6 rounds:
@@ -226,18 +205,16 @@
 [4/38] >2012-13/cl_finals.txt<
   1 section(s):
     73 lines - league: >UEFA Champions League< (cl), season: >2012/13<
-      18 clubs:
+      16 clubs:
         7× Bayern München
         7× Borussia Dortmund
+        6× FC Barcelona
         6× Real Madrid
         4× Galatasaray ⇒ Galatasaray İstanbul AŞ
         4× Juventus
+        4× Málaga CF
         4× Paris Saint-Germain
- !!! WARN: too many name matches (2) found for >Barcelona<
-        3× Barcelona ⇒ FC Barcelona
-        3× FC Barcelona
-        3× Málaga ⇒ Málaga CF
- !!! WARN: too many name matches (3) found for >Arsenal<
+    WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Celtic Glasgow ⇒ Celtic FC
         2× Manchester United ⇒ Manchester United FC
@@ -245,12 +222,8 @@
         2× Porto ⇒ FC Porto
         2× Schachtar Donezk ⇒ FC Shakhtar Donetsk
         2× Schalke 04 ⇒ FC Schalke 04
- !!! WARN: too many name matches (2) found for >Valencia<
+    WARN: too many name matches (2) found for >Valencia<
         2× Valencia ⇒ Valencia CF
-        Málaga CF
-!! ERROR: 2 duplicate club record(s) found
-    2 duplicate names for >FC Barcelona<:  Barcelona | FC Barcelona
-    2 duplicate names for >Málaga CF<:  Málaga | Málaga CF
       7 rounds:
         (7)  Round of 16 - 1st Leg       // Tu+We, 12.+13./19.+20. Feb 2013, 8 matches
         (8)  Round of 16 - 2nd Leg      // Tu+We, 5.+6./12.+13. Mar 2013, 8 matches
@@ -262,51 +235,40 @@
 [5/38] >2012-13/el_finals.txt<
   1 section(s):
     80 lines - league: >UEFA Europa League< (el), season: >2012/13<
-      38 clubs:
+      32 clubs:
         9× Benfica ⇒ SL Benfica
+        9× Chelsea FC
+        8× FC Basel
         8× Fenerbahçe ⇒ Fenerbahçe İstanbul SK
-        7× Chelsea FC
+        6× Lazio Roma ⇒ SS Lazio
         6× Newcastle United ⇒ Newcastle United FC
         6× Rubin Kazan ⇒ FC Rubin Kazan
-        5× Tottenham Hotspur ⇒ Tottenham Hotspur FC
+        6× Tottenham Hotspur ⇒ Tottenham Hotspur FC
         4× Anzhi Makhachkala ⇒ FC Anzhi Makhachkala
-        4× Basel ⇒ FC Basel
         4× Bordeaux ⇒ Girondins de Bordeaux
-        4× FC Basel
         4× Internazionale ⇒ FC Internazionale Milano
-        4× Lazio Roma ⇒ SS Lazio
         4× Levante ⇒ Levante UD
         4× Steaua București
+        4× VfB Stuttgart
         4× Viktoria Plzeň
         4× Zenit St. Petersburg
+        2× Ajax ⇒ Ajax Amsterdam
         2× Atlético Madrid
         2× BATE Borisov ⇒ FC BATE Borisov
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         2× Borussia Mönchengladbach ⇒ Bor. Mönchengladbach
         2× CFR Cluj
-        2× Chelsea ⇒ Chelsea FC
         2× Dnipro Dnipropetrovsk ⇒ FC Dnipro
         2× Dynamo Kyiv ⇒ FC Dynamo Kyiv
         2× Genk ⇒ KRC Genk
         2× Hannover 96
-        2× Lazio ⇒ SS Lazio
- !!! WARN: too many name matches (2) found for >Liverpool<
+    WARN: too many name matches (2) found for >Liverpool<
         2× Liverpool ⇒ Liverpool FC
         2× Lyon ⇒ Olympique Lyonnais
         2× Metalist Kharkiv ⇒ FC Metalist Kharkiv
         2× Napoli ⇒ SSC Napoli
         2× Olympiacos ⇒ Olympiacos Piraeus FC
         2× Sparta Prague ⇒ AC Sparta Praha
-        2× Stuttgart ⇒ VfB Stuttgart
-        2× VfB Stuttgart
-        Ajax ⇒ Ajax Amsterdam
-     !! pen.     Tottenham Hotspur
-     !! pen.    Ajax
-!! ERROR: 4 duplicate club record(s) found
-    2 duplicate names for >Chelsea FC<:  Chelsea FC | Chelsea
-    2 duplicate names for >FC Basel<:  Basel | FC Basel
-    2 duplicate names for >SS Lazio<:  Lazio Roma | Lazio
-    2 duplicate names for >VfB Stuttgart<:  Stuttgart | VfB Stuttgart
       9 rounds:
         (1) Round of 32 - 1st Leg, 16 matches
         (2) Round of 32 - 2nd Leg, 16 matches
@@ -323,7 +285,7 @@
       32 clubs:
         6× AC Milan
         6× Ajax Amsterdam
- !!! WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
         6× Arsenal FC
         6× Atlético Madrid
         6× Austria Wien ⇒ FK Austria Wien
@@ -374,7 +336,7 @@
         4× Manchester United ⇒ Manchester United FC
         4× Paris Saint-Germain
         2× AC Milan
- !!! WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
         2× Arsenal FC
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         2× FC Schalke 04
@@ -395,7 +357,7 @@
     26 lines - league: >UEFA Champions League< (cl), season: >2013/14<
       20 clubs:
         2× AC Milan
- !!! WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
         2× Arsenal FC
         2× Austria Wien ⇒ FK Austria Wien
         2× Celtic FC
@@ -422,11 +384,11 @@
   1 section(s):
     166 lines - league: >UEFA Champions League< (cl), season: >2014/15<
       32 clubs:
-     !! 6× APOEL Nicosia
+        6× APOEL Nicosia ⇒ APOEL Nicosia FC
         6× AS Monaco
         6× AS Roma
         6× Ajax Amsterdam
- !!! WARN: too many name matches (2) found for >Arsenal FC<
+    WARN: too many name matches (2) found for >Arsenal FC<
         6× Arsenal FC
         6× Athletic Bilbao ⇒ Athletic Club Bilbao
         6× Atlético Madrid
@@ -443,7 +405,7 @@
         6× FC Schalke 04
         6× Galatasaray ⇒ Galatasaray İstanbul AŞ
         6× Juventus Torino ⇒ Juventus
- !!! WARN: too many name matches (2) found for >Liverpool FC<
+    WARN: too many name matches (2) found for >Liverpool FC<
         6× Liverpool FC
         6× Malmö FF
         6× Manchester City ⇒ Manchester City FC
@@ -466,8 +428,8 @@
 [10/38] >2014-15/cl_finals.txt<
   1 section(s):
     53 lines - league: >UEFA Champions League< (cl), season: >2014/15<
-      17 clubs:
- !!! WARN: too many name matches (2) found for >Barcelona<
+      16 clubs:
+    WARN: too many name matches (2) found for >Barcelona<
         7× Barcelona ⇒ FC Barcelona
         7× Juventus
         6× Bayern München
@@ -476,16 +438,15 @@
         4× Monaco ⇒ AS Monaco
         4× Paris Saint-Germain
         4× Porto ⇒ FC Porto
- !!! WARN: too many name matches (3) found for >Arsenal<
+    WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Basel ⇒ FC Basel
+        2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         2× Borussia Dortmund
         2× Chelsea ⇒ Chelsea FC
         2× Manchester City ⇒ Manchester City FC
         2× Schalke 04 ⇒ FC Schalke 04
         2× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
-        Bayer Leverkusen ⇒ Bayer 04 Leverkusen
-     !! pen.   Bayer Leverkusen
       7 rounds:
         Round of 16  - 1st Leg  //  17-18 & 24-25 February 2015, 8 matches
         Round of 16  - 2nd Leg //  10-11 & 17-18 March 2015, 8 matches
@@ -504,14 +465,13 @@
 [12/38] >2014-15/cl_round1.txt<
   1 section(s):
     11 lines - league: >UEFA Champions League< (cl), season: >2014/15<
-      7 clubs:
+      6 clubs:
+        2× Banants ⇒ FC Urartu
         2× FC Santa Coloma
         2× HB Tórshavn
         2× La Fiorita ⇒ SP La Fiorita
         2× Levadia Tallinn ⇒ FC Levadia Tallinn
         2× Lincoln Red Imps ⇒ Lincoln FC
-     !! Armenia Banants
-        Banants ⇒ FC Urartu
       2 rounds:
         1. Round / 1st Leg, 3 matches
         1. Round / 2nd Leg, 3 matches
@@ -537,7 +497,7 @@
         2× Maccabi Tel Aviv ⇒ Maccabi Tel-Aviv FC
         2× Malmö FF
         2× NK Maribor
-     !! 2× Partizan Beograd
+        2× Partizan Beograd ⇒ FK Partizan Belgrade
         2× Qarabağ ⇒ Qarabağ FK
         2× Rabotnički Skopje ⇒ FK Rabotnički
         2× Sheriff Tiraspol ⇒ FC Sheriff Tiraspol
@@ -564,50 +524,50 @@
         3. Round /  1st Leg  // Tu+We 29+30 Jul, 0 matches
         3. Round / 2nd Leg  //  Tu+We 5+6 Aug, 0 matches
 [15/38] >2015-16/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [16/38] >2015-16/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [17/38] >2016-17/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [18/38] >2016-17/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [19/38] >2017-18/cl.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [20/38] >2017-18/cl_finals.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [21/38] >archive/1950s/1955-56/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [22/38] >archive/1950s/1956-57/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [23/38] >archive/1950s/1957-58/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [24/38] >archive/1950s/1958-59/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [25/38] >archive/1950s/1959-60/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [26/38] >archive/1960s/1960-61/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [27/38] >archive/1960s/1961-62/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [28/38] >archive/1960s/1962-63/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [29/38] >archive/1960s/1963-64/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [30/38] >archive/1960s/1964-65/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [31/38] >archive/1960s/1965-66/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [32/38] >archive/1960s/1966-67/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [33/38] >archive/1960s/1967-68/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [34/38] >archive/1960s/1968-69/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [35/38] >archive/1960s/1969-70/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [36/38] >archive/1970s/1970-71/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [37/38] >archive/1970s/1971-72/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections
 [38/38] >archive/1970s/1972-73/cup.txt<
-  !!! WARN !!! - NO sections found; 0 sections
+  !!! ERROR !!! - NO sections found; 0 sections

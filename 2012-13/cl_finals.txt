@@ -11,11 +11,11 @@
  20.45  Real Madrid       1-1  Manchester United
 
 [Tue Feb/19]
- 20.45  Porto             1-0  Málaga
+ 20.45  Porto             1-0  Málaga CF
  20.45  Arsenal           1-3  Bayern München
 [Wed Feb/20]
  20.45  Galatasaray       1-1  Schalke 04
- 20.45  Milan             2-0  Barcelona
+ 20.45  Milan             2-0  FC Barcelona
 
 
 (8)  Round of 16 - 2nd Leg      // Tu+We, 5.+6./12.+13. Mar 2013
@@ -34,10 +34,10 @@
 [Tue Mar/12]
   20.45  Schalke 04  2-3  Galatasaray    @ Veltins-Arena, Gelsenkirchen
            [R. Neustädter 17' M. Bastos 63';  Hamit Altintop 37' Burak Yilmaz 42' U. Bulut 95']
-  20.45  Barcelona  4-0  Milan           @ Camp Nou, Barcelona
+  20.45  FC Barcelona  4-0  Milan           @ Camp Nou, Barcelona
            [L. Messi 5', 40'  D. Villa 55'  Jordi Alba 92']
 [Wed Mar/13]
-  20.45  Málaga  2-0  Porto              @ La Rosaleda, Málaga
+  20.45  Málaga CF  2-0  Porto              @ La Rosaleda, Málaga
            [Isco 43' R. Santa Cruz 77']
   20.45  Bayern München  0-2  Arsenal    @ Allianz Arena, München
            [-; Giroud 3'  L. Koscielny 86']
@@ -46,12 +46,12 @@
 (9)  Quarter-finals - 1st Leg           // Tu+We, 2.+3. Apr 2013
 
 [Tue Apr/2]
-  20.45   Paris Saint-Germain  2-2  Barcelona    @ Parc des Princes, Paris
+  20.45   Paris Saint-Germain  2-2  FC Barcelona    @ Parc des Princes, Paris
              [Ibrahimović 79' Matuidi 90+4'; Messi 38' Xavi 89' (pen.)]
   20.45   Bayern München       2-0  Juventus     @ Allianz Arena, München
              [Alaba 1' Müller 63']
 [Wed Apr/3]
-  20.45   Málaga               0-0  Borussia Dortmund   @ La Rosaleda, Málaga
+  20.45   Málaga CF            0-0  Borussia Dortmund   @ La Rosaleda, Málaga
   20.45   Real Madrid          3-0  Galatasaray         @ Santiago Bernabéu, Madrid
              [Ronaldo 9' Benzema 29' Higuaín 73']
 
