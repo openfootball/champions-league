@@ -13,7 +13,7 @@
     WARN: too many name matches (3) found for >Arsenal<
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (2) found for >Valencia<
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2012/13<, 32 clubs, 6 rounds
+    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2012/13<, 32 clubs, 0 rounds
 [4/20] >2012-13/cl_finals.txt<
   1 section(s):
     WARN: too many name matches (3) found for >Arsenal<
@@ -26,7 +26,7 @@
 [6/20] >2013-14/cl.txt<
   1 section(s):
     WARN: too many name matches (2) found for >Arsenal FC<
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<, 32 clubs, 6 rounds
+    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<, 32 clubs, 0 rounds
 [7/20] >2013-14/cl_finals.txt<
   1 section(s):
     WARN: too many name matches (2) found for >Arsenal FC<
@@ -39,7 +39,7 @@
   1 section(s):
     WARN: too many name matches (2) found for >Arsenal FC<
     WARN: too many name matches (2) found for >Liverpool FC<
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 32 clubs, 6 rounds
+    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 32 clubs, 0 rounds
 [10/20] >2014-15/cl_finals.txt<
   1 section(s):
     WARN: too many name matches (2) found for >Barcelona<
@@ -62,7 +62,7 @@
     WARN: too many name matches (3) found for >Arsenal<
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (2) found for >Valencia<
-    256 lines - league: >UEFA Champions League< (uefa.cl), season: >2015/16<, 32 clubs, 6 rounds
+    256 lines - league: >UEFA Champions League< (uefa.cl), season: >2015/16<, 32 clubs, 0 rounds
 [16/20] >2015-16/cl_finals.txt<
   1 section(s):
     WARN: too many name matches (2) found for >Barcelona<
@@ -72,7 +72,7 @@
   1 section(s):
     WARN: too many name matches (3) found for >Arsenal<
     WARN: too many name matches (2) found for >Barcelona<
-    255 lines - league: >UEFA Champions League< (uefa.cl), season: >2016/17<, 32 clubs, 6 rounds
+    255 lines - league: >UEFA Champions League< (uefa.cl), season: >2016/17<, 32 clubs, 0 rounds
      !! 6× Copenhagen
 [18/20] >2016-17/cl_finals.txt<
   1 section(s):
@@ -83,7 +83,7 @@
   1 section(s):
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (2) found for >Liverpool<
-    258 lines - league: >UEFA Champions League< (uefa.cl), season: >2017/18<, 32 clubs, 6 rounds
+    258 lines - league: >UEFA Champions League< (uefa.cl), season: >2017/18<, 32 clubs, 0 rounds
 [20/20] >2017-18/cl_finals.txt<
   1 section(s):
     WARN: too many name matches (2) found for >Liverpool<
@@ -179,13 +179,7 @@
     WARN: too many name matches (2) found for >Valencia<
         6× Valencia ⇒ Valencia CF
         6× Zenit St. Petersburg
-      6 rounds:
-        Matchday 1 | Sep/18 - Sep/19, 0 matches
-        Matchday 2 | Oct/2  - Oct/3, 0 matches
-        Matchday 3 | Oct/23 - Oct/24, 0 matches
-        Matchday 4 | Nov/6  - Nov/7, 0 matches
-        Matchday 5 | Nov/20 - Nov/21, 0 matches
-        Matchday 6 | Dec/4  - Dec/5, 96 matches
+      0 rounds:
 [4/20] >2012-13/cl_finals.txt<
   1 section(s):
     73 lines - league: >UEFA Champions League< (uefa.cl), season: >2012/13<
@@ -300,13 +294,7 @@
         6× Steaua București
         6× Viktoria Plzeň
         6× Zenit St. Petersburg
-      6 rounds:
-        (3) Matchday 1 |  Sep/17 - Sep/18, 0 matches
-        (4) Matchday 2 |  Oct/1 - Oct/2, 0 matches
-        (5) Matchday 3 |  Oct/22 - Oct/23, 0 matches
-        (6) Matchday 4 |  Nov/5  - Nov/6, 0 matches
-        (7) Matchday 5 |  Nov/26 - Nov/27, 0 matches
-        (8) Matchday 6 |  Dec/10 - Dec/11, 96 matches
+      0 rounds:
 [7/20] >2013-14/cl_finals.txt<
   1 section(s):
     65 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<
@@ -402,13 +390,7 @@
         6× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
         6× Sporting Lisboa ⇒ Sporting CP
         6× Zenit St. Petersburg
-      6 rounds:
-        Matchday 1 | 16-17 September 2014, 0 matches
-        Matchday 2 | 30 September-1 October 2014, 0 matches
-        Matchday 3 | 21-22 October 2014, 0 matches
-        Matchday 4 | 4-5 November 2014, 0 matches
-        Matchday 5 | 25-26 November 2014, 0 matches
-        Matchday 6 | 9-10 December 2014, 96 matches
+      0 rounds:
 [10/20] >2014-15/cl_finals.txt<
   1 section(s):
     53 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<
@@ -546,13 +528,7 @@
         6× Valencia ⇒ Valencia CF
         6× Wolfsburg ⇒ VfL Wolfsburg
         6× Zenit Saint Petersburg ⇒ Zenit St. Petersburg
-      6 rounds:
-        Matchday 1 | 15-16 September 2015, 0 matches
-        Matchday 2 | 29-30 September 2015, 0 matches
-        Matchday 3 | 20-21 October 2015, 0 matches
-        Matchday 4 | 3-4 November 2015, 0 matches
-        Matchday 5 | 24-25 November 2015, 0 matches
-        Matchday 6 | 8-9 December 2015, 96 matches
+      0 rounds:
 [16/20] >2015-16/cl_finals.txt<
   1 section(s):
     78 lines - league: >UEFA Champions League< (uefa.cl), season: >2015/16<
@@ -621,13 +597,7 @@
         6× Sevilla ⇒ Sevilla FC
         6× Sporting CP
         6× Tottenham Hotspur ⇒ Tottenham Hotspur FC
-      6 rounds:
-        Matchday 1 | Sep/13 - Sep/14, 0 matches
-        Matchday 2 | Sep/27 - Sep/28, 0 matches
-        Matchday 3 | Oct/18 - Oct/19, 0 matches
-        Matchday 4 | Nov/1  - Nov/2, 0 matches
-        Matchday 5 | Nov/22 - Nov/23, 0 matches
-        Matchday 6 | Dec/6  - Dec/7, 96 matches
+      0 rounds:
 [18/20] >2016-17/cl_finals.txt<
   1 section(s):
     80 lines - league: >UEFA Champions League< (uefa.cl), season: >2016/17<
@@ -696,13 +666,7 @@
         6× Spartak Moscow ⇒ FC Spartak Moskva
         6× Sporting CP
         6× Tottenham Hotspur ⇒ Tottenham Hotspur FC
-      6 rounds:
-        Matchday 1 | Sep/12 - Sep/13, 0 matches
-        Matchday 2 | Sep/26 - Sep/27, 0 matches
-        Matchday 3 | Oct/17 - Oct/18, 0 matches
-        Matchday 4 | Oct/31 - Nov/1, 0 matches
-        Matchday 5 | Nov/21 - Nov/22, 0 matches
-        Matchday 6 | Dec/5  - Dec/6, 96 matches
+      0 rounds:
 [20/20] >2017-18/cl_finals.txt<
   1 section(s):
     79 lines - league: >UEFA Champions League< (uefa.cl), season: >2017/18<
