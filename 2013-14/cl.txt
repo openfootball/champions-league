@@ -108,7 +108,7 @@ Group D:
   20.45   Viktoria Plzeň   2-1  CSKA Moskva
 
 
-Gruppe E:
+Group E:
 
 [Wed Sep/18]
   20.45  Chelsea FC       1-2  FC Basel
@@ -129,7 +129,7 @@ Gruppe E:
   20.45  FC Schalke 04    2-0  FC Basel
   20.45  Chelsea FC       1-0  Steaua București
 
-Gruppe F:
+Group F:
 
 [Wed Sep/18]
   20.45  Olympique Marseille  1-2 Arsenal FC
@@ -151,7 +151,7 @@ Gruppe F:
   20.45  SSC Napoli             2-0 Arsenal FC
 
 
-Gruppe G:
+Group G:
 
 [Wed Sep/18]
   20.45  Atlético Madrid        3-1 Zenit St. Petersburg
@@ -172,7 +172,7 @@ Gruppe G:
   20.45  Atlético Madrid        2-0 FC Porto
   20.45  Austria Wien           4-1 Zenit St. Petersburg
 
-Gruppe H:
+Group H:
 
 [Wed Sep/18]
   20.45  FC Barcelona     4-0 Ajax Amsterdam
