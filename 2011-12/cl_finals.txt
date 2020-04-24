@@ -1,10 +1,10 @@
-= Champions League 2011/12
+= UEFA Champions League 2011/12
 
 
 # note: timezone for games (play_at) is *always* CET (central european time)
 
 
-(1)  Round of 16 - 1st Leg             //  Tu+We 14.+15. & 21.+22. Feb 2012
+Round of 16 - 1st Leg             //  Tu+We 14.+15. & 21.+22. Feb 2012
 
 [Tue Feb/14]
   20.45  Olympique Lyonnais    1-0  APOEL
@@ -20,7 +20,7 @@
   20.45  Marseille             1-0  Internazionale
   20.45  Basel                 1-0  Bayern München
 
-(2)  Round of 16 - 2nd Leg   // Tu+We 6.+7. & 13.+14. March 2012
+Round of 16 - 2nd Leg   // Tu+We 6.+7. & 13.+14. March 2012
 
 [Tue Mar/6]
   20.45  Arsenal          3-0  Milan
@@ -37,7 +37,7 @@
   20.45  Real Madrid      4-1                  CSKA Moskva
 
 
-(3)  Quarter-finals - 1st Leg    // Tu+We 27.+28. March 2012
+Quarter-finals - 1st Leg    // Tu+We 27.+28. March 2012
 
 [Tue Mar/27]
   20.45  APOEL      0-3  Real Madrid
@@ -46,7 +46,7 @@
   20.45  Marseille  0-2  Bayern München
   20.45  Milan      0-0  Barcelona
 
-(4)  Quarter-finals - 2nd Leg   // Tu+We 3.+4.   April 2012
+Quarter-finals - 2nd Leg   // Tu+We 3.+4.   April 2012
 
 [Tue Apr/3]
   20.45  Bayern München  2-0  Marseille
@@ -56,7 +56,7 @@
   20.45  Chelsea         2-1  Benfica
 
 
-(5)  Semi-finals - 1st Leg                // Tu+We 17.+18. April 2012
+Semi-finals - 1st Leg                // Tu+We 17.+18. April 2012
 
 [Tue Apr/17]
   20.45  Bayern München  2-1  Real Madrid   @ Allianz Arena, München
@@ -65,7 +65,7 @@
   20.45  Chelsea         1-0  Barcelona  @ Stamford Bridge, London
            [Drogba 45+2']
 
-(6)  Semi-finals - 2nd Leg     // Tu+We 24.+25. April 2012
+Semi-finals - 2nd Leg     // Tu+We 24.+25. April 2012
 
 [Tue Apr/24]
   20.45  Barcelona      2-2  Chelsea   @ Camp Nou, Barcelona
@@ -74,7 +74,7 @@
   20.45  Real Madrid   3-4 pen. 2-1 a.e.t. (2-1, )  Bayern München  @ Santiago Bernabéu Stadium, Madrid
            [Ronaldo 6' (pen.), 14'; Robben 27' (pen.)]
 
-(7)  Final
+Final
 
 [Sat May/19]
   20.45  Bayern München   3-4 pen. 1-1 a.e.t. (1-1, ) Chelsea   @ Allianz Arena, München

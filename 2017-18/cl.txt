@@ -1,6 +1,5 @@
-############################################
-# Champions League 2017/18 - Group stage
-#
+= UEFA Champions League 2017/18         # Group stage
+
 #  see en.wikipedia.org/wiki/2017-18_UEFA_Champions_League_group_stage
 
 

@@ -1,4 +1,4 @@
-= Champions League 2012/13    ## Group phase (8 groups x 4 teams)
+= UEFA Champions League 2012/13    ## Group phase (8 groups x 4 teams)
 
 
 Group A  |  Paris Saint-Germain   FC Porto               Dynamo Kiew              Dinamo Zagreb

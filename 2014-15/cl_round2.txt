@@ -1,4 +1,4 @@
-= Champions League 2014/15     ## Qualifying 2nd Round
+= UEFA Champions League 2014/15     ## Qualifying 2nd Round
 
 # 34 teams
 #  - 31 champions from associations 17-48 (except Liechtenstein)

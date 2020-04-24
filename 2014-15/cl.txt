@@ -1,4 +1,4 @@
-= Champions League 2014/15     ## Group stage
+= UEFA Champions League 2014/15     ## Group stage
 
 #   see en.wikipedia.org/wiki/2014–15_UEFA_Champions_League_group_stage
 

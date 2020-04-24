@@ -1,4 +1,4 @@
-= Champions League 2013/14      ## Group Phase
+= UEFA Champions League 2013/14      ## Group Phase
 
 
 Group A |  Manchester United  Shakhtar Donetsk     Bayer Leverkusen      Real Sociedad

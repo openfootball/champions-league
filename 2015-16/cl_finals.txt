@@ -1,5 +1,4 @@
-#########################################################
-# Champions League 2015/16 -  Knockout phase (Finals)
+= UEFA Champions League 2015/16       # Knockout phase (Finals)
 
 
 Round of 16 - 1st Leg

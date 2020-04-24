@@ -1,6 +1,5 @@
-############################################
-# Champions League 2015/16 - Group stage
-#
+= UEFA Champions League 2015/16        # Group stage
+
 #  see en.wikipedia.org/wiki/2015–16_UEFA_Champions_League_group_stage
 
 

@@ -3,13 +3,14 @@
 ## What's `football.db`?
 
 A free open public domain football database & schema
-for use in any (programming) language (e.g. uses plain text data sets).
+for use in any (programming) language e.g. uses datasets in (structured) text
+using the football.txt format.
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 
 ## Intro
 
-Free open public domain football data for Europe.
+Free open public domain football datasets for Europe.
 Intern'l football club tournaments include:
 
 - UEFA Champions League
@@ -18,8 +19,7 @@ Intern'l football club tournaments include:
 Example:
 
 ```
-####################
-# Champions League
+= UEFA Champions League
 
 Group A |  Manchester United  Shakhtar Donetsk     Bayer Leverkusen      Real Sociedad
 Group B |  Real Madrid        Juventus             Galatasaray           FC København
@@ -51,7 +51,7 @@ Quarter-finals - 1st Leg
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text data sets. [More »](https://github.com/openfootball/datafile)
+from the datasets in (structured) text. [More »](https://github.com/openfootball/datafile)
 
 
 

@@ -1,6 +1,5 @@
-############################################
-# Champions League 2016/17 - Group stage
-#
+= UEFA Champions League 2016/17       # Group stage
+
 #  see en.wikipedia.org/wiki/2016-17_UEFA_Champions_League_group_stage
 
 

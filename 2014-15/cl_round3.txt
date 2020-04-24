@@ -1,4 +1,4 @@
-= Champions League 2014/15    ## Qualifying 3rd Round
+= UEFA Champions League 2014/15    ## Qualifying 3rd Round
 
 # 30 teams
 # - champions route - 20 teams
