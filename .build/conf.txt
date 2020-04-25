@@ -26,7 +26,7 @@
 [6/20] >2013-14/cl.txt<
   1 section(s):
     WARN: too many name matches (2) found for >Arsenal FC<
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<, 32 clubs, 8 group def, 4 groups, 6 round defs, 0 rounds
+    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<, 32 clubs, 8 group def, 8 groups, 6 round defs, 0 rounds
 [7/20] >2013-14/cl_finals.txt<
   1 section(s):
     WARN: too many name matches (2) found for >Arsenal FC<
@@ -309,11 +309,15 @@
         6× Steaua București
         6× Viktoria Plzeň
         6× Zenit St. Petersburg
-      4 groups:
+      8 groups:
         Group A:, 12 matches
         Group B:, 12 matches
         Group C:, 12 matches
-        Group D:, 60 matches
+        Group D:, 12 matches
+        Group E:, 12 matches
+        Group F:, 12 matches
+        Group G:, 12 matches
+        Group H:, 12 matches
       6 round defs:
         (3) Matchday 1 |  Sep/17 - Sep/18
         (4) Matchday 2 |  Oct/1 - Oct/2
