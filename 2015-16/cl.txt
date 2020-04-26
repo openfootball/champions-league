@@ -13,12 +13,12 @@ Group G |  Chelsea                 Porto               Dynamo Kyiv        Maccab
 Group H |  Zenit Saint Petersburg  Valencia            Lyon               Gent
 
 
-Matchday 1 | 15-16 September 2015
-Matchday 2 | 29-30 September 2015
-Matchday 3 | 20-21 October 2015
-Matchday 4 | 3-4 November 2015
-Matchday 5 | 24-25 November 2015
-Matchday 6 | 8-9 December 2015
+Matchday 1 | Sep/15 - Sep/16    ## 15-16 September 2015
+Matchday 2 | Sep/29 - Sep/30    ## 29-30 September 2015
+Matchday 3 | Oct/20 - Oct/21    ## 20-21 October 2015
+Matchday 4 | Nov/3  - Nov/4     ## 3-4 November 2015
+Matchday 5 | Nov/24 - Nov/25    ## 24-25 November 2015
+Matchday 6 | Dec/8  - Dec/9     ## 8-9 December 2015
 
 
 ## Notes:
