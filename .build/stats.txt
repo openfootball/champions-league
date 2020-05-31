@@ -1,0 +1,69 @@
+# Stats
+
+113 teams, 913 matches
+
+
+2 leagues
+uefa.cl - Champions League |  7 events
+uefa.el - Europa League |  2 events
+
+
+7 seasons
+2017/18 |  1 events
+2016/17 |  1 events
+2015/16 |  1 events
+2014/15 |  1 events
+2013/14 |  1 events
+2012/13 |  2 events
+2011/12 |  2 events
+
+
+9 events:
+  2017/18 (1):
+== uefa.cl - Champions League 2017/18 |  32 Teams, 125 Matches, 401 Goals (+0 a.e.t.)
+    8 Groups, 13 Rounds (13 Matchdays, 0 K.O.s)
+
+
+  2016/17 (1):
+== uefa.cl - Champions League 2016/17 |  32 Teams, 125 Matches, 380 Goals (+0 a.e.t.)
+    8 Groups, 13 Rounds (13 Matchdays, 0 K.O.s)
+
+
+  2015/16 (1):
+== uefa.cl - Champions League 2015/16 |  32 Teams, 125 Matches, 347 Goals (+0 a.e.t.)
+    8 Groups, 13 Rounds (13 Matchdays, 0 K.O.s)
+
+
+  2014/15 (1):
+== uefa.cl - Champions League 2014/15 |  65 Teams, 165 Matches, 408 Goals (+0 a.e.t.)
+    8 Groups, 21 Rounds (21 Matchdays, 0 K.O.s)
+
+
+  2013/14 (1):
+== uefa.cl - Champions League 2013/14 |  42 Teams, 145 Matches, 422 Goals (+0 a.e.t.)
+    8 Groups, 15 Rounds (15 Matchdays, 0 K.O.s)
+
+
+  2012/13 (2):
+== uefa.cl - Champions League 2012/13 |  32 Teams, 125 Matches, 368 Goals (+0 a.e.t.)
+    8 Groups, 13 Rounds (13 Matchdays, 0 K.O.s)
+
+
+== uefa.el - Europa League 2012/13 |  32 Teams, 61 Matches, 138 Goals (+0 a.e.t.)
+    0 Groups, 9 Rounds (9 Matchdays, 0 K.O.s)
+1 (16)  2 (16)  3 (8)  4 (8)  5 (4)  6 (4)  7 (2)  8 (2)  9 (1)  
+
+  2011/12 (2):
+== uefa.cl - Champions League 2011/12 |  16 Teams, 29 Matches, 90 Goals (+0 a.e.t.)
+    0 Groups, 7 Rounds (7 Matchdays, 0 K.O.s)
+1 (8)  2 (8)  3 (4)  4 (4)  5 (2)  6 (2)  7 (1)  
+
+== uefa.el - Europa League 2011/12 |  8 Teams, 13 Matches, 45 Goals (+0 a.e.t.)
+    0 Groups, 5 Rounds (5 Matchdays, 0 K.O.s)
+1 (4)  2 (4)  3 (2)  4 (2)  5 (1)  
+
+
+
+## Logs
+
+1 logs:

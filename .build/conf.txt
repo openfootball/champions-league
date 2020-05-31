@@ -1,110 +1,104 @@
 20 datafiles:
-[1/20] >2011-12/cl_finals.txt<
-  1 section(s):
+[1/20] >2011-12/cl_finals.txt< - 1 section(s):
+    58 lines, 29 matches - Champions League (uefa.cl) 2011/12, 16 team refs, 7 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (3) found for >Arsenal<
-    58 lines - league: >UEFA Champions League< (uefa.cl), season: >2011/12<, 16 clubs, 7 rounds
-[2/20] >2011-12/el_finals.txt<
-  1 section(s):
+[2/20] >2011-12/el_finals.txt< - 1 section(s):
+    24 lines, 13 matches - Europa League (uefa.el) 2011/12, 8 team refs, 5 round defs
+  !! 1 error(s) / warn(s):
     WARN: too many name matches (2) found for >Valencia<
-    24 lines - league: >UEFA Europa League< (uefa.el), season: >2011/12<, 8 clubs, 5 rounds
-[3/20] >2012-13/cl.txt<
-  1 section(s):
+[3/20] >2012-13/cl.txt< - 1 section(s):
+    166 lines, 96 matches - Champions League (uefa.cl) 2012/13, 32 team refs, 8 group defs, 8 group refs, 6 round defs, 0 round defs
+  !! 3 error(s) / warn(s):
     WARN: too many name matches (3) found for >Arsenal<
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (2) found for >Valencia<
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2012/13<, 32 clubs, 8 group def, 8 groups, 6 round defs, 0 rounds
-[4/20] >2012-13/cl_finals.txt<
-  1 section(s):
+[4/20] >2012-13/cl_finals.txt< - 1 section(s):
+    73 lines, 29 matches - Champions League (uefa.cl) 2012/13, 16 team refs, 7 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (3) found for >Arsenal<
     WARN: too many name matches (2) found for >Valencia<
-    73 lines - league: >UEFA Champions League< (uefa.cl), season: >2012/13<, 16 clubs, 7 rounds
-[5/20] >2012-13/el_finals.txt<
-  1 section(s):
+[5/20] >2012-13/el_finals.txt< - 1 section(s):
+    80 lines, 61 matches - Europa League (uefa.el) 2012/13, 32 team refs, 9 round defs
+  !! 1 error(s) / warn(s):
     WARN: too many name matches (2) found for >Liverpool<
-    80 lines - league: >UEFA Europa League< (uefa.el), season: >2012/13<, 32 clubs, 9 rounds
-[6/20] >2013-14/cl.txt<
-  1 section(s):
+[6/20] >2013-14/cl.txt< - 1 section(s):
+    166 lines, 96 matches - Champions League (uefa.cl) 2013/14, 32 team refs, 8 group defs, 8 group refs, 6 round defs, 0 round defs
+  !! 1 error(s) / warn(s):
     WARN: too many name matches (2) found for >Arsenal FC<
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<, 32 clubs, 8 group def, 8 groups, 6 round defs, 0 rounds
-[7/20] >2013-14/cl_finals.txt<
-  1 section(s):
+[7/20] >2013-14/cl_finals.txt< - 1 section(s):
+    65 lines, 29 matches - Champions League (uefa.cl) 2013/14, 16 team refs, 7 round defs
+  !! 1 error(s) / warn(s):
     WARN: too many name matches (2) found for >Arsenal FC<
-    65 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<, 16 clubs, 7 rounds
-[8/20] >2013-14/cl_playoffs.txt<
-  1 section(s):
+[8/20] >2013-14/cl_playoffs.txt< - 1 section(s):
+    26 lines, 20 matches - Champions League (uefa.cl) 2013/14, 20 team refs, 2 round defs
+  !! 1 error(s) / warn(s):
     WARN: too many name matches (2) found for >Arsenal FC<
-    26 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<, 20 clubs, 2 rounds
-[9/20] >2014-15/cl.txt<
-  1 section(s):
+[9/20] >2014-15/cl.txt< - 1 section(s):
+    166 lines, 96 matches - Champions League (uefa.cl) 2014/15, 32 team refs, 8 group defs, 8 group refs, 6 round defs, 0 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (2) found for >Arsenal FC<
     WARN: too many name matches (2) found for >Liverpool FC<
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 32 clubs, 8 group def, 8 groups, 6 round defs, 0 rounds
-[10/20] >2014-15/cl_finals.txt<
-  1 section(s):
+[10/20] >2014-15/cl_finals.txt< - 1 section(s):
+    53 lines, 29 matches - Champions League (uefa.cl) 2014/15, 16 team refs, 7 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (3) found for >Arsenal<
-    53 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 16 clubs, 7 rounds
-[11/20] >2014-15/cl_playoffs.txt<
-  1 section(s):
-    2 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 0 clubs, 2 rounds
-[12/20] >2014-15/cl_round1.txt<
-  1 section(s):
-    11 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 6 clubs, 2 rounds
-[13/20] >2014-15/cl_round2.txt<
-  1 section(s):
-    40 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 34 clubs, 2 rounds
-[14/20] >2014-15/cl_round3.txt<
-  1 section(s):
-    2 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<, 0 clubs, 2 rounds
-[15/20] >2015-16/cl.txt<
-  1 section(s):
+[11/20] >2014-15/cl_playoffs.txt< - 1 section(s):
+    2 lines, 0 matches - Champions League (uefa.cl) 2014/15, 0 team refs, 2 round defs
+[12/20] >2014-15/cl_round1.txt< - 1 section(s):
+    11 lines, 6 matches - Champions League (uefa.cl) 2014/15, 6 team refs, 2 round defs
+[13/20] >2014-15/cl_round2.txt< - 1 section(s):
+    40 lines, 34 matches - Champions League (uefa.cl) 2014/15, 34 team refs, 2 round defs
+[14/20] >2014-15/cl_round3.txt< - 1 section(s):
+    2 lines, 0 matches - Champions League (uefa.cl) 2014/15, 0 team refs, 2 round defs
+[15/20] >2015-16/cl.txt< - 1 section(s):
+    256 lines, 96 matches - Champions League (uefa.cl) 2015/16, 32 team refs, 8 group defs, 8 group refs, 6 round defs, 0 round defs
+  !! 3 error(s) / warn(s):
     WARN: too many name matches (3) found for >Arsenal<
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (2) found for >Valencia<
-    256 lines - league: >UEFA Champions League< (uefa.cl), season: >2015/16<, 32 clubs, 8 group def, 8 groups, 6 round defs, 0 rounds
-[16/20] >2015-16/cl_finals.txt<
-  1 section(s):
+[16/20] >2015-16/cl_finals.txt< - 1 section(s):
+    78 lines, 29 matches - Champions League (uefa.cl) 2015/16, 16 team refs, 7 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (3) found for >Arsenal<
-    78 lines - league: >UEFA Champions League< (uefa.cl), season: >2015/16<, 16 clubs, 7 rounds
-[17/20] >2016-17/cl.txt<
-  1 section(s):
+[17/20] >2016-17/cl.txt< - 1 section(s):
+    255 lines, 96 matches - Champions League (uefa.cl) 2016/17, 32 team refs, 8 group defs, 8 group refs, 6 round defs, 0 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (3) found for >Arsenal<
     WARN: too many name matches (2) found for >Barcelona<
-    255 lines - league: >UEFA Champions League< (uefa.cl), season: >2016/17<, 32 clubs, 8 group def, 8 groups, 6 round defs, 0 rounds
-     !! 6× Copenhagen
-[18/20] >2016-17/cl_finals.txt<
-  1 section(s):
+[18/20] >2016-17/cl_finals.txt< - 1 section(s):
+    80 lines, 29 matches - Champions League (uefa.cl) 2016/17, 16 team refs, 7 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (3) found for >Arsenal<
-    80 lines - league: >UEFA Champions League< (uefa.cl), season: >2016/17<, 16 clubs, 7 rounds
-[19/20] >2017-18/cl.txt<
-  1 section(s):
+[19/20] >2017-18/cl.txt< - 1 section(s):
+    258 lines, 96 matches - Champions League (uefa.cl) 2017/18, 32 team refs, 8 group defs, 8 group refs, 6 round defs, 0 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (2) found for >Barcelona<
     WARN: too many name matches (2) found for >Liverpool<
-    258 lines - league: >UEFA Champions League< (uefa.cl), season: >2017/18<, 32 clubs, 8 group def, 8 groups, 6 round defs, 0 rounds
-[20/20] >2017-18/cl_finals.txt<
-  1 section(s):
+[20/20] >2017-18/cl_finals.txt< - 1 section(s):
+    79 lines, 29 matches - Champions League (uefa.cl) 2017/18, 16 team refs, 7 round defs
+  !! 2 error(s) / warn(s):
     WARN: too many name matches (2) found for >Liverpool<
     WARN: too many name matches (2) found for >Barcelona<
-    79 lines - league: >UEFA Champions League< (uefa.cl), season: >2017/18<, 16 clubs, 7 rounds
 
 
-[1/20] >2011-12/cl_finals.txt<
-  1 section(s):
-    58 lines - league: >UEFA Champions League< (uefa.cl), season: >2011/12<
-      16 clubs:
+[1/20] >2011-12/cl_finals.txt< - 1 section(s):
+    58 lines, 29 matches - Champions League (uefa.cl) 2011/12
+      16 teams (referenced):
         7× Bayern München
         7× Chelsea ⇒ Chelsea FC
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         6× Barcelona ⇒ FC Barcelona
         6× Real Madrid
         4× APOEL ⇒ APOEL Nicosia FC
         4× Benfica ⇒ SL Benfica
         4× Marseille ⇒ Olympique de Marseille
         4× Milan ⇒ AC Milan
-    WARN: too many name matches (3) found for >Arsenal<
+!! WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Basel ⇒ FC Basel
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
@@ -113,7 +107,7 @@
         2× Napoli ⇒ SSC Napoli
         2× Olympique Lyonnais
         2× Zenit St. Petersburg
-      7 rounds:
+      7 rounds (referenced):
         Round of 16 - 1st Leg             //  Tu+We 14.+15. & 21.+22. Feb 2012, 8 matches
         Round of 16 - 2nd Leg   // Tu+We 6.+7. & 13.+14. March 2012, 8 matches
         Quarter-finals - 1st Leg    // Tu+We 27.+28. March 2012, 4 matches
@@ -121,35 +115,33 @@
         Semi-finals - 1st Leg                // Tu+We 17.+18. April 2012, 2 matches
         Semi-finals - 2nd Leg     // Tu+We 24.+25. April 2012, 2 matches
         Final, 1 matches
-[2/20] >2011-12/el_finals.txt<
-  1 section(s):
-    24 lines - league: >UEFA Europa League< (uefa.el), season: >2011/12<
-      8 clubs:
+[2/20] >2011-12/el_finals.txt< - 1 section(s):
+    24 lines, 13 matches - Europa League (uefa.el) 2011/12
+      8 teams (referenced):
         5× Athletic Bilbao ⇒ Athletic Club Bilbao
         5× Atlético Madrid
         4× Sporting CP
-    WARN: too many name matches (2) found for >Valencia<
+!! WARN: too many name matches (2) found for >Valencia<
         4× Valencia ⇒ Valencia CF
         2× AZ Alkmaar
         2× Hannover 96
         2× Metalist Kharkiv ⇒ FC Metalist Kharkiv
         2× Schalke 04 ⇒ FC Schalke 04
-      5 rounds:
+      5 rounds (referenced):
         (1) Quarter-finals - 1st Leg, 4 matches
         (2) Quarter-finals - 2nd Leg, 4 matches
         (3) Semi-finals - 1st Leg, 2 matches
         (4) Semi-finals - 2nd Leg, 2 matches
         (5) Final, 1 matches
-[3/20] >2012-13/cl.txt<
-  1 section(s):
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2012/13<
-      32 clubs:
+[3/20] >2012-13/cl.txt< - 1 section(s):
+    166 lines, 96 matches - Champions League (uefa.cl) 2012/13
+      32 teams (referenced):
         6× Ajax ⇒ Ajax Amsterdam
         6× Anderlecht ⇒ RSC Anderlecht
-    WARN: too many name matches (3) found for >Arsenal<
+!! WARN: too many name matches (3) found for >Arsenal<
         6× Arsenal ⇒ Arsenal FC
         6× BATE Borissow ⇒ FC BATE Borisov
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         6× Barcelona ⇒ FC Barcelona
         6× Bayern München
         6× Benfica ⇒ SL Benfica
@@ -176,10 +168,10 @@
         6× Schachtar Donezk ⇒ FC Shakhtar Donetsk
         6× Schalke 04 ⇒ FC Schalke 04
         6× Spartak Moskau ⇒ FC Spartak Moskva
-    WARN: too many name matches (2) found for >Valencia<
+!! WARN: too many name matches (2) found for >Valencia<
         6× Valencia ⇒ Valencia CF
         6× Zenit St. Petersburg
-      8 groups:
+      8 groups (referenced):
         Group A:, 12 matches
         Group B:, 12 matches
         Group C:, 12 matches
@@ -188,17 +180,16 @@
         Group F:, 12 matches
         Group G:, 12 matches
         Group H:, 12 matches
-      6 round defs:
+      6 rounds (defined):
         Matchday 1 | Sep/18 - Sep/19
         Matchday 2 | Oct/2  - Oct/3
         Matchday 3 | Oct/23 - Oct/24
         Matchday 4 | Nov/6  - Nov/7
         Matchday 5 | Nov/20 - Nov/21
         Matchday 6 | Dec/4  - Dec/5
-[4/20] >2012-13/cl_finals.txt<
-  1 section(s):
-    73 lines - league: >UEFA Champions League< (uefa.cl), season: >2012/13<
-      16 clubs:
+[4/20] >2012-13/cl_finals.txt< - 1 section(s):
+    73 lines, 29 matches - Champions League (uefa.cl) 2012/13
+      16 teams (referenced):
         7× Bayern München
         7× Borussia Dortmund
         6× FC Barcelona
@@ -207,7 +198,7 @@
         4× Juventus
         4× Málaga CF
         4× Paris Saint-Germain
-    WARN: too many name matches (3) found for >Arsenal<
+!! WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Celtic Glasgow ⇒ Celtic FC
         2× Manchester United ⇒ Manchester United FC
@@ -215,9 +206,9 @@
         2× Porto ⇒ FC Porto
         2× Schachtar Donezk ⇒ FC Shakhtar Donetsk
         2× Schalke 04 ⇒ FC Schalke 04
-    WARN: too many name matches (2) found for >Valencia<
+!! WARN: too many name matches (2) found for >Valencia<
         2× Valencia ⇒ Valencia CF
-      7 rounds:
+      7 rounds (referenced):
         (7)  Round of 16 - 1st Leg       // Tu+We, 12.+13./19.+20. Feb 2013, 8 matches
         (8)  Round of 16 - 2nd Leg      // Tu+We, 5.+6./12.+13. Mar 2013, 8 matches
         (9)  Quarter-finals - 1st Leg           // Tu+We, 2.+3. Apr 2013, 4 matches
@@ -225,10 +216,9 @@
         (11) Semi-finals - 1st Leg          // Tu+We, 23.+24. Apr 2013, 2 matches
         (12) Semi-finals - 2nd Leg    // Tu+We, 30. Apr/1. May 2013, 2 matches
         (13) Final, 1 matches
-[5/20] >2012-13/el_finals.txt<
-  1 section(s):
-    80 lines - league: >UEFA Europa League< (uefa.el), season: >2012/13<
-      32 clubs:
+[5/20] >2012-13/el_finals.txt< - 1 section(s):
+    80 lines, 61 matches - Europa League (uefa.el) 2012/13
+      32 teams (referenced):
         9× Benfica ⇒ SL Benfica
         9× Chelsea FC
         8× FC Basel
@@ -255,14 +245,14 @@
         2× Dynamo Kyiv ⇒ FC Dynamo Kyiv
         2× Genk ⇒ KRC Genk
         2× Hannover 96
-    WARN: too many name matches (2) found for >Liverpool<
+!! WARN: too many name matches (2) found for >Liverpool<
         2× Liverpool ⇒ Liverpool FC
         2× Lyon ⇒ Olympique Lyonnais
         2× Metalist Kharkiv ⇒ FC Metalist Kharkiv
         2× Napoli ⇒ SSC Napoli
         2× Olympiacos ⇒ Olympiacos Piraeus FC
         2× Sparta Prague ⇒ AC Sparta Praha
-      9 rounds:
+      9 rounds (referenced):
         (1) Round of 32 - 1st Leg, 16 matches
         (2) Round of 32 - 2nd Leg, 16 matches
         (3) Round of 16 - 1st Leg, 8 matches
@@ -272,13 +262,12 @@
         (7) Semi-finals - 1st Leg, 2 matches
         (8) Semi-finals - 2nd Leg, 2 matches
         (9) Final, 1 matches
-[6/20] >2013-14/cl.txt<
-  1 section(s):
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<
-      32 clubs:
+[6/20] >2013-14/cl.txt< - 1 section(s):
+    166 lines, 96 matches - Champions League (uefa.cl) 2013/14
+      32 teams (referenced):
         6× AC Milan
         6× Ajax Amsterdam
-    WARN: too many name matches (2) found for >Arsenal FC<
+!! WARN: too many name matches (2) found for >Arsenal FC<
         6× Arsenal FC
         6× Atlético Madrid
         6× Austria Wien ⇒ FK Austria Wien
@@ -309,7 +298,7 @@
         6× Steaua București
         6× Viktoria Plzeň
         6× Zenit St. Petersburg
-      8 groups:
+      8 groups (referenced):
         Group A:, 12 matches
         Group B:, 12 matches
         Group C:, 12 matches
@@ -318,17 +307,16 @@
         Group F:, 12 matches
         Group G:, 12 matches
         Group H:, 12 matches
-      6 round defs:
-        (3) Matchday 1 |  Sep/17 - Sep/18
-        (4) Matchday 2 |  Oct/1 - Oct/2
-        (5) Matchday 3 |  Oct/22 - Oct/23
-        (6) Matchday 4 |  Nov/5  - Nov/6
-        (7) Matchday 5 |  Nov/26 - Nov/27
-        (8) Matchday 6 |  Dec/10 - Dec/11
-[7/20] >2013-14/cl_finals.txt<
-  1 section(s):
-    65 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<
-      16 clubs:
+      6 rounds (defined):
+        Matchday 1 |  Sep/17 - Sep/18
+        Matchday 2 |  Oct/1 - Oct/2
+        Matchday 3 |  Oct/22 - Oct/23
+        Matchday 4 |  Nov/5  - Nov/6
+        Matchday 5 |  Nov/26 - Nov/27
+        Matchday 6 |  Dec/10 - Dec/11
+[7/20] >2013-14/cl_finals.txt< - 1 section(s):
+    65 lines, 29 matches - Champions League (uefa.cl) 2013/14
+      16 teams (referenced):
         7× Atlético Madrid
         7× Real Madrid
         6× Bayern München
@@ -338,7 +326,7 @@
         4× Manchester United ⇒ Manchester United FC
         4× Paris Saint-Germain
         2× AC Milan
-    WARN: too many name matches (2) found for >Arsenal FC<
+!! WARN: too many name matches (2) found for >Arsenal FC<
         2× Arsenal FC
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         2× FC Schalke 04
@@ -346,7 +334,7 @@
         2× Manchester City ⇒ Manchester City FC
         2× Olympiacos ⇒ Olympiacos Piraeus FC
         2× Zenit St. Petersburg
-      7 rounds:
+      7 rounds (referenced):
         (9) Round of 16 - 1st Leg   //  (Tu+We) 18-19 & 25-26 February 2014, 8 matches
         (10) Round of 16 - 2nd Leg  //  (Tu+We) 11-12 & 18-19 March 2014, 8 matches
         (11) Quarter-finals - 1st Leg, 4 matches
@@ -354,12 +342,11 @@
         (13) Semi-finals - 1st Leg, 2 matches
         (14) Semi-finals - 2nd Leg, 2 matches
         (15) Final, 1 matches
-[8/20] >2013-14/cl_playoffs.txt<
-  1 section(s):
-    26 lines - league: >UEFA Champions League< (uefa.cl), season: >2013/14<
-      20 clubs:
+[8/20] >2013-14/cl_playoffs.txt< - 1 section(s):
+    26 lines, 20 matches - Champions League (uefa.cl) 2013/14
+      20 teams (referenced):
         2× AC Milan
-    WARN: too many name matches (2) found for >Arsenal FC<
+!! WARN: too many name matches (2) found for >Arsenal FC<
         2× Arsenal FC
         2× Austria Wien ⇒ FK Austria Wien
         2× Celtic FC
@@ -379,18 +366,17 @@
         2× PFC Ludogorets Razgrad
         2× PSV Eindhoven
         2× Real Sociedad
-      2 rounds:
+      2 rounds (referenced):
         (1) Play-off Round  /  1st Leg, 10 matches
         (2) Play-off Round  /  2nd Leg, 10 matches
-[9/20] >2014-15/cl.txt<
-  1 section(s):
-    166 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<
-      32 clubs:
+[9/20] >2014-15/cl.txt< - 1 section(s):
+    166 lines, 96 matches - Champions League (uefa.cl) 2014/15
+      32 teams (referenced):
         6× APOEL Nicosia ⇒ APOEL Nicosia FC
         6× AS Monaco
         6× AS Roma
         6× Ajax Amsterdam
-    WARN: too many name matches (2) found for >Arsenal FC<
+!! WARN: too many name matches (2) found for >Arsenal FC<
         6× Arsenal FC
         6× Athletic Bilbao ⇒ Athletic Club Bilbao
         6× Atlético Madrid
@@ -407,7 +393,7 @@
         6× FC Schalke 04
         6× Galatasaray ⇒ Galatasaray İstanbul AŞ
         6× Juventus Torino ⇒ Juventus
-    WARN: too many name matches (2) found for >Liverpool FC<
+!! WARN: too many name matches (2) found for >Liverpool FC<
         6× Liverpool FC
         6× Malmö FF
         6× Manchester City ⇒ Manchester City FC
@@ -420,7 +406,7 @@
         6× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
         6× Sporting Lisboa ⇒ Sporting CP
         6× Zenit St. Petersburg
-      8 groups:
+      8 groups (referenced):
         Group A:, 12 matches
         Group B:, 12 matches
         Group C:, 12 matches
@@ -429,18 +415,17 @@
         Group F:, 12 matches
         Group G:, 12 matches
         Group H:, 12 matches
-      6 round defs:
-        Matchday 1 | 16-17 September 2014
-        Matchday 2 | 30 September-1 October 2014
-        Matchday 3 | 21-22 October 2014
-        Matchday 4 | 4-5 November 2014
-        Matchday 5 | 25-26 November 2014
-        Matchday 6 | 9-10 December 2014
-[10/20] >2014-15/cl_finals.txt<
-  1 section(s):
-    53 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<
-      16 clubs:
-    WARN: too many name matches (2) found for >Barcelona<
+      6 rounds (defined):
+        Matchday 1 | Sep/16 - Sep/17
+        Matchday 2 | Sep/30 - Oct/1
+        Matchday 3 | Oct/21 - Oct/22
+        Matchday 4 | Nov/4  - Nov/5
+        Matchday 5 | Nov/25 - Nov/26
+        Matchday 6 | Dec/9  - Dec/10
+[10/20] >2014-15/cl_finals.txt< - 1 section(s):
+    53 lines, 29 matches - Champions League (uefa.cl) 2014/15
+      16 teams (referenced):
+!! WARN: too many name matches (2) found for >Barcelona<
         7× Barcelona ⇒ FC Barcelona
         7× Juventus
         6× Bayern München
@@ -449,7 +434,7 @@
         4× Monaco ⇒ AS Monaco
         4× Paris Saint-Germain
         4× Porto ⇒ FC Porto
-    WARN: too many name matches (3) found for >Arsenal<
+!! WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Basel ⇒ FC Basel
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
@@ -458,38 +443,35 @@
         2× Manchester City ⇒ Manchester City FC
         2× Schalke 04 ⇒ FC Schalke 04
         2× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
-      7 rounds:
-        Round of 16  - 1st Leg  //  17-18 & 24-25 February 2015, 8 matches
-        Round of 16  - 2nd Leg //  10-11 & 17-18 March 2015, 8 matches
-        Quarter-finals - 1st Leg //   14-15 April 2015, 4 matches
-        Quarter-finals - 2nd Leg // 21-22 April 2015, 4 matches
-        Semi-finals - 1st Leg   // 5-6 May 2015, 2 matches
-        Semi-finals - 2nd Leg   // 12-13 May 2015, 2 matches
+      7 rounds (referenced):
+        Round of 16, 1st Leg  //  17-18 & 24-25 February 2015, 8 matches
+        Round of 16, 2nd Leg //  10-11 & 17-18 March 2015, 8 matches
+        Quarter-finals, 1st Leg  //   14-15 April 2015, 4 matches
+        Quarter-finals, 2nd Leg // 21-22 April 2015, 4 matches
+        Semi-finals, 1st Leg   // 5-6 May 2015, 2 matches
+        Semi-finals, 2nd Leg   // 12-13 May 2015, 2 matches
         Final          //   6 June 2015, 1 matches
-[11/20] >2014-15/cl_playoffs.txt<
-  1 section(s):
-    2 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<
-      0 clubs:
-      2 rounds:
+[11/20] >2014-15/cl_playoffs.txt< - 1 section(s):
+    2 lines, 0 matches - Champions League (uefa.cl) 2014/15
+      0 teams (referenced):
+      2 rounds (referenced):
         Play-off Round  /  1st Leg   //   Tu+We 19+20 August 2014, 0 matches
         Play-off Round  /  2nd Leg   //   Tu+We 26+27 August 2014, 0 matches
-[12/20] >2014-15/cl_round1.txt<
-  1 section(s):
-    11 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<
-      6 clubs:
+[12/20] >2014-15/cl_round1.txt< - 1 section(s):
+    11 lines, 6 matches - Champions League (uefa.cl) 2014/15
+      6 teams (referenced):
         2× Banants ⇒ FC Urartu
         2× FC Santa Coloma
         2× HB Tórshavn
         2× La Fiorita ⇒ SP La Fiorita
         2× Levadia Tallinn ⇒ FC Levadia Tallinn
         2× Lincoln Red Imps ⇒ Lincoln FC
-      2 rounds:
+      2 rounds (referenced):
         1. Round / 1st Leg, 3 matches
         1. Round / 2nd Leg, 3 matches
-[13/20] >2014-15/cl_round2.txt<
-  1 section(s):
-    40 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<
-      34 clubs:
+[13/20] >2014-15/cl_round2.txt< - 1 section(s):
+    40 lines, 34 matches - Champions League (uefa.cl) 2014/15
+      34 teams (referenced):
         2× Aktobe ⇒ FC Aktobe
         2× BATE Borissow ⇒ FC BATE Borisov
         2× Celtic Glasgow ⇒ Celtic FC
@@ -524,26 +506,24 @@
         2× Ventspils ⇒ FK Ventspils
         2× Zrinjski Mostar ⇒ HŠK Zrinjski
         2× Žalgiris Vilnius ⇒ VMFD Žalgiris
-      2 rounds:
+      2 rounds (referenced):
         2. Round /  1st Leg, 17 matches
         2. Round /  2nd Leg, 17 matches
-[14/20] >2014-15/cl_round3.txt<
-  1 section(s):
-    2 lines - league: >UEFA Champions League< (uefa.cl), season: >2014/15<
-      0 clubs:
-      2 rounds:
+[14/20] >2014-15/cl_round3.txt< - 1 section(s):
+    2 lines, 0 matches - Champions League (uefa.cl) 2014/15
+      0 teams (referenced):
+      2 rounds (referenced):
         3. Round /  1st Leg  // Tu+We 29+30 Jul, 0 matches
         3. Round / 2nd Leg  //  Tu+We 5+6 Aug, 0 matches
-[15/20] >2015-16/cl.txt<
-  1 section(s):
-    256 lines - league: >UEFA Champions League< (uefa.cl), season: >2015/16<
-      32 clubs:
-    WARN: too many name matches (3) found for >Arsenal<
+[15/20] >2015-16/cl.txt< - 1 section(s):
+    256 lines, 96 matches - Champions League (uefa.cl) 2015/16
+      32 teams (referenced):
+!! WARN: too many name matches (3) found for >Arsenal<
         6× Arsenal ⇒ Arsenal FC
         6× Astana ⇒ FC Astana
         6× Atlético Madrid
         6× BATE Borisov ⇒ FC BATE Borisov
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         6× Barcelona ⇒ FC Barcelona
         6× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         6× Bayern München
@@ -569,11 +549,11 @@
         6× Roma ⇒ AS Roma
         6× Sevilla ⇒ Sevilla FC
         6× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
-    WARN: too many name matches (2) found for >Valencia<
+!! WARN: too many name matches (2) found for >Valencia<
         6× Valencia ⇒ Valencia CF
         6× Wolfsburg ⇒ VfL Wolfsburg
         6× Zenit Saint Petersburg ⇒ Zenit St. Petersburg
-      8 groups:
+      8 groups (referenced):
         Group A:, 12 matches
         Group B:, 12 matches
         Group C:, 12 matches
@@ -582,27 +562,26 @@
         Group F:, 12 matches
         Group G:, 12 matches
         Group H:, 12 matches
-      6 round defs:
-        Matchday 1 | 15-16 September 2015
-        Matchday 2 | 29-30 September 2015
-        Matchday 3 | 20-21 October 2015
-        Matchday 4 | 3-4 November 2015
-        Matchday 5 | 24-25 November 2015
-        Matchday 6 | 8-9 December 2015
-[16/20] >2015-16/cl_finals.txt<
-  1 section(s):
-    78 lines - league: >UEFA Champions League< (uefa.cl), season: >2015/16<
-      16 clubs:
+      6 rounds (defined):
+        Matchday 1 | Sep/15 - Sep/16
+        Matchday 2 | Sep/29 - Sep/30
+        Matchday 3 | Oct/20 - Oct/21
+        Matchday 4 | Nov/3  - Nov/4
+        Matchday 5 | Nov/24 - Nov/25
+        Matchday 6 | Dec/8  - Dec/9
+[16/20] >2015-16/cl_finals.txt< - 1 section(s):
+    78 lines, 29 matches - Champions League (uefa.cl) 2015/16
+      16 teams (referenced):
         7× Atlético Madrid
         7× Real Madrid
         6× Bayern München
         6× Manchester City ⇒ Manchester City FC
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         4× Barcelona ⇒ FC Barcelona
         4× Benfica ⇒ SL Benfica
         4× Paris Saint-Germain
         4× Wolfsburg ⇒ VfL Wolfsburg
-    WARN: too many name matches (3) found for >Arsenal<
+!! WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Chelsea ⇒ Chelsea FC
         2× Dynamo Kyiv ⇒ FC Dynamo Kyiv
@@ -611,7 +590,7 @@
         2× PSV Eindhoven
         2× Roma ⇒ AS Roma
         2× Zenit Saint Petersburg ⇒ Zenit St. Petersburg
-      7 rounds:
+      7 rounds (referenced):
         Round of 16 - 1st Leg, 8 matches
         Round of 16 - 2nd Leg, 8 matches
         Quarter-finals - 1st Leg, 4 matches
@@ -619,14 +598,13 @@
         Semi-finals - 1st Leg, 2 matches
         Semi-finals - 2nd Leg, 2 matches
         Final, 1 matches
-[17/20] >2016-17/cl.txt<
-  1 section(s):
-    255 lines - league: >UEFA Champions League< (uefa.cl), season: >2016/17<
-      32 clubs:
-    WARN: too many name matches (3) found for >Arsenal<
+[17/20] >2016-17/cl.txt< - 1 section(s):
+    255 lines, 96 matches - Champions League (uefa.cl) 2016/17
+      32 teams (referenced):
+!! WARN: too many name matches (3) found for >Arsenal<
         6× Arsenal ⇒ Arsenal FC
         6× Atlético Madrid
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         6× Barcelona ⇒ FC Barcelona
         6× Basel ⇒ FC Basel
         6× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
@@ -638,7 +616,7 @@
         6× CSKA Moscow ⇒ PFC CSKA Moskva
         6× Celtic ⇒ Celtic FC
         6× Club Brugge
-     !! 6× Copenhagen
+        6× Copenhagen ⇒ FC København
         6× Dinamo Zagreb ⇒ GNK Dinamo Zagreb
         6× Dynamo Kyiv ⇒ FC Dynamo Kyiv
         6× Juventus
@@ -657,7 +635,7 @@
         6× Sevilla ⇒ Sevilla FC
         6× Sporting CP
         6× Tottenham Hotspur ⇒ Tottenham Hotspur FC
-      8 groups:
+      8 groups (referenced):
         Group A:, 12 matches
         Group B:, 12 matches
         Group C:, 12 matches
@@ -666,27 +644,26 @@
         Group F:, 12 matches
         Group G:, 12 matches
         Group H:, 12 matches
-      6 round defs:
+      6 rounds (defined):
         Matchday 1 | Sep/13 - Sep/14
         Matchday 2 | Sep/27 - Sep/28
         Matchday 3 | Oct/18 - Oct/19
         Matchday 4 | Nov/1  - Nov/2
         Matchday 5 | Nov/22 - Nov/23
         Matchday 6 | Dec/6  - Dec/7
-[18/20] >2016-17/cl_finals.txt<
-  1 section(s):
-    80 lines - league: >UEFA Champions League< (uefa.cl), season: >2016/17<
-      16 clubs:
+[18/20] >2016-17/cl_finals.txt< - 1 section(s):
+    80 lines, 29 matches - Champions League (uefa.cl) 2016/17
+      16 teams (referenced):
         7× Juventus
         7× Real Madrid
         6× Atlético Madrid
         6× Monaco ⇒ AS Monaco
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         4× Barcelona ⇒ FC Barcelona
         4× Bayern München
         4× Borussia Dortmund
         4× Leicester City ⇒ Leicester City FC
-    WARN: too many name matches (3) found for >Arsenal<
+!! WARN: too many name matches (3) found for >Arsenal<
         2× Arsenal ⇒ Arsenal FC
         2× Bayer Leverkusen ⇒ Bayer 04 Leverkusen
         2× Benfica ⇒ SL Benfica
@@ -695,7 +672,7 @@
         2× Paris Saint-Germain
         2× Porto ⇒ FC Porto
         2× Sevilla ⇒ Sevilla FC
-      7 rounds:
+      7 rounds (referenced):
         Round of 16 - 1st Leg, 8 matches
         Round of 16 - 2nd Leg, 8 matches
         Quarter-finals - 1st Leg, 4 matches
@@ -703,14 +680,13 @@
         Semi-finals - 1st Leg, 2 matches
         Semi-finals - 2nd Leg, 2 matches
         Final, 1 matches
-[19/20] >2017-18/cl.txt<
-  1 section(s):
-    258 lines - league: >UEFA Champions League< (uefa.cl), season: >2017/18<
-      32 clubs:
+[19/20] >2017-18/cl.txt< - 1 section(s):
+    258 lines, 96 matches - Champions League (uefa.cl) 2017/18
+      32 teams (referenced):
         6× APOEL ⇒ APOEL Nicosia FC
         6× Anderlecht ⇒ RSC Anderlecht
         6× Atlético Madrid
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         6× Barcelona ⇒ FC Barcelona
         6× Basel ⇒ FC Basel
         6× Bayern München
@@ -722,7 +698,7 @@
         6× Chelsea ⇒ Chelsea FC
         6× Feyenoord ⇒ Feyenoord Rotterdam
         6× Juventus
-    WARN: too many name matches (2) found for >Liverpool<
+!! WARN: too many name matches (2) found for >Liverpool<
         6× Liverpool ⇒ Liverpool FC
         6× Manchester City ⇒ Manchester City FC
         6× Manchester United ⇒ Manchester United FC
@@ -741,7 +717,7 @@
         6× Spartak Moscow ⇒ FC Spartak Moskva
         6× Sporting CP
         6× Tottenham Hotspur ⇒ Tottenham Hotspur FC
-      8 groups:
+      8 groups (referenced):
         Group A:, 12 matches
         Group B:, 12 matches
         Group C:, 12 matches
@@ -750,23 +726,22 @@
         Group F:, 12 matches
         Group G:, 12 matches
         Group H:, 12 matches
-      6 round defs:
+      6 rounds (defined):
         Matchday 1 | Sep/12 - Sep/13
         Matchday 2 | Sep/26 - Sep/27
         Matchday 3 | Oct/17 - Oct/18
         Matchday 4 | Oct/31 - Nov/1
         Matchday 5 | Nov/21 - Nov/22
         Matchday 6 | Dec/5  - Dec/6
-[20/20] >2017-18/cl_finals.txt<
-  1 section(s):
-    79 lines - league: >UEFA Champions League< (uefa.cl), season: >2017/18<
-      16 clubs:
-    WARN: too many name matches (2) found for >Liverpool<
+[20/20] >2017-18/cl_finals.txt< - 1 section(s):
+    79 lines, 29 matches - Champions League (uefa.cl) 2017/18
+      16 teams (referenced):
+!! WARN: too many name matches (2) found for >Liverpool<
         7× Liverpool ⇒ Liverpool FC
         7× Real Madrid
         6× Bayern München
         6× Roma ⇒ AS Roma
-    WARN: too many name matches (2) found for >Barcelona<
+!! WARN: too many name matches (2) found for >Barcelona<
         4× Barcelona ⇒ FC Barcelona
         4× Juventus
         4× Manchester City ⇒ Manchester City FC
@@ -779,7 +754,7 @@
         2× Porto ⇒ FC Porto
         2× Shakhtar Donetsk ⇒ FC Shakhtar Donetsk
         2× Tottenham Hotspur ⇒ Tottenham Hotspur FC
-      7 rounds:
+      7 rounds (referenced):
         Round of 16 - 1st Leg, 8 matches
         Round of 16 - 2nd Leg, 8 matches
         Quarter-finals - 1st Leg, 4 matches
