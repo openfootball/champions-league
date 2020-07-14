@@ -1,0 +1,56 @@
+= UEFA Champions League 2018/19
+
+
+Round of 16
+[Tue Feb/12]
+  Manchester United FC  0-2  Paris Saint-Germain FC
+  AS Roma               2-1  FC Porto
+[Wed Feb/13]
+  Tottenham Hotspur FC  3-0  BV Borussia 09 Dortmund
+  AFC Ajax              1-2  Real Madrid CF
+[Tue Feb/19]
+  Olympique Lyonnais    0-0  FC Barcelona
+  Liverpool FC          0-0  FC Bayern München
+[Wed Feb/20]
+  FC Schalke 04         2-3  Manchester City FC
+  Club Atlético de Madrid  2-0  Juventus FC
+[Tue Mar/5]
+  BV Borussia 09 Dortmund  0-1  Tottenham Hotspur FC
+  Real Madrid CF        1-4  AFC Ajax
+[Wed Mar/6]
+  Paris Saint-Germain FC  1-3  Manchester United FC
+  FC Porto              3-1 a.e.t. (2-1)  AS Roma
+[Tue Mar/12]
+  Manchester City FC    7-0  FC Schalke 04
+  Juventus FC           3-0  Club Atlético de Madrid
+[Wed Mar/13]
+  FC Bayern München     1-3  Liverpool FC
+  FC Barcelona          5-1  Olympique Lyonnais
+
+Quarterfinals
+[Tue Apr/9]
+  Liverpool FC          2-0  FC Porto
+  Tottenham Hotspur FC  1-0  Manchester City FC
+[Wed Apr/10]
+  AFC Ajax              1-1  Juventus FC
+  Manchester United FC  0-1  FC Barcelona
+[Tue Apr/16]
+  Juventus FC           1-2  AFC Ajax
+  FC Barcelona          3-0  Manchester United FC
+[Wed Apr/17]
+  Manchester City FC    4-3  Tottenham Hotspur FC
+  FC Porto              1-4  Liverpool FC
+
+Semifinals
+[Tue Apr/30]
+  Tottenham Hotspur FC  0-1  AFC Ajax
+[Wed May/1]
+  FC Barcelona          3-0  Liverpool FC
+[Tue May/7]
+  Liverpool FC          4-0  FC Barcelona
+[Wed May/8]
+  AFC Ajax              2-3  Tottenham Hotspur FC
+
+Final
+[Sat Jun/1]
+  Tottenham Hotspur FC  0-2  Liverpool FC

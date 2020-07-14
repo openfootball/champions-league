@@ -1,0 +1,122 @@
+= UEFA Champions League 2018/19
+
+
+Preliminary Semifinals
+[Tue Jun/26]
+  FC Santa Coloma       0-2 a.e.t. (0-0)  Drita KF Gjilan
+  SP La Fiorita         0-2  Lincoln Red Imps FC
+
+Preliminary Final
+[Fri Jun/29]
+  Lincoln Red Imps FC   1-4 a.e.t. (1-1)  Drita KF Gjilan
+
+Qual. Round 1
+[Tue Jul/10]
+  FC Torpedo Kutaisi    2-1  FC Sheriff Tiraspol
+  FC Flora              1-4  Hapoel Be'er Sheva FC
+  F91 Diddeleng         1-1  MOL Fehérvár FC
+  FC Alashkert          0-3  Celtic FC
+  Víkingur Gøta         1-2  Helsingin JK
+  KF Shkëndija 79       5-0  The New Saints FC
+  Drita KF Gjilan       0-3  Malmö FF
+  Cork City FC          0-1  Legia Warszawa
+[Wed Jul/11]
+  Astana FK             1-0  FK Sutjeska Nikšić
+  FK Sūduva Marijampolė  3-1  APOEL FC
+  FK Spartaks Jūrmala   0-0  FK Crvena Zvezda
+  FC Spartak Trnava     1-0  HŠK Zrinjski Mostar
+  PFK Ludogorets 1945 Razgrad  7-0  Crusaders FC
+  FK Kukësi             0-0  Valletta FC
+  NK Olimpija Ljubljana  0-1  Qarabağ Ağdam FK
+  KF Valur              1-0  Rosenborg BK
+[Tue Jul/17]
+  Helsingin JK          3-1  Víkingur Gøta
+  Valletta FC           1-1  FK Kukësi
+  APOEL FC              1-0  FK Sūduva Marijampolė
+  Malmö FF              2-0  Drita KF Gjilan
+  Hapoel Be'er Sheva FC  3-1  FC Flora
+  The New Saints FC     4-0  KF Shkëndija 79
+  MOL Fehérvár FC       2-1  F91 Diddeleng
+  FK Crvena Zvezda      2-0  FK Spartaks Jūrmala
+  Crusaders FC          0-2  PFK Ludogorets 1945 Razgrad
+  Legia Warszawa        3-0  Cork City FC
+[Wed Jul/18]
+  FC Sheriff Tiraspol   3-0  FC Torpedo Kutaisi
+  Qarabağ Ağdam FK      0-0  NK Olimpija Ljubljana
+  HŠK Zrinjski Mostar   1-1  FC Spartak Trnava
+  Rosenborg BK          3-1  KF Valur
+  FK Sutjeska Nikšić    0-2  Astana FK
+  Celtic FC             3-0  FC Alashkert
+
+Qual. Round 2
+[Tue Jul/24]
+  Astana FK             2-1  FC Midtjylland
+  FC CFR 1907 Cluj      0-1  Malmö FF
+  PAOK FC               2-1  FC Basel 1893
+  GNK Dinamo Zagreb     5-0  Hapoel Be'er Sheva FC
+  KF Shkëndija 79       1-0  FC Sheriff Tiraspol
+  FK Crvena Zvezda      3-0  FK Sūduva Marijampolė
+  Legia Warszawa        0-2  FC Spartak Trnava
+[Wed Jul/25]
+  FK BATE Borisov       0-0  Helsingin JK
+  FK Kukësi             0-0  Qarabağ Ağdam FK
+  PFK Ludogorets 1945 Razgrad  0-0  MOL Fehérvár FC
+  AFC Ajax              2-0  SK Sturm Graz
+  Celtic FC             3-1  Rosenborg BK
+[Tue Jul/31]
+  Hapoel Be'er Sheva FC  2-2  GNK Dinamo Zagreb
+  FC Sheriff Tiraspol   0-0  KF Shkëndija 79
+  FC Spartak Trnava     0-1  Legia Warszawa
+[Wed Aug/1]
+  Helsingin JK          1-2  FK BATE Borisov
+  FC Midtjylland        0-0  Astana FK
+  Qarabağ Ağdam FK      3-0  FK Kukësi
+  Malmö FF              1-1  FC CFR 1907 Cluj
+  FK Sūduva Marijampolė  0-2  FK Crvena Zvezda
+  FC Basel 1893         0-3  PAOK FC
+  MOL Fehérvár FC       1-0  PFK Ludogorets 1945 Razgrad
+  SK Sturm Graz         1-3  AFC Ajax
+  Rosenborg BK          0-0  Celtic FC
+
+Qual. Round 3
+[Tue Aug/7]
+  Astana FK             0-2  GNK Dinamo Zagreb
+  Qarabağ Ağdam FK      0-1  FK BATE Borisov
+  Malmö FF              1-1  MOL Fehérvár FC
+  SK Slavia Praha       1-1  FK Dynamo Kyiv
+  Royal Standard de Liège  2-2  AFC Ajax
+  FK Crvena Zvezda      1-1  FC Spartak Trnava
+  Sport Lisboa e Benfica  1-0  Fenerbahçe SK
+[Wed Aug/8]
+  FC Red Bull Salzburg  3-0  KF Shkëndija 79
+  PAOK FC               3-2  FK Spartak Moskva
+  Celtic FC             1-1  PAE AEK
+[Tue Aug/14]
+  FK Dynamo Kyiv        2-0  SK Slavia Praha
+  FK BATE Borisov       1-1  Qarabağ Ağdam FK
+  FK Spartak Moskva     0-0  PAOK FC
+  GNK Dinamo Zagreb     1-0  Astana FK
+  MOL Fehérvár FC       0-0  Malmö FF
+  PAE AEK               2-1  Celtic FC
+  Fenerbahçe SK         1-1  Sport Lisboa e Benfica
+  KF Shkëndija 79       0-1  FC Red Bull Salzburg
+  FC Spartak Trnava     1-2 a.e.t. (1-1)  FK Crvena Zvezda
+  AFC Ajax              3-0  Royal Standard de Liège
+
+Playoff Round
+[Tue Aug/21]
+  FK Crvena Zvezda      0-0  FC Red Bull Salzburg
+  Sport Lisboa e Benfica  1-1  PAOK FC
+  FK BATE Borisov       2-3  PSV
+[Wed Aug/22]
+  MOL Fehérvár FC       1-2  PAE AEK
+  AFC Ajax              3-1  FK Dynamo Kyiv
+  BSC Young Boys        1-1  GNK Dinamo Zagreb
+[Tue Aug/28]
+  PAE AEK               1-1  MOL Fehérvár FC
+  FK Dynamo Kyiv        0-0  AFC Ajax
+  GNK Dinamo Zagreb     1-2  BSC Young Boys
+[Wed Aug/29]
+  FC Red Bull Salzburg  2-2  FK Crvena Zvezda
+  PAOK FC               1-4  Sport Lisboa e Benfica
+  PSV                   3-0  FK BATE Borisov
