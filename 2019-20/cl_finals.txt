@@ -3,26 +3,26 @@
 
 Round of 16
 [Tue Feb/18]
-  BV Borussia 09 Dortmund  2-1  Paris Saint-Germain FC
-  Club Atlético de Madrid  1-0  Liverpool FC
+  Borussia Dortmund     2-1  Paris Saint-Germain
+  Atlético Madrid       1-0  Liverpool FC
 [Wed Feb/19]
   Tottenham Hotspur FC  0-1  RB Leipzig
   Atalanta BC           4-1  Valencia CF
 [Tue Feb/25]
   SSC Napoli            1-1  FC Barcelona
-  Chelsea FC            0-3  FC Bayern München
+  Chelsea FC            0-3  Bayern München
 [Wed Feb/26]
-  Real Madrid CF        1-2  Manchester City FC
-  Olympique Lyonnais    1-0  Juventus FC
+  Real Madrid           1-2  Manchester City FC
+  Olympique Lyonnais    1-0  Juventus
 [Tue Mar/10]
   RB Leipzig            3-0  Tottenham Hotspur FC
   Valencia CF           3-4  Atalanta BC
 [Wed Mar/11]
-  Paris Saint-Germain FC  2-0  BV Borussia 09 Dortmund
-  Liverpool FC          2-3 a.e.t. (1-0)  Club Atlético de Madrid
+  Paris Saint-Germain   2-0  Borussia Dortmund
+  Liverpool FC          2-3 a.e.t. (1-0)  Atlético Madrid
 [Fri Aug/7]
-  Manchester City FC     -   Real Madrid CF
-  Juventus FC            -   Olympique Lyonnais
+  Manchester City FC     -   Real Madrid
+  Juventus               -   Olympique Lyonnais
 [Sat Aug/8]
-  FC Bayern München      -   Chelsea FC
+  Bayern München         -   Chelsea FC
   FC Barcelona           -   SSC Napoli
