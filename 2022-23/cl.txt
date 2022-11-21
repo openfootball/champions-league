@@ -1,0 +1,22 @@
+= UEFA Champions League 2022/23
+
+Group A | Rangers FC     AFC Ajax    Liverpool FC    SSC Napoli
+Group B | FC Porto       Atlético Madrid   Bayer Leverkusen   Club Brugge KV
+Group C | Bayern München    Inter     Viktoria Plzeň   FC Barcelona
+Group D | Sporting CP   Eintracht Frankfurt   Olympique Marseille   Tottenham Hotspur
+Group E | AC Milan      RB Salzburg   Chelsea FC  Dinamo Zagreb
+Group F | Real Madrid   Celtic FC    Shakhtar Donetsk   RB Leipzig
+Group G | FC København   Borussia Dortmund   Manchester City   Sevilla FC
+Group H | Juventus    Paris Saint-Germain   Maccabi Haifa   SL Benfica
+
+
+
+Matchday 1 |  Tue Sep/6  - Wed Sep/7
+Matchday 2 |  Tue Sep/13 - Wed Sep/14
+Matchday 3 |  Tue Oct/4  - Wed Oct/5
+Matchday 4 |  Tue Oct/11 - Wed Oct/12
+Matchday 5 |  Tue Oct/25 - Wed Oct/26
+Matchday 6 |  Tue Nov/1  - Wed Nov/2
+
+
+
