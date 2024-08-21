@@ -1,7 +1,7 @@
 = Europa League 2011/12
 
 
-(1) Quarter-finals - 1st Leg
+Quarter-finals - 1st Leg
 
 [Thu Mar/29]
   21.05   AZ Alkmaar       2-1  Valencia
@@ -9,7 +9,7 @@
   21.05   Sporting CP      2-1  Metalist Kharkiv
   21.05   Atlético Madrid  2-1  Hannover 96
 
-(2) Quarter-finals - 2nd Leg
+Quarter-finals - 2nd Leg
 
 [Thu Apr/5]
   21.05   Valencia          4-0  AZ Alkmaar
@@ -18,20 +18,20 @@
   21.05   Hannover 96       1-2  Atlético Madrid
 
 
-(3) Semi-finals - 1st Leg
+Semi-finals - 1st Leg
 
 [Thu Apr/19]
   21.05   Atlético Madrid  4-2  Valencia
   21.05   Sporting CP      2-1  Athletic Bilbao
 
-(4) Semi-finals - 2nd Leg
+Semi-finals - 2nd Leg
 
 [Thu Apr/26]
   21.05   Valencia         0-1  Atlético Madrid
   21.05   Athletic Bilbao  3-1  Sporting CP
 
 
-(5) Final
+Final
 
 [Wed May/9]
   20.45   Atlético Madrid  3-0  Athletic Bilbao   @ Arena Națională, Bucharest

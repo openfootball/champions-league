@@ -1,7 +1,7 @@
 = UEFA Champions League 2012/13   ## Finals
 
 
-(7)  Round of 16 - 1st Leg       // Tu+We, 12.+13./19.+20. Feb 2013
+Round of 16 - 1st Leg       # Tu+We, 12.+13./19.+20. Feb 2013
 
 [Tue Feb/12]
  20.45  Celtic Glasgow    0-3  Juventus
@@ -18,7 +18,7 @@
  20.45  Milan             2-0  FC Barcelona
 
 
-(8)  Round of 16 - 2nd Leg      // Tu+We, 5.+6./12.+13. Mar 2013
+Round of 16 - 2nd Leg      # Tu+We, 5.+6./12.+13. Mar 2013
 
 [Tue Mar/5]
  20.45  Manchester United  1-2  Real Madrid        @ Old Trafford, Manchester
@@ -43,7 +43,7 @@
            [-; Giroud 3'  L. Koscielny 86']
 
 
-(9)  Quarter-finals - 1st Leg           // Tu+We, 2.+3. Apr 2013
+Quarter-finals - 1st Leg           # Tu+We, 2.+3. Apr 2013
 
 [Tue Apr/2]
   20.45   Paris Saint-Germain  2-2  FC Barcelona    @ Parc des Princes, Paris
@@ -55,7 +55,7 @@
   20.45   Real Madrid          3-0  Galatasaray         @ Santiago Bernabéu, Madrid
              [Ronaldo 9' Benzema 29' Higuaín 73']
 
-(10)  Quarter-finals - 2nd Leg // Tu+We, 9.+10. Apr 2013
+Quarter-finals - 2nd Leg    # Tu+We, 9.+10. Apr 2013
 
 [Tue Apr/9]
   20.45   Borussia Dortmund    3-2  Málaga CF     @ Signal Iduna Park, Dortmund
@@ -69,7 +69,7 @@
             [-; Mandžukić 64' Pizarro 90+1']
 
 
-(11) Semi-finals - 1st Leg          // Tu+We, 23.+24. Apr 2013
+Semi-finals - 1st Leg          # Tu+We, 23.+24. Apr 2013
 
 [Tue Apr/23]
   20.45  Bayern München     4-0  FC Barcelona    @ Allianz Arena, München
@@ -78,7 +78,7 @@
   20.45  Borussia Dortmund  4-1  Real Madrid      @ Signal Iduna Park, Dortmund
            [Lewandowski 8', 50', 55', 66' (pen.); Ronaldo 43']
 
-(12) Semi-finals - 2nd Leg    // Tu+We, 30. Apr/1. May 2013
+Semi-finals - 2nd Leg      # Tu+We, 30. Apr/1. May 2013
 
 [Tue Apr/30]
   20.45   Real Madrid   2-0  Borussia Dortmund   @ Santiago Bernabéu, Madrid
@@ -88,7 +88,7 @@
              [-; Robben 49' Piqué 72' (o.g.) Müller 76']
 
 
-(13) Final
+Final
 
 [Sat May/25]
   20.45   Borussia Dortmund  1-2  Bayern München   @ Wembley Stadium, London

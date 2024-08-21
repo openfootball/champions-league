@@ -7,7 +7,7 @@
 ## note: all times are CEST (UTC+2)
 
 
-1. Round / 1st Leg
+1. Round, 1st Leg
 
 [Tue Jul/1]
   20.00  FC Santa Coloma   1-0   Banants           @ Estadi Comunal, Andorra la Vella
@@ -16,7 +16,7 @@
   20.00  Lincoln Red Imps  1-1   HB Tórshavn       @ Victoria Stadium, Gibraltar
 
 
-1. Round / 2nd Leg
+1. Round, 2nd Leg
 
 [Tue Jul/8]
   16.00  Banants           3-2   FC Santa Coloma   @ Football Academy Stadium, Yerevan

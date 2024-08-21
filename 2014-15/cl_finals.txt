@@ -3,7 +3,7 @@
 # see en.wikipedia.org/wiki/2014–15_UEFA_Champions_League_knockout_phase
 
 
-Round of 16, 1st Leg  //  17-18 & 24-25 February 2015
+Round of 16, 1st Leg      #  17-18 & 24-25 February 2015
 
 [Feb/17]
   20.45  Paris Saint-Germain   1-1  Chelsea         @ Parc des Princes, Paris
@@ -20,7 +20,7 @@ Round of 16, 1st Leg  //  17-18 & 24-25 February 2015
   20.45  Arsenal               1-3  Monaco           @ Emirates Stadium, London
 
 
-Round of 16, 2nd Leg //  10-11 & 17-18 March 2015
+Round of 16, 2nd Leg       #  10-11 & 17-18 March 2015
 
 [Mar/10]
   20.45  Real Madrid   3-4   Schalke 04    @ Santiago Bernabéu, Madrid
@@ -36,7 +36,7 @@ Round of 16, 2nd Leg //  10-11 & 17-18 March 2015
   20.45  Borussia Dortmund  0-3  Juventus          @ Signal Iduna Park, Dortmund
 
 
-Quarter-finals, 1st Leg  //   14-15 April 2015
+Quarter-finals, 1st Leg      #   14-15 April 2015
 
 [Apr/14]
   20.45  Atlético Madrid   0-0   Real Madrid    @ Vicente Calderón, Madrid
@@ -45,7 +45,7 @@ Quarter-finals, 1st Leg  //   14-15 April 2015
   20.45  Paris Saint-Germain  1-3  Barcelona       @ Parc des Princes, Paris
   20.45  Porto                3-1  Bayern München  @ Estádio do Dragão, Porto
 
-Quarter-finals, 2nd Leg // 21-22 April 2015
+Quarter-finals, 2nd Leg      # 21-22 April 2015
 
 [Apr/21]
   20.45  Barcelona       2-0  Paris Saint-Germain   @ Camp Nou, Barcelona
@@ -55,14 +55,14 @@ Quarter-finals, 2nd Leg // 21-22 April 2015
   20.45  Monaco          0-0  Juventus              @ Stade Louis II, Monaco
 
 
-Semi-finals, 1st Leg   // 5-6 May 2015
+Semi-finals, 1st Leg       # 5-6 May 2015
 
 [May/5]
   20.45   Juventus      2-1  Real Madrid            @ Juventus Stadium, Turin
 [May/6]
   20.45   Barcelona     3-0  Bayern München         @ Camp Nou, Barcelona
 
-Semi-finals, 2nd Leg   // 12-13 May 2015
+Semi-finals, 2nd Leg       # 12-13 May 2015
 
 [May/12]
   20.45   Bayern München  3-2  Barcelona            @ Allianz Arena, München
@@ -70,7 +70,7 @@ Semi-finals, 2nd Leg   // 12-13 May 2015
   20.45   Real Madrid     1-1  Juventus             @ Santiago Bernabéu, Madrid
 
 
-Final          //   6 June 2015
+Final         #   6 June 2015
 
 [Jun/6]
   20.45    Juventus    1-3    Barcelona         @ Olympiastadion, Berlin

@@ -3,27 +3,27 @@
 #  see en.wikipedia.org/wiki/2016-17_UEFA_Champions_League_group_stage
 
 
-Group A |  Arsenal	          Paris Saint-Germain   Ludogorets Razgrad        Basel
+Group A |  Arsenal            Paris Saint-Germain   Ludogorets Razgrad        Basel
 Group B |  Napoli             Benfica               Beşiktaş                  Dynamo Kyiv
-Group C |  Barcelona	        Manchester City       Borussia Mönchengladbach  Celtic
-Group D |  Atlético Madrid	  Bayern München        Rostov                    PSV Eindhoven
-Group E |  Monaco	            Bayer Leverkusen      Tottenham Hotspur         CSKA Moscow
+Group C |  Barcelona          Manchester City       Borussia Mönchengladbach  Celtic
+Group D |  Atlético Madrid    Bayern München        Rostov                    PSV Eindhoven
+Group E |  Monaco             Bayer Leverkusen      Tottenham Hotspur         CSKA Moscow
 Group F |  Borussia Dortmund  Real Madrid           Legia Warsaw              Sporting CP
 Group G |  Leicester City     Porto                 Copenhagen                Club Brugge
-Group H |  Juventus	          Sevilla               Lyon                      Dinamo Zagreb
+Group H |  Juventus           Sevilla               Lyon                      Dinamo Zagreb
 
 
 Matchday 1 | Sep/13 - Sep/14    # 13–14 September 2016
 Matchday 2 | Sep/27 - Sep/28    # 27–28 September 2016
-Matchday 3 | Oct/18 - Oct/19    #	18–19 October 2016
-Matchday 4 | Nov/1  - Nov/2     #	1–2 November 2016
+Matchday 3 | Oct/18 - Oct/19    # 18–19 October 2016
+Matchday 4 | Nov/1  - Nov/2     # 1–2 November 2016
 Matchday 5 | Nov/22 - Nov/23    # 22–23 November 2016
 Matchday 6 | Dec/6  - Dec/7     # 6–7 December 2016
 
 
 
 
-Group A:
+Group A
 
 [Tue Sep/13]
   20.45  Paris Saint-Germain  1-1  Arsenal              @ Parc des Princes, Paris
@@ -32,7 +32,7 @@ Group A:
            [Steffen 79'; Cafu 45']
 
 [Wed Sep/28]
-  20.45  Ludogorets Razgrad   1-3  Paris Saint-Germain  @ Vasil Levski National Stadium, Sofia  [†]
+  20.45  Ludogorets Razgrad   1-3  Paris Saint-Germain  @ Vasil Levski National Stadium, Sofia  # [†]
            [Natanael 16'; Matuidi 41' Cavani 56', 60']
   20.45  Arsenal              2-0  Basel                @ Emirates Stadium, London
            [Walcott 7', 26']
@@ -44,7 +44,7 @@ Group A:
            [Di María 40' Lucas 62' Cavani 90+3' (pen.)]
 
 [Tue Nov/1]
-  20.45  Ludogorets Razgrad   2-3  Arsenal              @ Vasil Levski National Stadium, Sofia  [†]
+  20.45  Ludogorets Razgrad   2-3  Arsenal              @ Vasil Levski National Stadium, Sofia  # [†]
            [Cafu 12' Keșerü 15'; Xhaka 20' Giroud 42' Özil 88']
   20.45  Basel                1-2  Paris Saint-Germain  @ St. Jakob-Park, Basel
            [Zuffi 76'; Matuidi 43' Meunier 90']
@@ -52,7 +52,7 @@ Group A:
 [Wed Nov/23]
   20.45  Arsenal              2-2  Paris Saint-Germain  @ Emirates Stadium, London
            [Giroud 45+1' (pen.) Verratti 60' (o.g.); Cavani 18' Iwobi 77' (o.g.)]
-  20.45  Ludogorets Razgrad   0-0  Basel                @ Vasil Levski National Stadium, Sofia  [†]
+  20.45  Ludogorets Razgrad   0-0  Basel                @ Vasil Levski National Stadium, Sofia  # [†]
 
 [Tue Dec/6]
   20.45  Paris Saint-Germain  2-2  Ludogorets Razgrad   @ Parc des Princes, Paris
@@ -61,7 +61,7 @@ Group A:
            [Doumbia 78'; Pérez 8', 16', 47' Iwobi 53']
 
 
-Group B:
+Group B
 
 [Tue Sep/13]
   20.45  Dynamo Kyiv          1-2  Napoli               @ Olympic Stadium, Kiev
@@ -99,7 +99,7 @@ Group B:
            [Jiménez 87'; Callejón 60' Mertens 79']
 
 
-Group C:
+Group C
 
 [Tue Sep/13]
   20.45  Barcelona            7-0  Celtic               @ Camp Nou, Barcelona
@@ -140,7 +140,7 @@ Group C:
            [Iheanacho 8'; Roberts 4']
 
 
-Group D:
+Group D
 
 [Tue Sep/13]
   20.45  Bayern München       5-0  Rostov               @ Allianz Arena, München
@@ -178,12 +178,12 @@ Group D:
   20.45  PSV Eindhoven        0-0  Rostov               @ Philips Stadion, Eindhoven
 
 
-Group E:
+Group E
 
 [Wed Sep/14]
   20.45  Bayer Leverkusen     2-2  CSKA Moscow          @ BayArena, Leverkusen
            [Mehmedi 9' Çalhanoğlu 15'; Dzagoev 36' Eremenko 38']
-  20.45  Tottenham Hotspur    1-2  Monaco               @ Wembley Stadium, London  [†]
+  20.45  Tottenham Hotspur    1-2  Monaco               @ Wembley Stadium, London  # [†]
            [Alderweireld 45'; Silva 15' Lemar 31']
 
 [Tue Sep/27]
@@ -200,7 +200,7 @@ Group E:
 [Wed Nov/2]
   20.45  Monaco               3-0  CSKA Moscow          @ Stade Louis II, Monaco
            [Germain 13' Falcao 29', 41']
-  20.45  Tottenham Hotspur    0-1  Bayer Leverkusen     @ Wembley Stadium, London  [†]
+  20.45  Tottenham Hotspur    0-1  Bayer Leverkusen     @ Wembley Stadium, London  # [†]
            [-; Kampl 65']
 
 [Tue Nov/22]
@@ -212,11 +212,11 @@ Group E:
 [Wed Dec/7]
   20.45  Bayer Leverkusen     3-0  Monaco               @ BayArena, Leverkusen
            [Yurchenko 30' Brandt 48' De Sanctis 82' (o.g.)]
-  20.45  Tottenham Hotspur    3-1  CSKA Moscow          @ Wembley Stadium, London  [†]
+  20.45  Tottenham Hotspur    3-1  CSKA Moscow          @ Wembley Stadium, London   # [†]
            [Alli 38' Kane 45+1' Akinfeev 77' (o.g.); Dzagoev 33']
 
 
-Group F:
+Group F
 
 [Wed Sep/14]
   20.45  Real Madrid          2-1  Sporting CP          @ Santiago Bernabéu, Madrid
@@ -255,7 +255,7 @@ Group F:
            [Guilherme 30']
 
 
-Group G:
+Group G
 
 [Wed Sep/14]
   20.45  Club Brugge          0-3  Leicester City       @ Jan Breydel Stadium, Bruges
@@ -292,7 +292,7 @@ Group G:
            [Silva 6', 64' (pen.) Corona 26' Brahimi 44' Jota 77']
 
 
-Group H:
+Group H
 
 [Wed Sep/14]
   20.45  Lyon                 3-0  Dinamo Zagreb        @ Parc Olympique Lyonnais, Décines-Charpieu

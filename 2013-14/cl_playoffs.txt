@@ -1,7 +1,7 @@
 = UEFA Champions League 2013/14      ##  Play-off Round
 
 
-(1) Play-off Round  /  1st Leg
+Play-off Round - 1st Leg
 
 [Tue Aug/20]
   17.00   FC Shakhter Karagandy  2-0  Celtic FC
@@ -18,7 +18,7 @@
   20.45   Fenerbahçe SK          0-3  Arsenal FC
 
 
-(2) Play-off Round  /  2nd Leg
+Play-off Round - 2nd Leg
 
 [Tue Aug/27]
   20.45   Austria Wien         2-3  GNK Dinamo Zagreb

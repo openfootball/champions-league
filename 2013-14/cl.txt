@@ -20,7 +20,7 @@ Matchday 6 |  Dec/10 - Dec/11   # Tu+We 10-11 December 2013
 
 
 
-Group A:
+Group A
 
 [Tue Sep/17]
   20.45   Manchester United  4-2  Bayer Leverkusen
@@ -42,7 +42,7 @@ Group A:
   20.45   Real Sociedad      0-1  Bayer Leverkusen
 
 
-Group B:
+Group B
 
 [Tue Sep/17]
   20.45   Galatasaray   1-6  Real Madrid
@@ -64,7 +64,7 @@ Group B:
   20.45   FC København  0-2  Real Madrid
 
 
-Group C:
+Group C
 
 [Tue Sep/17]
   20.45   Olympiacos      1-4  Paris Saint-Germain
@@ -86,7 +86,7 @@ Group C:
   20.45   Olympiacos      3-1 RSC Anderlecht
 
 
-Group D:
+Group D
 
 [Tue Sep/17]
   20.45   Bayern München   3-0  CSKA Moskva
@@ -108,7 +108,7 @@ Group D:
   20.45   Viktoria Plzeň   2-1  CSKA Moskva
 
 
-Group E:
+Group E
 
 [Wed Sep/18]
   20.45  Chelsea FC       1-2  FC Basel
@@ -129,7 +129,7 @@ Group E:
   20.45  FC Schalke 04    2-0  FC Basel
   20.45  Chelsea FC       1-0  Steaua București
 
-Group F:
+Group F
 
 [Wed Sep/18]
   20.45  Olympique Marseille  1-2 Arsenal FC
@@ -151,7 +151,7 @@ Group F:
   20.45  SSC Napoli             2-0 Arsenal FC
 
 
-Group G:
+Group G
 
 [Wed Sep/18]
   20.45  Atlético Madrid        3-1 Zenit St. Petersburg
@@ -172,7 +172,7 @@ Group G:
   20.45  Atlético Madrid        2-0 FC Porto
   20.45  Austria Wien           4-1 Zenit St. Petersburg
 
-Group H:
+Group H
 
 [Wed Sep/18]
   20.45  FC Barcelona     4-0 Ajax Amsterdam

@@ -2,7 +2,7 @@
 
 
 
-(9) Round of 16 - 1st Leg   //  (Tu+We) 18-19 & 25-26 February 2014
+Round of 16 - 1st Leg    #  (Tu+We) 18-19 & 25-26 February 2014
 
 [Tue Feb/18]
   20.45   Manchester City      0-2  FC Barcelona
@@ -19,7 +19,7 @@
   20.45   FC Schalke 04        1-6  Real Madrid
 
 
-(10) Round of 16 - 2nd Leg  //  (Tu+We) 11-12 & 18-19 March 2014
+Round of 16 - 2nd Leg    #  (Tu+We) 11-12 & 18-19 March 2014
 
 [Tue Mar/11]
   20.45   Atlético Madrid      4-1  AC Milan
@@ -36,7 +36,7 @@
   20.45   Borussia Dortmund    1-2  Zenit St. Petersburg
 
 
-(11) Quarter-finals - 1st Leg
+Quarter-finals - 1st Leg
 
 [Tue Apr/1]
   20.45   FC Barcelona        1-1  Atlético Madrid     @ Camp Nou, Barcelona
@@ -49,7 +49,7 @@
   20.45   Paris Saint-Germain 3-1  Chelsea FC          @ Parc des Princes, Paris
             [Lavezzi 4' Luiz 61' (o.g.) Pastore 90+3'; Hazard 27' (pen.)]
 
-(12) Quarter-finals - 2nd Leg
+Quarter-finals - 2nd Leg
 
 [Tue Apr/8]
   20.45   Borussia Dortmund  2-0  Real Madrid          @ Signal Iduna Park, Dortmund
@@ -63,7 +63,7 @@
             [Mandžukić 59' Müller 68' Robben 76'; Evra 57']
 
 
-(13) Semi-finals - 1st Leg
+Semi-finals - 1st Leg
 
 [Tue Apr/22]
   20.45   Atlético Madrid   0-0  Chelsea FC        @ Vicente Calderón, Madrid
@@ -71,7 +71,7 @@
   20.45   Real Madrid       1-0  Bayern München    @ Santiago Bernabéu, Madrid
              [Benzema 19']
 
-(14) Semi-finals - 2nd Leg
+Semi-finals - 2nd Leg
 
 [Tue Apr/29]
   20.45   Bayern München    0-4  Real Madrid       @ Allianz Arena, München
@@ -81,7 +81,7 @@
              [Torres 36';  Adrián 44' Costa 60' (pen.) Turan 72']
 
 
-(15) Final
+Final
 
 [Sat May/24]
   20.45    Real Madrid     4-1 a.e.t. (1-1, )  Atlético Madrid     @ Estádio da Luz, Lisbon

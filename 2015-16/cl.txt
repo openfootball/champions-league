@@ -29,7 +29,7 @@ Matchday 6 | Dec/8  - Dec/9     ## 8-9 December 2015
 
 
 
-Group A:
+Group A
 
 [Tue Sep/15]
   20.45  Paris Saint-Germain  2-0  Malmö FF             @ Parc des Princes, Paris
@@ -71,7 +71,7 @@ Group A:
 ##      regular stadium, Donbass Arena, Donetsk, due to the war conditions in Eastern .
 
 
-Group B:
+Group B
 
 [Tue Sep/15]
   20.45  Wolfsburg            1-0  CSKA Moscow          @ Volkswagen Arena, Wolfsburg
@@ -109,7 +109,7 @@ Group B:
            [De Jong 78' Pröpper 86'; Ignashevich 76' (pen.)]
 
 
-Group C:
+Group C
 
 [Tue Sep/15]
   20.45  Galatasaray          0-2  Atlético Madrid      @ Türk Telekom Arena, Istanbul
@@ -147,7 +147,7 @@ Group C:
            [Mitroglou 75'; Saúl 33' Vietto 55']
 
 
-Group D:
+Group D
 
 [Tue Sep/15]
   20.45  Manchester City      1-2  Juventus             @ City of Manchester Stadium, Manchester
@@ -185,7 +185,7 @@ Group D:
            [Llorente 65']
 
 
-Group E:
+Group E
 
 [Wed Sep/16]
   20.45  Bayer Leverkusen     4-1  BATE Borisov         @ BayArena, Leverkusen
@@ -223,7 +223,7 @@ Group E:
   20.45  Roma                 0-0  BATE Borisov         @ Stadio Olimpico, Rome
 
 
-Group F:
+Group F
 
 [Wed Sep/16]
   20.45  Dinamo Zagreb        2-1  Arsenal              @ Stadion Maksimir, Zagreb
@@ -262,7 +262,7 @@ Group F:
            [-; Giroud 29', 49', 67' (pen.)]
 
 
-Group G:
+Group G
 
 [Wed Sep/16]
   20.45  Dynamo Kyiv          2-2  Porto                @ Olympic Stadium, Kiev
@@ -304,7 +304,7 @@ Group G:
 ##     Haifa instead of their regular stadium, Bloomfield Stadium, Tel Aviv.
 
 
-Group H:
+Group H
 
 [Wed Sep/16]
   20.45  Valencia             2-3  Zenit Saint Petersburg  @ Mestalla, Valencia

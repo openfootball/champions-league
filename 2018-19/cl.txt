@@ -19,7 +19,7 @@ Matchday 6 |  Dec/11 - Dec/12
 
 
 
-Group A:
+Group A
 
 [Tue Sep/18]
   Club Brugge           0-1  Borussia Dortmund
@@ -45,7 +45,7 @@ Group A:
   AS Monaco             0-2  Borussia Dortmund
   Club Brugge           0-0  Atlético Madrid
 
-Group B:
+Group B
 
 [Tue Sep/18]
   FC Barcelona          4-0  PSV Eindhoven
@@ -71,7 +71,7 @@ Group B:
   FC Barcelona          1-1  Tottenham Hotspur FC
   FC Internazionale Milano  1-1  PSV Eindhoven
 
-Group C:
+Group C
 
 [Tue Sep/18]
   Liverpool FC          3-2  Paris Saint-Germain
@@ -97,7 +97,7 @@ Group C:
   Liverpool FC          1-0  SSC Napoli
   Red Star Belgrade     1-4  Paris Saint-Germain
 
-Group D:
+Group D
 
 [Tue Sep/18]
   Galatasaray İstanbul AŞ  3-0  Lokomotiv Moskva
@@ -123,7 +123,7 @@ Group D:
   Galatasaray İstanbul AŞ  2-3  FC Porto
   FC Schalke 04         1-0  Lokomotiv Moskva
 
-Group E:
+Group E
 
 [Wed Sep/19]
   SL Benfica            0-2  Bayern München
@@ -149,7 +149,7 @@ Group E:
   Ajax Amsterdam        3-3  Bayern München
   SL Benfica            1-0  AEK Athens FC
 
-Group F:
+Group F
 
 [Wed Sep/19]
   Manchester City FC    1-2  Olympique Lyonnais
@@ -175,7 +175,7 @@ Group F:
   FC Shakhtar Donetsk   1-1  Olympique Lyonnais
   Manchester City FC    2-1  TSG 1899 Hoffenheim
 
-Group G:
+Group G
 
 [Wed Sep/19]
   Viktoria Plzeň        2-2  PFC CSKA Moskva
@@ -201,7 +201,7 @@ Group G:
   Viktoria Plzeň        2-1  AS Roma
   Real Madrid           0-3  PFC CSKA Moskva
 
-Group H:
+Group H
 
 [Wed Sep/19]
   BSC Young Boys        0-3  Manchester United FC
