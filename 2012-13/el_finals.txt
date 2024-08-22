@@ -1,7 +1,7 @@
 = Europa League 2012/13
 
 
-(1) Round of 32 - 1st Leg
+Round of 32 - 1st Leg
 
 [Thu Feb/14]
   18.00  Zenit St. Petersburg  2-0  Liverpool
@@ -21,7 +21,7 @@
   21.05  Borussia Mönchengladbach  3-3  Lazio Roma
   21.05  Tottenham Hotspur         2-1  Lyon
 
-(2) Round of 32 - 2nd Leg
+Round of 32 - 2nd Leg
 
 [Thu Feb/21]
   18.00  Rubin Kazan       0-1  Atlético Madrid
@@ -42,7 +42,7 @@
   21.05  Viktoria Plzeň    2-0  Napoli
 
 
-(3) Round of 16 - 1st Leg
+Round of 16 - 1st Leg
 
 [Thu Mar/7]
   18.00   Anzhi Makhachkala  0-0  Newcastle United
@@ -55,7 +55,7 @@
   21.05   FC Basel           2-0  Zenit St. Petersburg
 
 
-(4) Round of 16 - 2nd Leg
+Round of 16 - 2nd Leg
 
 [Thu Mar/14]
   18.00   Rubin Kazan           2-0 a.e.t. (0-0, )  Levante
@@ -68,7 +68,7 @@
   21.05   Chelsea FC            3-1       Steaua București
 
 
-(5) Quarter-finals - 1st Leg
+Quarter-finals - 1st Leg
 
 [Thu Apr/4]
   21.05   Chelsea FC         3-1  Rubin Kazan
@@ -76,7 +76,7 @@
   21.05   Fenerbahçe         2-0  Lazio Roma
   21.05   Benfica            3-1  Newcastle United
 
-(6) Quarter-finals - 2nd Leg
+Quarter-finals - 2nd Leg
 
 [Thu Apr/11]
   21.05   Rubin Kazan       3-2  Chelsea FC
@@ -85,20 +85,20 @@
   21.05   Newcastle United  1-1  Benfica
 
 
-(7) Semi-finals - 1st Leg
+Semi-finals - 1st Leg
 
 [Thu Apr/25]
   21.05  Fenerbahçe  1-0  Benfica
   21.05  FC Basel       1-2  Chelsea FC
 
-(8) Semi-finals - 2nd Leg
+Semi-finals - 2nd Leg
 
 [Thu May/2]
   21.05  Benfica     3-1   Fenerbahçe
   21.05  Chelsea FC  3-1   FC Basel
 
 
-(9) Final
+Final
 
 [Wed May/15]
   20.45  Benfica     1-2   Chelsea FC   @ Amsterdam Arena, Amsterdam
