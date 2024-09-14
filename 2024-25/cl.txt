@@ -1,185 +1,276 @@
 = UEFA Champions League 2024/25
 
+# Date       Tue Sep/17 2024 - Sat May/31 2025 (256d)
+# Teams      36
+# Matches    189
+# Stages     League (144)  Playoffs (16)  Finals (29)
+
+
+== League
 
 Matchday 1
 [Tue Sep/17]
-  18.45  Juventus FC (ITA)        -  PSV Eindhoven (NED)
-         BSC Young Boys (SUI)     -  Aston Villa F.C. (ENG)
-  21.00  FC Bayern Munich (GER)   -  GNK Dinamo Zagreb (CRO)
-         Real Madrid CF (ESP)     -  VfB Stuttgart (GER)
-         Sporting CP (POR)        -  Lille OSC (FRA)
-         AC Milan (ITA)           -  Liverpool F.C. (ENG)
+  18.45  BSC Young Boys           -  Aston Villa FC
+         Juventus FC              -  PSV
+  21.00  Sporting Clube de Portugal  -  Lille OSC
+         FC Bayern München        -  GNK Dinamo Zagreb
+         Real Madrid CF           -  VfB Stuttgart
+         AC Milan                 -  Liverpool FC
 [Wed Sep/18]
-  18.45  Bologna FC 1909 (ITA)    -  FC Shakhtar Donetsk (UKR)
-         AC Sparta Prague (CZE)   -  FC Red Bull Salzburg (AUT)
-  21.00  Celtic F.C. (SCO)        -  ŠK Slovan Bratislava (SVK)
-         Club Brugge KV (BEL)     -  Borussia Dortmund (GER)
-         Manchester City F.C. (ENG)  -  Inter Milan (ITA)
-         Paris Saint-Germain F.C. (FRA)  -  Girona FC (ESP)
+  18.45  Bologna FC 1909          -  FK Shakhtar Donetsk
+         AC Sparta Praha          -  FC Red Bull Salzburg
+  21.00  Manchester City FC       -  FC Internazionale Milano
+         Paris Saint-Germain FC   -  Girona FC
+         Club Brugge KV           -  Borussia Dortmund
+         Celtic FC                -  ŠK Slovan Bratislava
 [Thu Sep/19]
-  18.45  Red Star Belgrade (SRB)  -  S.L. Benfica (POR)
-         Feyenoord (NED)          -  Bayer 04 Leverkusen (GER)
-  21.00  Atalanta BC (ITA)        -  Arsenal F.C. (ENG)
-         Atlético Madrid (ESP)    -  RB Leipzig (GER)
-         Stade Brestois 29 (FRA)  -  SK Sturm Graz (AUT)
-         AS Monaco FC (FRA)       -  FC Barcelona (ESP)
+  18.45  Feyenoord Rotterdam      -  Bayer 04 Leverkusen
+         FK Crvena Zvezda         -  Sport Lisboa e Benfica
+  21.00  AS Monaco FC             -  FC Barcelona
+         Stade Brestois 29        -  SK Sturm Graz
+         Atalanta BC              -  Arsenal FC
+         Club Atlético de Madrid  -  RB Leipzig
 
 
 Matchday 2
 [Tue Oct/1]
-  18.45  FC Red Bull Salzburg (AUT)  -  Stade Brestois 29 (FRA)
-         VfB Stuttgart (GER)      -  AC Sparta Prague (CZE)
-  21.00  Bayer 04 Leverkusen (GER)  -  AC Milan (ITA)
-         Borussia Dortmund (GER)  -  Celtic F.C. (SCO)
-         FC Barcelona (ESP)       -  BSC Young Boys (SUI)
-         Inter Milan (ITA)        -  Red Star Belgrade (SRB)
-         PSV Eindhoven (NED)      -  Sporting CP (POR)
-         ŠK Slovan Bratislava (SVK)  -  Manchester City F.C. (ENG)
-         Arsenal F.C. (ENG)       -  Paris Saint-Germain F.C. (FRA)
+  18.45  VfB Stuttgart            -  AC Sparta Praha
+         FC Red Bull Salzburg     -  Stade Brestois 29
+  21.00  ŠK Slovan Bratislava     -  Manchester City FC
+         Borussia Dortmund        -  Celtic FC
+         FC Barcelona             -  BSC Young Boys
+         FC Internazionale Milano  -  FK Crvena Zvezda
+         Bayer 04 Leverkusen      -  AC Milan
+         Arsenal FC               -  Paris Saint-Germain FC
+         PSV                      -  Sporting Clube de Portugal
 [Wed Oct/2]
-  18.45  FC Shakhtar Donetsk (UKR)  -  Atalanta BC (ITA)
-         Girona FC (ESP)          -  Feyenoord (NED)
-  21.00  GNK Dinamo Zagreb (CRO)  -  AS Monaco FC (FRA)
-         Liverpool F.C. (ENG)     -  Bologna FC 1909 (ITA)
-         Lille OSC (FRA)          -  Real Madrid CF (ESP)
-         RB Leipzig (GER)         -  Juventus FC (ITA)
-         SK Sturm Graz (AUT)      -  Club Brugge KV (BEL)
-         S.L. Benfica (POR)       -  Atlético Madrid (ESP)
-         Aston Villa F.C. (ENG)   -  FC Bayern Munich (GER)
+  18.45  Girona FC                -  Feyenoord Rotterdam
+         FK Shakhtar Donetsk      -  Atalanta BC
+  21.00  Aston Villa FC           -  FC Bayern München
+         SK Sturm Graz            -  Club Brugge KV
+         Liverpool FC             -  Bologna FC 1909
+         RB Leipzig               -  Juventus FC
+         Sport Lisboa e Benfica   -  Club Atlético de Madrid
+         GNK Dinamo Zagreb        -  AS Monaco FC
+         Lille OSC                -  Real Madrid CF
 
 
 Matchday 3
 [Tue Oct/22]
-  18.45  AC Milan (ITA)           -  Club Brugge KV (BEL)
-         AS Monaco FC (FRA)       -  Red Star Belgrade (SRB)
-  21.00  Aston Villa F.C. (ENG)   -  Bologna FC 1909 (ITA)
-         Girona FC (ESP)          -  ŠK Slovan Bratislava (SVK)
-         Juventus FC (ITA)        -  VfB Stuttgart (GER)
-         Paris Saint-Germain F.C. (FRA)  -  PSV Eindhoven (NED)
-         Real Madrid CF (ESP)     -  Borussia Dortmund (GER)
-         SK Sturm Graz (AUT)      -  Sporting CP (POR)
-         Arsenal F.C. (ENG)       -  FC Shakhtar Donetsk (UKR)
+  18.45  AS Monaco FC             -  FK Crvena Zvezda
+         AC Milan                 -  Club Brugge KV
+  21.00  Aston Villa FC           -  Bologna FC 1909
+         Girona FC                -  ŠK Slovan Bratislava
+         SK Sturm Graz            -  Sporting Clube de Portugal
+         Paris Saint-Germain FC   -  PSV
+         Real Madrid CF           -  Borussia Dortmund
+         Arsenal FC               -  FK Shakhtar Donetsk
+         Juventus FC              -  VfB Stuttgart
 [Wed Oct/23]
-  18.45  Atalanta BC (ITA)        -  Celtic F.C. (SCO)
-         Stade Brestois 29 (FRA)  -  Bayer 04 Leverkusen (GER)
-  21.00  BSC Young Boys (SUI)     -  Inter Milan (ITA)
-         FC Barcelona (ESP)       -  FC Bayern Munich (GER)
-         FC Red Bull Salzburg (AUT)  -  GNK Dinamo Zagreb (CRO)
-         Manchester City F.C. (ENG)  -  AC Sparta Prague (CZE)
-         RB Leipzig (GER)         -  Liverpool F.C. (ENG)
-         S.L. Benfica (POR)       -  Feyenoord (NED)
-         Atlético Madrid (ESP)    -  Lille OSC (FRA)
+  18.45  Stade Brestois 29        -  Bayer 04 Leverkusen
+         Atalanta BC              -  Celtic FC
+  21.00  BSC Young Boys           -  FC Internazionale Milano
+         FC Barcelona             -  FC Bayern München
+         Manchester City FC       -  AC Sparta Praha
+         RB Leipzig               -  Liverpool FC
+         Club Atlético de Madrid  -  Lille OSC
+         Sport Lisboa e Benfica   -  Feyenoord Rotterdam
+         FC Red Bull Salzburg     -  GNK Dinamo Zagreb
 
 
 Matchday 4
 [Tue Nov/5]
-  18.45  PSV Eindhoven (NED)      -  Girona FC (ESP)
-         ŠK Slovan Bratislava (SVK)  -  GNK Dinamo Zagreb (CRO)
-  21.00  Borussia Dortmund (GER)  -  SK Sturm Graz (AUT)
-         Celtic F.C. (SCO)        -  RB Leipzig (GER)
-         Liverpool F.C. (ENG)     -  Bayer 04 Leverkusen (GER)
-         Lille OSC (FRA)          -  Juventus FC (ITA)
-         Real Madrid CF (ESP)     -  AC Milan (ITA)
-         Sporting CP (POR)        -  Manchester City F.C. (ENG)
-         Bologna FC 1909 (ITA)    -  AS Monaco FC (FRA)
+  18.45  ŠK Slovan Bratislava     -  GNK Dinamo Zagreb
+         PSV                      -  Girona FC
+  21.00  Sporting Clube de Portugal  -  Manchester City FC
+         Bologna FC 1909          -  AS Monaco FC
+         Borussia Dortmund        -  SK Sturm Graz
+         Liverpool FC             -  Bayer 04 Leverkusen
+         Real Madrid CF           -  AC Milan
+         Celtic FC                -  RB Leipzig
+         Lille OSC                -  Juventus FC
 [Wed Nov/6]
-  18.45  Club Brugge KV (BEL)     -  Aston Villa F.C. (ENG)
-         FC Shakhtar Donetsk (UKR)  -  BSC Young Boys (SUI)
-  21.00  FC Bayern Munich (GER)   -  S.L. Benfica (POR)
-         Inter Milan (ITA)        -  Arsenal F.C. (ENG)
-         Feyenoord (NED)          -  FC Red Bull Salzburg (AUT)
-         Red Star Belgrade (SRB)  -  FC Barcelona (ESP)
-         Paris Saint-Germain F.C. (FRA)  -  Atlético Madrid (ESP)
-         VfB Stuttgart (GER)      -  Atalanta BC (ITA)
-         AC Sparta Prague (CZE)   -  Stade Brestois 29 (FRA)
+  18.45  Club Brugge KV           -  Aston Villa FC
+         FK Shakhtar Donetsk      -  BSC Young Boys
+  21.00  AC Sparta Praha          -  Stade Brestois 29
+         VfB Stuttgart            -  Atalanta BC
+         FC Bayern München        -  Sport Lisboa e Benfica
+         FC Internazionale Milano  -  Arsenal FC
+         Paris Saint-Germain FC   -  Club Atlético de Madrid
+         Feyenoord Rotterdam      -  FC Red Bull Salzburg
+         FK Crvena Zvezda         -  FC Barcelona
 
 
 Matchday 5
 [Tue Nov/26]
-  18.45  AC Sparta Prague (CZE)   -  Atlético Madrid (ESP)
-         ŠK Slovan Bratislava (SVK)  -  AC Milan (ITA)
-  21.00  BSC Young Boys (SUI)     -  Atalanta BC (ITA)
-         FC Barcelona (ESP)       -  Stade Brestois 29 (FRA)
-         FC Bayern Munich (GER)   -  Paris Saint-Germain F.C. (FRA)
-         Inter Milan (ITA)        -  RB Leipzig (GER)
-         Manchester City F.C. (ENG)  -  Feyenoord (NED)
-         Sporting CP (POR)        -  Arsenal F.C. (ENG)
-         Bayer 04 Leverkusen (GER)  -  FC Red Bull Salzburg (AUT)
+  18.45  ŠK Slovan Bratislava     -  AC Milan
+         AC Sparta Praha          -  Club Atlético de Madrid
+  21.00  Sporting Clube de Portugal  -  Arsenal FC
+         BSC Young Boys           -  Atalanta BC
+         FC Bayern München        -  Paris Saint-Germain FC
+         FC Barcelona             -  Stade Brestois 29
+         FC Internazionale Milano  -  RB Leipzig
+         Manchester City FC       -  Feyenoord Rotterdam
+         Bayer 04 Leverkusen      -  FC Red Bull Salzburg
 [Wed Nov/27]
-  18.45  Red Star Belgrade (SRB)  -  VfB Stuttgart (GER)
-         SK Sturm Graz (AUT)      -  Girona FC (ESP)
-  21.00  Aston Villa F.C. (ENG)   -  Juventus FC (ITA)
-         Bologna FC 1909 (ITA)    -  Lille OSC (FRA)
-         Celtic F.C. (SCO)        -  Club Brugge KV (BEL)
-         GNK Dinamo Zagreb (CRO)  -  Borussia Dortmund (GER)
-         Liverpool F.C. (ENG)     -  Real Madrid CF (ESP)
-         PSV Eindhoven (NED)      -  FC Shakhtar Donetsk (UKR)
-         AS Monaco FC (FRA)       -  S.L. Benfica (POR)
+  18.45  SK Sturm Graz            -  Girona FC
+         FK Crvena Zvezda         -  VfB Stuttgart
+  21.00  AS Monaco FC             -  Sport Lisboa e Benfica
+         Aston Villa FC           -  Juventus FC
+         Bologna FC 1909          -  Lille OSC
+         Liverpool FC             -  Real Madrid CF
+         Celtic FC                -  Club Brugge KV
+         GNK Dinamo Zagreb        -  Borussia Dortmund
+         PSV                      -  FK Shakhtar Donetsk
 
 
 Matchday 6
 [Tue Dec/10]
-  18.45  Girona FC (ESP)          -  Liverpool F.C. (ENG)
-         GNK Dinamo Zagreb (CRO)  -  Celtic F.C. (SCO)
-  21.00  Bayer 04 Leverkusen (GER)  -  Inter Milan (ITA)
-         Club Brugge KV (BEL)     -  Sporting CP (POR)
-         FC Red Bull Salzburg (AUT)  -  Paris Saint-Germain F.C. (FRA)
-         FC Shakhtar Donetsk (UKR)  -  FC Bayern Munich (GER)
-         RB Leipzig (GER)         -  Aston Villa F.C. (ENG)
-         Stade Brestois 29 (FRA)  -  PSV Eindhoven (NED)
-         Atalanta BC (ITA)        -  Real Madrid CF (ESP)
+  18.45  Girona FC                -  Liverpool FC
+         GNK Dinamo Zagreb        -  Celtic FC
+  21.00  Stade Brestois 29        -  PSV
+         RB Leipzig               -  Aston Villa FC
+         Atalanta BC              -  Real Madrid CF
+         Bayer 04 Leverkusen      -  FC Internazionale Milano
+         Club Brugge KV           -  Sporting Clube de Portugal
+         FK Shakhtar Donetsk      -  FC Bayern München
+         FC Red Bull Salzburg     -  Paris Saint-Germain FC
 [Wed Dec/11]
-  18.45  Atlético Madrid (ESP)    -  ŠK Slovan Bratislava (SVK)
-         Lille OSC (FRA)          -  SK Sturm Graz (AUT)
-  21.00  Arsenal F.C. (ENG)       -  AS Monaco FC (FRA)
-         Borussia Dortmund (GER)  -  FC Barcelona (ESP)
-         Feyenoord (NED)          -  AC Sparta Prague (CZE)
-         Juventus FC (ITA)        -  Manchester City F.C. (ENG)
-         S.L. Benfica (POR)       -  Bologna FC 1909 (ITA)
-         VfB Stuttgart (GER)      -  BSC Young Boys (SUI)
-         AC Milan (ITA)           -  Red Star Belgrade (SRB)
+  18.45  Club Atlético de Madrid  -  ŠK Slovan Bratislava
+         Lille OSC                -  SK Sturm Graz
+  21.00  VfB Stuttgart            -  BSC Young Boys
+         Borussia Dortmund        -  FC Barcelona
+         AC Milan                 -  FK Crvena Zvezda
+         Sport Lisboa e Benfica   -  Bologna FC 1909
+         Arsenal FC               -  AS Monaco FC
+         Juventus FC              -  Manchester City FC
+         Feyenoord Rotterdam      -  AC Sparta Praha
 
 
 Matchday 7
 [Tue Jan/21]
-  18.45  AS Monaco FC (FRA)       -  Aston Villa F.C. (ENG)
-         Atalanta BC (ITA)        -  SK Sturm Graz (AUT)
-  21.00  Bologna FC 1909 (ITA)    -  Borussia Dortmund (GER)
-         Club Brugge KV (BEL)     -  Juventus FC (ITA)
-         Red Star Belgrade (SRB)  -  PSV Eindhoven (NED)
-         Liverpool F.C. (ENG)     -  Lille OSC (FRA)
-         ŠK Slovan Bratislava (SVK)  -  VfB Stuttgart (GER)
-         S.L. Benfica (POR)       -  FC Barcelona (ESP)
-         Atlético Madrid (ESP)    -  Bayer 04 Leverkusen (GER)
+  18.45  AS Monaco FC             -  Aston Villa FC
+         Atalanta BC              -  SK Sturm Graz
+  21.00  Bologna FC 1909          -  Borussia Dortmund
+         ŠK Slovan Bratislava     -  VfB Stuttgart
+         Liverpool FC             -  Lille OSC
+         Club Atlético de Madrid  -  Bayer 04 Leverkusen
+         Sport Lisboa e Benfica   -  FC Barcelona
+         Club Brugge KV           -  Juventus FC
+         FK Crvena Zvezda         -  PSV
 [Wed Jan/22]
-  18.45  FC Shakhtar Donetsk (UKR)  -  Stade Brestois 29 (FRA)
-         RB Leipzig (GER)         -  Sporting CP (POR)
-  21.00  AC Sparta Prague (CZE)   -  Inter Milan (ITA)
-         Arsenal F.C. (ENG)       -  GNK Dinamo Zagreb (CRO)
-         Celtic F.C. (SCO)        -  BSC Young Boys (SUI)
-         Feyenoord (NED)          -  FC Bayern Munich (GER)
-         Paris Saint-Germain F.C. (FRA)  -  Manchester City F.C. (ENG)
-         Real Madrid CF (ESP)     -  FC Red Bull Salzburg (AUT)
-         AC Milan (ITA)           -  Girona FC (ESP)
+  18.45  RB Leipzig               -  Sporting Clube de Portugal
+         FK Shakhtar Donetsk      -  Stade Brestois 29
+  21.00  AC Sparta Praha          -  FC Internazionale Milano
+         Paris Saint-Germain FC   -  Manchester City FC
+         Real Madrid CF           -  FC Red Bull Salzburg
+         AC Milan                 -  Girona FC
+         Arsenal FC               -  GNK Dinamo Zagreb
+         Celtic FC                -  BSC Young Boys
+         Feyenoord Rotterdam      -  FC Bayern München
 
 
 Matchday 8
 [Wed Jan/29]
-  21.00  Aston Villa F.C. (ENG)   -  Celtic F.C. (SCO)
-         Bayer 04 Leverkusen (GER)  -  AC Sparta Prague (CZE)
-         Borussia Dortmund (GER)  -  FC Shakhtar Donetsk (UKR)
-         BSC Young Boys (SUI)     -  Red Star Belgrade (SRB)
-         FC Barcelona (ESP)       -  Atalanta BC (ITA)
-         FC Bayern Munich (GER)   -  ŠK Slovan Bratislava (SVK)
-         Inter Milan (ITA)        -  AS Monaco FC (FRA)
-         FC Red Bull Salzburg (AUT)  -  Atlético Madrid (ESP)
-         Girona FC (ESP)          -  Arsenal F.C. (ENG)
-         GNK Dinamo Zagreb (CRO)  -  AC Milan (ITA)
-         Juventus FC (ITA)        -  S.L. Benfica (POR)
-         Lille OSC (FRA)          -  Feyenoord (NED)
-         Manchester City F.C. (ENG)  -  Club Brugge KV (BEL)
-         PSV Eindhoven (NED)      -  Liverpool F.C. (ENG)
-         SK Sturm Graz (AUT)      -  RB Leipzig (GER)
-         Sporting CP (POR)        -  Bologna FC 1909 (ITA)
-         Stade Brestois 29 (FRA)  -  Real Madrid CF (ESP)
-         VfB Stuttgart (GER)      -  Paris Saint-Germain F.C. (FRA)
+  21.00  Sporting Clube de Portugal  -  Bologna FC 1909
+         BSC Young Boys           -  FK Crvena Zvezda
+         Aston Villa FC           -  Celtic FC
+         Girona FC                -  Arsenal FC
+         Stade Brestois 29        -  Real Madrid CF
+         SK Sturm Graz            -  RB Leipzig
+         VfB Stuttgart            -  Paris Saint-Germain FC
+         FC Bayern München        -  ŠK Slovan Bratislava
+         Borussia Dortmund        -  FK Shakhtar Donetsk
+         FC Barcelona             -  Atalanta BC
+         FC Internazionale Milano  -  AS Monaco FC
+         Manchester City FC       -  Club Brugge KV
+         Bayer 04 Leverkusen      -  AC Sparta Praha
+         Juventus FC              -  Sport Lisboa e Benfica
+         GNK Dinamo Zagreb        -  AC Milan
+         Lille OSC                -  Feyenoord Rotterdam
+         PSV                      -  Liverpool FC
+         FC Red Bull Salzburg     -  Club Atlético de Madrid
+
+
+== Playoffs
+
+Matchday 1
+[Tue Feb/11]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Wed Feb/12]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+
+
+Matchday 2
+[Tue Feb/18]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Wed Feb/19]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+
+
+== Finals
+
+Round of 16
+[Tue Mar/4]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Wed Mar/5]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Tue Mar/11]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Wed Mar/12]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+
+
+Quarterfinals
+[Tue Apr/8]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Wed Apr/9]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Tue Apr/15]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+[Wed Apr/16]
+  N.N.                     -  N.N.
+  N.N.                     -  N.N.
+
+
+Semifinals
+[Tue Apr/29]
+  N.N.                     -  N.N.
+[Wed Apr/30]
+  N.N.                     -  N.N.
+[Wed May/7]
+  N.N.                     -  N.N.
+[Thu May/8]
+  N.N.                     -  N.N.
+
+
+Final
+[Sat May/31]
+  N.N.                     -  N.N.
