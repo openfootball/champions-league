@@ -1,7 +1,0 @@
-
-teams:
-- # Benfica (POR)
-- # Real Madrid (ESP)
-- # Standard Liège (BEL)
-- # Tottenham Hotspur FC (ENG)
-

@@ -54,9 +54,7 @@ Use the `sportdb` command line tool to build your own `football.db` copy
 from the datasets in (structured) text. [More »](https://github.com/openfootball/datafile)
 
 
-
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
