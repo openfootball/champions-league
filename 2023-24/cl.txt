@@ -1,0 +1,194 @@
+= UEFA Champions League 2023/24
+
+# Date       Tue Sep/19 2023 - Sat Jun/1 2024 (256d)
+# Teams      32
+# Matches    125
+# Stages     Group (96)  Finals (29)
+
+
+== Group
+
+Matchday 1
+[Tue Sep/19]
+  18.45  AC Milan                 0-0  Newcastle United FC
+         BSC Young Boys           1-3 (1-1)  RB Leipzig
+  21.00  SS Lazio                 1-1 (0-1)  Club Atlético de Madrid
+         Feyenoord Rotterdam      2-0 (1-0)  Celtic FC
+         Paris Saint-Germain FC   2-0 (0-0)  Borussia Dortmund
+         Manchester City FC       3-1 (0-1)  FK Crvena Zvezda
+         FC Barcelona             5-0 (3-0)  Royal Antwerp FC
+         FK Shakhtar Donetsk      1-3 (1-3)  FC Porto
+[Wed Sep/20]
+  18.45  Real Madrid CF           1-0 (0-0)  1. FC Union Berlin
+         Galatasaray SK           2-2 (0-1)  FC København
+  21.00  Sevilla FC               1-1 (1-1)  Racing Club de Lens
+         Sporting Clube de Braga  1-2 (0-1)  SSC Napoli
+         Real Sociedad de Fútbol  1-1 (1-0)  FC Internazionale Milano
+         Sport Lisboa e Benfica   0-2 (0-1)  FC Red Bull Salzburg
+         FC Bayern München        4-3 (2-0)  Manchester United FC
+         Arsenal FC               4-0 (3-0)  PSV
+
+
+Matchday 2
+[Tue Oct/3]
+  18.45  1. FC Union Berlin       2-3 (2-1)  Sporting Clube de Braga
+         FC Red Bull Salzburg     0-2 (0-2)  Real Sociedad de Fútbol
+  21.00  SSC Napoli               2-3 (1-2)  Real Madrid CF
+         FC Internazionale Milano  1-0 (0-0)  Sport Lisboa e Benfica
+         FC København             1-2 (0-0)  FC Bayern München
+         Manchester United FC     2-3 (1-1)  Galatasaray SK
+         Racing Club de Lens      2-1 (1-1)  Arsenal FC
+         PSV                      2-2 (0-0)  Sevilla FC
+[Wed Oct/4]
+  18.45  Club Atlético de Madrid  3-2 (2-2)  Feyenoord Rotterdam
+         Royal Antwerp FC         2-3 (2-0)  FK Shakhtar Donetsk
+  21.00  Celtic FC                1-2 (1-1)  SS Lazio
+         Borussia Dortmund        0-0  AC Milan
+         Newcastle United FC      4-1 (2-0)  Paris Saint-Germain FC
+         FK Crvena Zvezda         2-2 (1-0)  BSC Young Boys
+         RB Leipzig               1-3 (0-1)  Manchester City FC
+         FC Porto                 0-1 (0-1)  FC Barcelona
+
+
+Matchday 3
+[Tue Oct/24]
+  18.45  FC Internazionale Milano  2-1 (1-0)  FC Red Bull Salzburg
+         Galatasaray SK           1-3 (1-1)  FC Bayern München
+  21.00  1. FC Union Berlin       0-1 (0-0)  SSC Napoli
+         Sporting Clube de Braga  1-2 (0-1)  Real Madrid CF
+         Sport Lisboa e Benfica   0-1 (0-0)  Real Sociedad de Fútbol
+         Manchester United FC     1-0 (0-0)  FC København
+         Sevilla FC               1-2 (0-1)  Arsenal FC
+         Racing Club de Lens      1-1 (0-0)  PSV
+[Wed Oct/25]
+  18.45  Feyenoord Rotterdam      3-1 (2-0)  SS Lazio
+         FC Barcelona             2-1 (2-0)  FK Shakhtar Donetsk
+  21.00  Celtic FC                2-2 (2-1)  Club Atlético de Madrid
+         Paris Saint-Germain FC   3-0 (1-0)  AC Milan
+         Newcastle United FC      0-1 (0-1)  Borussia Dortmund
+         BSC Young Boys           1-3 (0-0)  Manchester City FC
+         RB Leipzig               3-1 (1-0)  FK Crvena Zvezda
+         Royal Antwerp FC         1-4 (1-0)  FC Porto
+
+
+Matchday 4
+[Tue Nov/7]
+  18.45  Borussia Dortmund        2-0 (1-0)  Newcastle United FC
+         FK Shakhtar Donetsk      1-0 (1-0)  FC Barcelona
+  21.00  Club Atlético de Madrid  6-0 (2-0)  Celtic FC
+         SS Lazio                 1-0 (1-0)  Feyenoord Rotterdam
+         AC Milan                 2-1 (1-1)  Paris Saint-Germain FC
+         Manchester City FC       3-0 (2-0)  BSC Young Boys
+         FK Crvena Zvezda         1-2 (0-1)  RB Leipzig
+         FC Porto                 2-0 (1-0)  Royal Antwerp FC
+[Wed Nov/8]
+  18.45  SSC Napoli               1-1 (1-0)  1. FC Union Berlin
+         Real Sociedad de Fútbol  3-1 (3-0)  Sport Lisboa e Benfica
+  21.00  Real Madrid CF           3-0 (1-0)  Sporting Clube de Braga
+         FC Red Bull Salzburg     0-1 (0-0)  FC Internazionale Milano
+         FC Bayern München        2-1 (0-0)  Galatasaray SK
+         FC København             4-3 (2-2)  Manchester United FC
+         Arsenal FC               2-0 (1-0)  Sevilla FC
+         PSV                      1-0 (1-0)  Racing Club de Lens
+
+
+Matchday 5
+[Tue Nov/28]
+  18.45  SS Lazio                 2-0 (0-0)  Celtic FC
+         FK Shakhtar Donetsk      1-0 (1-0)  Royal Antwerp FC
+  21.00  Feyenoord Rotterdam      1-3 (0-1)  Club Atlético de Madrid
+         AC Milan                 1-3 (1-1)  Borussia Dortmund
+         Paris Saint-Germain FC   1-1 (0-1)  Newcastle United FC
+         BSC Young Boys           2-0 (2-0)  FK Crvena Zvezda
+         Manchester City FC       3-2 (0-2)  RB Leipzig
+         FC Barcelona             2-1 (1-1)  FC Porto
+[Wed Nov/29]
+  18.45  Galatasaray SK           3-3 (1-2)  Manchester United FC
+         Sevilla FC               2-3 (1-0)  PSV
+  21.00  Sporting Clube de Braga  1-1 (0-1)  1. FC Union Berlin
+         Real Madrid CF           4-2 (2-1)  SSC Napoli
+         Sport Lisboa e Benfica   3-3 (3-0)  FC Internazionale Milano
+         Real Sociedad de Fútbol  0-0  FC Red Bull Salzburg
+         FC Bayern München        0-0  FC København
+         Arsenal FC               6-0 (5-0)  Racing Club de Lens
+
+
+Matchday 6
+[Tue Dec/12]
+  18.45  PSV                      1-1 (0-1)  Arsenal FC
+         Racing Club de Lens      2-1 (0-0)  Sevilla FC
+  21.00  1. FC Union Berlin       2-3 (1-0)  Real Madrid CF
+         SSC Napoli               2-0 (2-0)  Sporting Clube de Braga
+         FC Internazionale Milano  0-0  Real Sociedad de Fútbol
+         FC Red Bull Salzburg     1-3 (0-2)  Sport Lisboa e Benfica
+         Manchester United FC     0-1 (0-0)  FC Bayern München
+         FC København             1-0 (0-0)  Galatasaray SK
+[Wed Dec/13]
+  18.45  RB Leipzig               2-1 (0-0)  BSC Young Boys
+         FK Crvena Zvezda         2-3 (0-1)  Manchester City FC
+  21.00  Club Atlético de Madrid  2-0 (1-0)  SS Lazio
+         Celtic FC                2-1 (1-0)  Feyenoord Rotterdam
+         Newcastle United FC      1-2 (1-0)  AC Milan
+         Borussia Dortmund        1-1 (0-0)  Paris Saint-Germain FC
+         Royal Antwerp FC         3-2 (1-1)  FC Barcelona
+         FC Porto                 5-3 (2-1)  FK Shakhtar Donetsk
+
+
+== Finals
+
+Round of 16
+[Tue Feb/13]
+  21.00  FC København             1-3 (1-2)  Manchester City FC
+         RB Leipzig               0-1 (0-0)  Real Madrid CF
+[Wed Feb/14]
+  21.00  Paris Saint-Germain FC   2-0 (0-0)  Real Sociedad de Fútbol
+         SS Lazio                 1-0 (0-0)  FC Bayern München
+[Tue Feb/20]
+  21.00  FC Internazionale Milano  1-0 (0-0)  Club Atlético de Madrid
+         PSV                      1-1 (0-1)  Borussia Dortmund
+[Wed Feb/21]
+  21.00  FC Porto                 1-0 (0-0)  Arsenal FC
+         SSC Napoli               1-1 (0-0)  FC Barcelona
+[Tue Mar/5]
+  21.00  Real Sociedad de Fútbol  1-2 (0-1)  Paris Saint-Germain FC
+         FC Bayern München        3-0 (2-0)  SS Lazio
+[Wed Mar/6]
+  21.00  Manchester City FC       3-1 (3-1)  FC København
+         Real Madrid CF           1-1 (0-0)  RB Leipzig
+[Tue Mar/12]
+  21.00  Arsenal FC               4-2 pen. 1-0 a.e.t. (1-0, 1-0)  FC Porto
+         FC Barcelona             3-1 (2-1)  SSC Napoli
+[Wed Mar/13]
+  21.00  Club Atlético de Madrid  3-2 pen. 2-1 a.e.t. (2-1, 1-1)  FC Internazionale Milano
+         Borussia Dortmund        2-0 (1-0)  PSV
+
+
+Quarterfinals
+[Tue Apr/9]
+  21.00  Arsenal FC               2-2 (1-2)  FC Bayern München
+         Real Madrid CF           3-3 (2-1)  Manchester City FC
+[Wed Apr/10]
+  21.00  Club Atlético de Madrid  2-1 (2-0)  Borussia Dortmund
+         Paris Saint-Germain FC   2-3 (0-1)  FC Barcelona
+[Tue Apr/16]
+  21.00  Borussia Dortmund        4-2 (2-0)  Club Atlético de Madrid
+         FC Barcelona             1-4 (1-1)  Paris Saint-Germain FC
+[Wed Apr/17]
+  21.00  FC Bayern München        1-0 (0-0)  Arsenal FC
+         Manchester City FC       3-4 pen. 1-1 a.e.t. (1-1, 0-1)  Real Madrid CF
+
+
+Semifinals
+[Tue Apr/30]
+  21.00  FC Bayern München        2-2 (0-1)  Real Madrid CF
+[Wed May/1]
+  21.00  Borussia Dortmund        1-0 (1-0)  Paris Saint-Germain FC
+[Tue May/7]
+  21.00  Paris Saint-Germain FC   0-1 (0-0)  Borussia Dortmund
+[Wed May/8]
+  21.00  Real Madrid CF           2-1 (0-0)  FC Bayern München
+
+
+Final
+[Sat Jun/1]
+  21.00  Borussia Dortmund        0-2 (0-0)  Real Madrid CF

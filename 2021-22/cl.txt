@@ -1,0 +1,322 @@
+= UEFA Champions League 2021/22
+
+# Date       Tue Jun/22 2021 - Sat May/28 2022 (340d)
+# Teams      80
+# Matches    218
+# Stages     Qualifying (93)  Group (96)  Finals (29)
+
+
+== Qualifying
+
+Preliminary Round
+[Tue Jun/22]
+  20.00  HB Tórshavn              0-1 (0-0)  Inter Club d'Escaldes
+         SS Folgore/Falciano      0-2 (0-0)  FC Prishtina
+[Fri Jun/25]
+  20.00  FC Prishtina             2-0 (1-0)  Inter Club d'Escaldes
+
+
+Round 1
+[Tue Jul/6]
+  18.00  FC Flora                 2-0 (0-0)  Hibernians FC
+         Ferencvárosi TC          3-0 (0-0)  FC Prishtina
+         Helsingin JK             3-1 (3-1)  FK Budućnost Podgorica
+  19.00  FC CFR 1907 Cluj         3-1 (2-1)  FK Borac Banja Luka
+         FK Žalgiris Vilnius      3-1 (2-0)  Linfield FC
+  19.30  CS Fola Esch             2-2 (0-1)  Lincoln Red Imps FC
+  20.00  KF Shkëndija 79          0-1 (0-1)  NŠ Mura
+[Wed Jul/7]
+  18.00  FC Dinamo Tbilisi        1-2 (1-1)  Neftçi PFK
+         FK Bodø/Glimt            2-3 (1-2)  Legia Warszawa
+  18.30  ŠK Slovan Bratislava     2-0 (1-0)  Shamrock Rovers FC
+  19.00  GNK Dinamo Zagreb        3-2 (2-0)  KF Valur
+         PFK Ludogorets 1945 Razgrad  1-0 (0-0)  FK Šachcior Salihorsk
+         Maccabi Haifa FC         1-1 (1-0)  Qaırat Almaty FK
+         KF Teuta Durrës          0-4 (0-2)  FC Sheriff Tiraspol
+         Malmö FF                 1-0 (0-0)  Rīga FC
+  20.00  Connah's Quay Nomads FC  2-2 (1-2)  FC Alashkert
+[Tue Jul/13]
+  18.00  Hibernians FC            0-3 (0-2)  FC Flora
+         Rīga FC                  1-1 (0-1)  Malmö FF
+         Lincoln Red Imps FC      5-0 (2-0)  CS Fola Esch
+  19.00  FC Sheriff Tiraspol      1-0 (1-0)  KF Teuta Durrës
+  20.00  FC Prishtina             1-3 (0-0)  Ferencvárosi TC
+         NŠ Mura                  5-0 (2-0)  KF Shkëndija 79
+         FK Borac Banja Luka      2-1 a.e.t. (2-0, 0-0)  FC CFR 1907 Cluj
+  20.30  FK Budućnost Podgorica   0-4 (0-3)  Helsingin JK
+  20.45  Linfield FC              1-2 (0-2)  FK Žalgiris Vilnius
+  21.00  Shamrock Rovers FC       2-1 (1-0)  ŠK Slovan Bratislava
+  21.30  FK Šachcior Salihorsk    0-1 (0-0)  PFK Ludogorets 1945 Razgrad
+  22.00  KF Valur                 0-2 (0-1)  GNK Dinamo Zagreb
+[Wed Jul/14]
+  16.00  Qaırat Almaty FK         2-0 (1-0)  Maccabi Haifa FC
+  17.00  FC Alashkert             1-0 a.e.t. (0-0)  Connah's Quay Nomads FC
+  19.00  Neftçi PFK               2-1 (0-0)  FC Dinamo Tbilisi
+  20.00  Legia Warszawa           2-0 (1-0)  FK Bodø/Glimt
+
+
+Round 2
+[Tue Jul/20]
+  17.00  FC Alashkert             0-1 (0-0)  FC Sheriff Tiraspol
+  18.00  Lincoln Red Imps FC      1-2 (1-0)  FC CFR 1907 Cluj
+  20.00  Ferencvárosi TC          2-0 (2-0)  FK Žalgiris Vilnius
+         GNK Dinamo Zagreb        2-0 (0-0)  Omonia Nicosia
+  20.30  SK Rapid Wien            2-1 (0-1)  AC Sparta Praha
+  20.45  Celtic FC                1-1 (1-0)  FC Midtjylland
+[Wed Jul/21]
+  16.00  Qaırat Almaty FK         2-1 (1-0)  FK Crvena Zvezda
+  19.00  Malmö FF                 2-1 (1-0)  Helsingin JK
+  20.00  NŠ Mura                  0-0  PFK Ludogorets 1945 Razgrad
+  20.30  ŠK Slovan Bratislava     0-0  BSC Young Boys
+  21.00  Legia Warszawa           2-1 (1-0)  FC Flora
+         PSV                      5-1 (2-1)  Galatasaray SK
+         PAE Olympiakos SFP       1-0 (1-0)  Neftçi PFK
+[Tue Jul/27]
+  18.00  FC Flora                 0-1 (0-0)  Legia Warszawa
+         Helsingin JK             2-2 (1-1)  Malmö FF
+         Omonia Nicosia           0-1 (0-0)  GNK Dinamo Zagreb
+  19.00  FK Žalgiris Vilnius      1-3 (0-1)  Ferencvárosi TC
+[Wed Jul/28]
+  19.00  FC Sheriff Tiraspol      3-1 (2-1)  FC Alashkert
+         Neftçi PFK               0-1 (0-1)  PAE Olympiakos SFP
+  19.30  FC CFR 1907 Cluj         2-0 (1-0)  Lincoln Red Imps FC
+  19.45  FC Midtjylland           2-1 a.e.t. (1-1, 0-0)  Celtic FC
+  20.00  Galatasaray SK           1-2 (0-1)  PSV
+         PFK Ludogorets 1945 Razgrad  3-1 (1-0)  NŠ Mura
+  20.15  BSC Young Boys           3-2 (2-0)  ŠK Slovan Bratislava
+  20.30  AC Sparta Praha          2-0 (1-0)  SK Rapid Wien
+         FK Crvena Zvezda         5-0 (3-0)  Qaırat Almaty FK
+
+
+Round 3
+[Tue Aug/3]
+  19.00  AC Sparta Praha          0-2 (0-1)  AS Monaco FC
+         Malmö FF                 2-1 (0-0)  Rangers FC
+  20.00  KRC Genk                 1-2 (1-0)  FK Shakhtar Donetsk
+         PSV                      3-0 (3-0)  FC Midtjylland
+         FC CFR 1907 Cluj         1-1 (1-0)  BSC Young Boys
+  21.00  FK Crvena Zvezda         1-1 (1-1)  FC Sheriff Tiraspol
+         PAE Olympiakos SFP       1-1 (0-0)  PFK Ludogorets 1945 Razgrad
+[Wed Aug/4]
+  19.00  FK Spartak Moskva        0-2 (0-0)  Sport Lisboa e Benfica
+  20.00  Ferencvárosi TC          2-0 (1-0)  SK Slavia Praha
+         GNK Dinamo Zagreb        1-1 (0-0)  Legia Warszawa
+[Tue Aug/10]
+  19.00  FC Sheriff Tiraspol      1-0 (1-0)  FK Crvena Zvezda
+         SK Slavia Praha          1-0 (1-0)  Ferencvárosi TC
+  19.30  FK Shakhtar Donetsk      2-1 (1-0)  KRC Genk
+  20.00  FC Midtjylland           0-1 (0-0)  PSV
+         AS Monaco FC             3-1 (0-0)  AC Sparta Praha
+         PFK Ludogorets 1945 Razgrad  4-1 pen. 2-2 a.e.t. (2-2, 0-1)  PAE Olympiakos SFP
+  20.30  BSC Young Boys           3-1 (3-1)  FC CFR 1907 Cluj
+  21.00  Sport Lisboa e Benfica   2-0 (0-0)  FK Spartak Moskva
+         Legia Warszawa           0-1 (0-1)  GNK Dinamo Zagreb
+         Rangers FC               1-2 (1-0)  Malmö FF
+
+
+Playoff Round
+[Tue Aug/17]
+  21.00  AS Monaco FC             0-1 (0-1)  FK Shakhtar Donetsk
+         FC Sheriff Tiraspol      3-0 (1-0)  GNK Dinamo Zagreb
+         FC Red Bull Salzburg     2-1 (0-1)  Brøndby IF
+[Wed Aug/18]
+  21.00  Sport Lisboa e Benfica   2-1 (2-0)  PSV
+         Malmö FF                 2-0 (1-0)  PFK Ludogorets 1945 Razgrad
+         BSC Young Boys           3-2 (2-1)  Ferencvárosi TC
+[Tue Aug/24]
+  21.00  PSV                      0-0  Sport Lisboa e Benfica
+         PFK Ludogorets 1945 Razgrad  2-1 (1-1)  Malmö FF
+         Ferencvárosi TC          2-3 (2-1)  BSC Young Boys
+[Wed Aug/25]
+  21.00  Brøndby IF               1-2 (0-2)  FC Red Bull Salzburg
+         FK Shakhtar Donetsk      2-2 a.e.t. (1-2, 0-2)  AS Monaco FC
+         GNK Dinamo Zagreb        0-0  FC Sheriff Tiraspol
+
+
+== Group
+
+Matchday 1
+[Tue Sep/14]
+  18.45  BSC Young Boys           2-1 (0-1)  Manchester United FC
+         Sevilla FC               1-1 (1-1)  FC Red Bull Salzburg
+  21.00  FK Dynamo Kyiv           0-0  Sport Lisboa e Benfica
+         FC Barcelona             0-3 (0-1)  FC Bayern München
+         Villarreal CF            2-2 (1-1)  Atalanta BC
+         Lille OSC                0-0  VfL Wolfsburg
+         Malmö FF                 0-3 (0-3)  Juventus FC
+         Chelsea FC               1-0 (0-0)  FK Zenit Sankt-Petersburg
+[Wed Sep/15]
+  18.45  Beşiktaş JK              1-2 (0-2)  Borussia Dortmund
+         FC Sheriff Tiraspol      2-0 (1-0)  FK Shakhtar Donetsk
+  21.00  Club Brugge KV           1-1 (1-1)  Paris Saint-Germain FC
+         Manchester City FC       6-3 (3-1)  RB Leipzig
+         Liverpool FC             3-2 (1-2)  AC Milan
+         Club Atlético de Madrid  0-0  FC Porto
+         Sporting Clube de Portugal  1-5 (1-3)  AFC Ajax
+         FC Internazionale Milano  0-1 (0-0)  Real Madrid CF
+
+
+Matchday 2
+[Tue Sep/28]
+  18.45  AFC Ajax                 2-0 (2-0)  Beşiktaş JK
+         FK Shakhtar Donetsk      0-0  FC Internazionale Milano
+  21.00  RB Leipzig               1-2 (1-2)  Club Brugge KV
+         Paris Saint-Germain FC   2-0 (1-0)  Manchester City FC
+         FC Porto                 1-5 (0-2)  Liverpool FC
+         AC Milan                 1-2 (1-0)  Club Atlético de Madrid
+         Borussia Dortmund        1-0 (1-0)  Sporting Clube de Portugal
+         Real Madrid CF           1-2 (0-1)  FC Sheriff Tiraspol
+[Wed Sep/29]
+  18.45  Atalanta BC              1-0 (0-0)  BSC Young Boys
+         FK Zenit Sankt-Petersburg  4-0 (1-0)  Malmö FF
+  21.00  Sport Lisboa e Benfica   3-0 (1-0)  FC Barcelona
+         FC Bayern München        5-0 (2-0)  FK Dynamo Kyiv
+         Manchester United FC     2-1 (0-0)  Villarreal CF
+         VfL Wolfsburg            1-1 (0-0)  Sevilla FC
+         FC Red Bull Salzburg     2-1 (1-0)  Lille OSC
+         Juventus FC              1-0 (0-0)  Chelsea FC
+
+
+Matchday 3
+[Tue Oct/19]
+  18.45  Club Brugge KV           1-5 (0-2)  Manchester City FC
+         Beşiktaş JK              1-4 (1-3)  Sporting Clube de Portugal
+  21.00  Paris Saint-Germain FC   3-2 (1-1)  RB Leipzig
+         FC Porto                 1-0 (0-0)  AC Milan
+         Club Atlético de Madrid  2-3 (2-2)  Liverpool FC
+         AFC Ajax                 4-0 (2-0)  Borussia Dortmund
+         FC Internazionale Milano  3-1 (1-0)  FC Sheriff Tiraspol
+         FK Shakhtar Donetsk      0-5 (0-1)  Real Madrid CF
+[Wed Oct/20]
+  18.45  FC Barcelona             1-0 (1-0)  FK Dynamo Kyiv
+         FC Red Bull Salzburg     3-1 (1-1)  VfL Wolfsburg
+  21.00  Sport Lisboa e Benfica   0-4 (0-0)  FC Bayern München
+         Manchester United FC     3-2 (0-2)  Atalanta BC
+         BSC Young Boys           1-4 (0-2)  Villarreal CF
+         Lille OSC                0-0  Sevilla FC
+         FK Zenit Sankt-Petersburg  0-1 (0-0)  Juventus FC
+         Chelsea FC               4-0 (2-0)  Malmö FF
+
+
+Matchday 4
+[Tue Nov/2]
+  18.45  VfL Wolfsburg            2-1 (1-1)  FC Red Bull Salzburg
+         Malmö FF                 0-1 (0-0)  Chelsea FC
+  21.00  FC Bayern München        5-2 (2-1)  Sport Lisboa e Benfica
+         FK Dynamo Kyiv           0-1 (0-0)  FC Barcelona
+         Atalanta BC              2-2 (1-1)  Manchester United FC
+         Villarreal CF            2-0 (1-0)  BSC Young Boys
+         Sevilla FC               1-2 (1-1)  Lille OSC
+         Juventus FC              4-2 (1-1)  FK Zenit Sankt-Petersburg
+[Wed Nov/3]
+  18.45  AC Milan                 1-1 (0-1)  FC Porto
+         Real Madrid CF           2-1 (1-1)  FK Shakhtar Donetsk
+  21.00  RB Leipzig               2-2 (1-2)  Paris Saint-Germain FC
+         Manchester City FC       4-1 (1-1)  Club Brugge KV
+         Liverpool FC             2-0 (2-0)  Club Atlético de Madrid
+         Borussia Dortmund        1-3 (1-0)  AFC Ajax
+         Sporting Clube de Portugal  4-0 (3-0)  Beşiktaş JK
+         FC Sheriff Tiraspol      1-3 (0-0)  FC Internazionale Milano
+
+
+Matchday 5
+[Tue Nov/23]
+  18.45  FK Dynamo Kyiv           1-2 (0-2)  FC Bayern München
+  18.50  Villarreal CF            0-2 (0-0)  Manchester United FC
+  21.00  FC Barcelona             0-0  Sport Lisboa e Benfica
+         BSC Young Boys           3-3 (1-1)  Atalanta BC
+         Lille OSC                1-0 (1-0)  FC Red Bull Salzburg
+         Sevilla FC               2-0 (1-0)  VfL Wolfsburg
+         Chelsea FC               4-0 (1-0)  Juventus FC
+         Malmö FF                 1-1 (1-0)  FK Zenit Sankt-Petersburg
+[Wed Nov/24]
+  18.45  Beşiktaş JK              1-2 (1-0)  AFC Ajax
+         FC Internazionale Milano  2-0 (0-0)  FK Shakhtar Donetsk
+  21.00  Club Brugge KV           0-5 (0-4)  RB Leipzig
+         Manchester City FC       2-1 (0-0)  Paris Saint-Germain FC
+         Liverpool FC             2-0 (0-0)  FC Porto
+         Club Atlético de Madrid  0-1 (0-0)  AC Milan
+         Sporting Clube de Portugal  3-1 (2-0)  Borussia Dortmund
+         FC Sheriff Tiraspol      0-3 (0-2)  Real Madrid CF
+
+
+Matchday 6
+[Tue Dec/7]
+  18.45  RB Leipzig               2-1 (1-0)  Manchester City FC
+         Paris Saint-Germain FC   4-1 (3-0)  Club Brugge KV
+  21.00  AC Milan                 1-2 (1-1)  Liverpool FC
+         FC Porto                 1-3 (0-0)  Club Atlético de Madrid
+         AFC Ajax                 4-2 (2-1)  Sporting Clube de Portugal
+         Borussia Dortmund        5-0 (2-0)  Beşiktaş JK
+         FK Shakhtar Donetsk      1-1 (1-0)  FC Sheriff Tiraspol
+         Real Madrid CF           2-0 (1-0)  FC Internazionale Milano
+[Wed Dec/8]
+  18.45  FK Zenit Sankt-Petersburg  3-3 (2-1)  Chelsea FC
+         Juventus FC              1-0 (1-0)  Malmö FF
+  21.00  FC Bayern München        3-0 (2-0)  FC Barcelona
+         Sport Lisboa e Benfica   2-0 (2-0)  FK Dynamo Kyiv
+         Manchester United FC     1-1 (1-1)  BSC Young Boys
+         VfL Wolfsburg            1-3 (0-1)  Lille OSC
+         FC Red Bull Salzburg     1-0 (0-0)  Sevilla FC
+[Thu Dec/9]
+  19.00  Atalanta BC              2-3 (0-2)  Villarreal CF
+
+
+== Finals
+
+Round of 16
+[Tue Feb/15]
+  21.00  Paris Saint-Germain FC   1-0 (0-0)  Real Madrid CF
+         Sporting Clube de Portugal  0-5 (0-4)  Manchester City FC
+[Wed Feb/16]
+  21.00  FC Internazionale Milano  0-2 (0-0)  Liverpool FC
+         FC Red Bull Salzburg     1-1 (1-0)  FC Bayern München
+[Tue Feb/22]
+  21.00  Villarreal CF            1-1 (0-1)  Juventus FC
+         Chelsea FC               2-0 (1-0)  Lille OSC
+[Wed Feb/23]
+  21.00  Club Atlético de Madrid  1-1 (1-0)  Manchester United FC
+         Sport Lisboa e Benfica   2-2 (1-2)  AFC Ajax
+[Tue Mar/8]
+  21.00  Liverpool FC             0-1 (0-0)  FC Internazionale Milano
+         FC Bayern München        7-1 (4-0)  FC Red Bull Salzburg
+[Wed Mar/9]
+  21.00  Real Madrid CF           3-1 (0-1)  Paris Saint-Germain FC
+         Manchester City FC       0-0  Sporting Clube de Portugal
+[Tue Mar/15]
+  21.00  Manchester United FC     0-1 (0-1)  Club Atlético de Madrid
+         AFC Ajax                 0-1 (0-0)  Sport Lisboa e Benfica
+[Wed Mar/16]
+  21.00  Juventus FC              0-3 (0-0)  Villarreal CF
+         Lille OSC                1-2 (1-1)  Chelsea FC
+
+
+Quarterfinals
+[Tue Apr/5]
+  21.00  Sport Lisboa e Benfica   1-3 (0-2)  Liverpool FC
+         Manchester City FC       1-0 (0-0)  Club Atlético de Madrid
+[Wed Apr/6]
+  21.00  Villarreal CF            1-0 (1-0)  FC Bayern München
+         Chelsea FC               1-3 (1-2)  Real Madrid CF
+[Tue Apr/12]
+  21.00  FC Bayern München        1-1 (0-0)  Villarreal CF
+         Real Madrid CF           2-3 a.e.t. (1-3, 0-1)  Chelsea FC
+[Wed Apr/13]
+  21.00  Liverpool FC             3-3 (1-1)  Sport Lisboa e Benfica
+         Club Atlético de Madrid  0-0  Manchester City FC
+
+
+Semifinals
+[Tue Apr/26]
+  21.00  Manchester City FC       4-3 (2-1)  Real Madrid CF
+[Wed Apr/27]
+  21.00  Liverpool FC             2-0 (0-0)  Villarreal CF
+[Tue May/3]
+  21.00  Villarreal CF            2-3 (2-0)  Liverpool FC
+[Wed May/4]
+  21.00  Real Madrid CF           3-1 a.e.t. (2-1, 0-0)  Manchester City FC
+
+
+Final
+[Sat May/28]
+  21.36  Liverpool FC             0-1 (0-0)  Real Madrid CF
