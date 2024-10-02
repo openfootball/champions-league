@@ -34,15 +34,15 @@ Matchday 1
 
 Matchday 2
 [Tue Oct/1]
-  18.45  VfB Stuttgart (GER)      -  AC Sparta Praha (CZE)
-         FC Red Bull Salzburg (AUT)  -  Stade Brestois 29 (FRA)
-  21.00  ŠK Slovan Bratislava (SVK)  -  Manchester City FC (ENG)
-         Borussia Dortmund (GER)  -  Celtic FC (SCO)
-         FC Barcelona (ESP)       -  BSC Young Boys (SUI)
-         FC Internazionale Milano (ITA)  -  FK Crvena Zvezda (SRB)
-         Bayer 04 Leverkusen (GER)  -  AC Milan (ITA)
-         Arsenal FC (ENG)         -  Paris Saint-Germain FC (FRA)
-         PSV (NED)                -  Sporting Clube de Portugal (POR)
+  18.45  VfB Stuttgart (GER)      1-1 (1-1)  AC Sparta Praha (CZE)
+         FC Red Bull Salzburg (AUT)  0-4 (0-1)  Stade Brestois 29 (FRA)
+  21.00  ŠK Slovan Bratislava (SVK)  0-4 (0-2)  Manchester City FC (ENG)
+         Borussia Dortmund (GER)  7-1 (5-1)  Celtic FC (SCO)
+         FC Barcelona (ESP)       5-0 (3-0)  BSC Young Boys (SUI)
+         FC Internazionale Milano (ITA)  4-0 (1-0)  FK Crvena Zvezda (SRB)
+         Bayer 04 Leverkusen (GER)  1-0 (0-0)  AC Milan (ITA)
+         Arsenal FC (ENG)         2-0 (2-0)  Paris Saint-Germain FC (FRA)
+         PSV (NED)                1-1 (1-0)  Sporting Clube de Portugal (POR)
 [Wed Oct/2]
   18.45  Girona FC (ESP)          -  Feyenoord Rotterdam (NED)
          FK Shakhtar Donetsk (UKR)  -  Atalanta BC (ITA)
