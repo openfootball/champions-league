@@ -44,15 +44,15 @@ Matchday 2
          Arsenal FC (ENG)         2-0 (2-0)  Paris Saint-Germain FC (FRA)
          PSV (NED)                1-1 (1-0)  Sporting Clube de Portugal (POR)
 [Wed Oct/2]
-  18.45  Girona FC (ESP)          -  Feyenoord Rotterdam (NED)
-         FK Shakhtar Donetsk (UKR)  -  Atalanta BC (ITA)
-  21.00  Aston Villa FC (ENG)     -  FC Bayern München (GER)
-         SK Sturm Graz (AUT)      -  Club Brugge KV (BEL)
-         Liverpool FC (ENG)       -  Bologna FC 1909 (ITA)
-         RB Leipzig (GER)         -  Juventus FC (ITA)
-         Sport Lisboa e Benfica (POR)  -  Club Atlético de Madrid (ESP)
-         GNK Dinamo Zagreb (CRO)  -  AS Monaco FC (MCO)
-         Lille OSC (FRA)          -  Real Madrid CF (ESP)
+  18.45  Girona FC (ESP)          2-3 (1-2)  Feyenoord Rotterdam (NED)
+         FK Shakhtar Donetsk (UKR)  0-3 (0-2)  Atalanta BC (ITA)
+  21.00  Aston Villa FC (ENG)     1-0 (0-0)  FC Bayern München (GER)
+         SK Sturm Graz (AUT)      0-1 (0-1)  Club Brugge KV (BEL)
+         Liverpool FC (ENG)       2-0 (1-0)  Bologna FC 1909 (ITA)
+         RB Leipzig (GER)         2-3 (1-0)  Juventus FC (ITA)
+         Sport Lisboa e Benfica (POR)  4-0 (1-0)  Club Atlético de Madrid (ESP)
+         GNK Dinamo Zagreb (CRO)  2-2 (1-0)  AS Monaco FC (MCO)
+         Lille OSC (FRA)          1-0 (1-0)  Real Madrid CF (ESP)
 
 
 Matchday 3
