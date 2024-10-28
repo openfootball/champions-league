@@ -57,25 +57,25 @@ Matchday 2
 
 Matchday 3
 [Tue Oct/22]
-  18.45  AS Monaco FC (MCO)       -  FK Crvena Zvezda (SRB)
-         AC Milan (ITA)           -  Club Brugge KV (BEL)
-  21.00  Aston Villa FC (ENG)     -  Bologna FC 1909 (ITA)
-         Girona FC (ESP)          -  ŠK Slovan Bratislava (SVK)
-         SK Sturm Graz (AUT)      -  Sporting Clube de Portugal (POR)
-         Paris Saint-Germain FC (FRA)  -  PSV (NED)
-         Real Madrid CF (ESP)     -  Borussia Dortmund (GER)
-         Arsenal FC (ENG)         -  FK Shakhtar Donetsk (UKR)
-         Juventus FC (ITA)        -  VfB Stuttgart (GER)
+  18.45  AS Monaco FC (MCO)       5-1 (2-1)  FK Crvena Zvezda (SRB)
+         AC Milan (ITA)           3-1 (1-0)  Club Brugge KV (BEL)
+  21.00  Aston Villa FC (ENG)     2-0 (0-0)  Bologna FC 1909 (ITA)
+         Girona FC (ESP)          2-0 (1-0)  ŠK Slovan Bratislava (SVK)
+         SK Sturm Graz (AUT)      0-2 (0-1)  Sporting Clube de Portugal (POR)
+         Paris Saint-Germain FC (FRA)  1-1 (0-1)  PSV (NED)
+         Real Madrid CF (ESP)     5-2 (0-2)  Borussia Dortmund (GER)
+         Arsenal FC (ENG)         1-0 (1-0)  FK Shakhtar Donetsk (UKR)
+         Juventus FC (ITA)        0-1 (0-0)  VfB Stuttgart (GER)
 [Wed Oct/23]
-  18.45  Stade Brestois 29 (FRA)  -  Bayer 04 Leverkusen (GER)
-         Atalanta BC (ITA)        -  Celtic FC (SCO)
-  21.00  BSC Young Boys (SUI)     -  FC Internazionale Milano (ITA)
-         FC Barcelona (ESP)       -  FC Bayern München (GER)
-         Manchester City FC (ENG)  -  AC Sparta Praha (CZE)
-         RB Leipzig (GER)         -  Liverpool FC (ENG)
-         Club Atlético de Madrid (ESP)  -  Lille OSC (FRA)
-         Sport Lisboa e Benfica (POR)  -  Feyenoord Rotterdam (NED)
-         FC Red Bull Salzburg (AUT)  -  GNK Dinamo Zagreb (CRO)
+  18.45  Stade Brestois 29 (FRA)  1-1 (1-1)  Bayer 04 Leverkusen (GER)
+         Atalanta BC (ITA)        0-0  Celtic FC (SCO)
+  21.00  BSC Young Boys (SUI)     0-1 (0-0)  FC Internazionale Milano (ITA)
+         FC Barcelona (ESP)       4-1 (3-1)  FC Bayern München (GER)
+         Manchester City FC (ENG)  5-0 (1-0)  AC Sparta Praha (CZE)
+         RB Leipzig (GER)         0-1 (0-1)  Liverpool FC (ENG)
+         Club Atlético de Madrid (ESP)  1-3 (1-0)  Lille OSC (FRA)
+         Sport Lisboa e Benfica (POR)  1-3 (0-2)  Feyenoord Rotterdam (NED)
+         FC Red Bull Salzburg (AUT)  0-2 (0-0)  GNK Dinamo Zagreb (CRO)
 
 
 Matchday 4
