@@ -8,7 +8,7 @@
 
 == League
 
-Round 1
+Matchday 1
 [Tue Sep/17]
   18.45  BSC Young Boys (SUI)     0-3 (0-2)  Aston Villa FC (ENG)
          Juventus FC (ITA)        3-1 (2-0)  PSV (NED)
@@ -32,7 +32,7 @@ Round 1
          Club Atlético de Madrid (ESP)  2-1 (1-1)  RB Leipzig (GER)
 
 
-Round 2
+Matchday 2
 [Tue Oct/1]
   18.45  VfB Stuttgart (GER)      1-1 (1-1)  AC Sparta Praha (CZE)
          FC Red Bull Salzburg (AUT)  0-4 (0-1)  Stade Brestois 29 (FRA)
@@ -55,7 +55,7 @@ Round 2
          Lille OSC (FRA)          1-0 (1-0)  Real Madrid CF (ESP)
 
 
-Round 3
+Matchday 3
 [Tue Oct/22]
   18.45  AS Monaco FC (MCO)       5-1 (2-1)  FK Crvena Zvezda (SRB)
          AC Milan (ITA)           3-1 (1-0)  Club Brugge KV (BEL)
@@ -78,7 +78,7 @@ Round 3
          FC Red Bull Salzburg (AUT)  0-2 (0-0)  GNK Dinamo Zagreb (CRO)
 
 
-Round 4
+Matchday 4
 [Tue Nov/5]
   18.45  ŠK Slovan Bratislava (SVK)  1-4 (1-2)  GNK Dinamo Zagreb (CRO)
          PSV (NED)                4-0 (2-0)  Girona FC (ESP)
@@ -101,7 +101,7 @@ Round 4
   21.15  FC Bayern München (GER)  1-0 (0-0)  Sport Lisboa e Benfica (POR)
 
 
-Round 5
+Matchday 5
 [Tue Nov/26]
   18.45  ŠK Slovan Bratislava (SVK)  2-3 (1-1)  AC Milan (ITA)
          AC Sparta Praha (CZE)    0-6 (0-2)  Club Atlético de Madrid (ESP)
@@ -124,7 +124,7 @@ Round 5
          PSV (NED)                3-2 (0-2)  FK Shakhtar Donetsk (UKR)
 
 
-Round 6
+Matchday 6
 [Tue Dec/10]
   18.45  Girona FC (ESP)          0-1 (0-0)  Liverpool FC (ENG)
          GNK Dinamo Zagreb (CRO)  0-0  Celtic FC (SCO)
@@ -147,7 +147,7 @@ Round 6
          Feyenoord Rotterdam (NED)  4-2 (3-1)  AC Sparta Praha (CZE)
 
 
-Round 7
+Matchday 7
 [Tue Jan/21]
   18.45  AS Monaco FC (MCO)       -  Aston Villa FC (ENG)
          Atalanta BC (ITA)        -  SK Sturm Graz (AUT)
@@ -170,7 +170,7 @@ Round 7
          Feyenoord Rotterdam (NED)  -  FC Bayern München (GER)
 
 
-Round 8
+Matchday 8
 [Wed Jan/29]
   21.00  Sporting Clube de Portugal (POR)  -  Bologna FC 1909 (ITA)
          BSC Young Boys (SUI)     -  FK Crvena Zvezda (SRB)
@@ -194,7 +194,7 @@ Round 8
 
 == Playoffs
 
-Round 1
+Matchday 1
 [Tue Feb/11]
          N.N.                     -  N.N.
          N.N.                     -  N.N.
@@ -207,7 +207,7 @@ Round 1
          N.N.                     -  N.N.
 
 
-Round 2
+Matchday 2
 [Tue Feb/18]
          N.N.                     -  N.N.
          N.N.                     -  N.N.
