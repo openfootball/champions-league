@@ -149,15 +149,15 @@ Matchday 6
 
 Matchday 7
 [Tue Jan/21]
-  18.45  AS Monaco FC (MCO)       -  Aston Villa FC (ENG)
-         Atalanta BC (ITA)        -  SK Sturm Graz (AUT)
-  21.00  Bologna FC 1909 (ITA)    -  Borussia Dortmund (GER)
-         ŠK Slovan Bratislava (SVK)  -  VfB Stuttgart (GER)
-         Liverpool FC (ENG)       -  Lille OSC (FRA)
-         Club Atlético de Madrid (ESP)  -  Bayer 04 Leverkusen (GER)
-         Sport Lisboa e Benfica (POR)  -  FC Barcelona (ESP)
-         Club Brugge KV (BEL)     -  Juventus FC (ITA)
-         FK Crvena Zvezda (SRB)   -  PSV (NED)
+  18.45  AS Monaco FC (MCO)       1-0 (1-0)  Aston Villa FC (ENG)
+         Atalanta BC (ITA)        5-0 (1-0)  SK Sturm Graz (AUT)
+  21.00  Bologna FC 1909 (ITA)    2-1 (0-1)  Borussia Dortmund (GER)
+         ŠK Slovan Bratislava (SVK)  1-3 (0-2)  VfB Stuttgart (GER)
+         Liverpool FC (ENG)       2-1 (1-0)  Lille OSC (FRA)
+         Club Atlético de Madrid (ESP)  2-1 (0-1)  Bayer 04 Leverkusen (GER)
+         Sport Lisboa e Benfica (POR)  4-5 (3-1)  FC Barcelona (ESP)
+         Club Brugge KV (BEL)     0-0  Juventus FC (ITA)
+         FK Crvena Zvezda (SRB)   2-3 (0-3)  PSV (NED)
 [Wed Jan/22]
   18.45  RB Leipzig (GER)         -  Sporting Clube de Portugal (POR)
          FK Shakhtar Donetsk (UKR)  -  Stade Brestois 29 (FRA)
