@@ -159,15 +159,15 @@ Matchday 7
          Club Brugge KV (BEL)     0-0  Juventus FC (ITA)
          FK Crvena Zvezda (SRB)   2-3 (0-3)  PSV (NED)
 [Wed Jan/22]
-  18.45  RB Leipzig (GER)         -  Sporting Clube de Portugal (POR)
-         FK Shakhtar Donetsk (UKR)  -  Stade Brestois 29 (FRA)
-  21.00  AC Sparta Praha (CZE)    -  FC Internazionale Milano (ITA)
-         Paris Saint-Germain FC (FRA)  -  Manchester City FC (ENG)
-         Real Madrid CF (ESP)     -  FC Red Bull Salzburg (AUT)
-         AC Milan (ITA)           -  Girona FC (ESP)
-         Arsenal FC (ENG)         -  GNK Dinamo Zagreb (CRO)
-         Celtic FC (SCO)          -  BSC Young Boys (SUI)
-         Feyenoord Rotterdam (NED)  -  FC Bayern München (GER)
+  18.45  RB Leipzig (GER)         2-1 (1-0)  Sporting Clube de Portugal (POR)
+         FK Shakhtar Donetsk (UKR)  2-0 (2-0)  Stade Brestois 29 (FRA)
+  21.00  AC Sparta Praha (CZE)    0-1 (0-1)  FC Internazionale Milano (ITA)
+         Paris Saint-Germain FC (FRA)  4-2 (0-0)  Manchester City FC (ENG)
+         Real Madrid CF (ESP)     5-1 (2-0)  FC Red Bull Salzburg (AUT)
+         AC Milan (ITA)           1-0 (1-0)  Girona FC (ESP)
+         Arsenal FC (ENG)         3-0 (1-0)  GNK Dinamo Zagreb (CRO)
+         Celtic FC (SCO)          1-0 (0-0)  BSC Young Boys (SUI)
+         Feyenoord Rotterdam (NED)  3-0 (2-0)  FC Bayern München (GER)
 
 
 Matchday 8
