@@ -172,52 +172,52 @@ Matchday 7
 
 Matchday 8
 [Wed Jan/29]
-  21.00  Sporting Clube de Portugal (POR)  -  Bologna FC 1909 (ITA)
-         BSC Young Boys (SUI)     -  FK Crvena Zvezda (SRB)
-         Aston Villa FC (ENG)     -  Celtic FC (SCO)
-         Girona FC (ESP)          -  Arsenal FC (ENG)
-         Stade Brestois 29 (FRA)  -  Real Madrid CF (ESP)
-         SK Sturm Graz (AUT)      -  RB Leipzig (GER)
-         VfB Stuttgart (GER)      -  Paris Saint-Germain FC (FRA)
-         FC Bayern München (GER)  -  ŠK Slovan Bratislava (SVK)
-         Borussia Dortmund (GER)  -  FK Shakhtar Donetsk (UKR)
-         FC Barcelona (ESP)       -  Atalanta BC (ITA)
-         FC Internazionale Milano (ITA)  -  AS Monaco FC (MCO)
-         Manchester City FC (ENG)  -  Club Brugge KV (BEL)
-         Bayer 04 Leverkusen (GER)  -  AC Sparta Praha (CZE)
-         Juventus FC (ITA)        -  Sport Lisboa e Benfica (POR)
-         GNK Dinamo Zagreb (CRO)  -  AC Milan (ITA)
-         Lille OSC (FRA)          -  Feyenoord Rotterdam (NED)
-         PSV (NED)                -  Liverpool FC (ENG)
-         FC Red Bull Salzburg (AUT)  -  Club Atlético de Madrid (ESP)
+  21.00  Sporting Clube de Portugal (POR)  1-1 (0-1)  Bologna FC 1909 (ITA)
+         BSC Young Boys (SUI)     0-1 (0-0)  FK Crvena Zvezda (SRB)
+         Aston Villa FC (ENG)     4-2 (2-2)  Celtic FC (SCO)
+         Girona FC (ESP)          1-2 (1-2)  Arsenal FC (ENG)
+         Stade Brestois 29 (FRA)  0-3 (0-1)  Real Madrid CF (ESP)
+         SK Sturm Graz (AUT)      1-0 (1-0)  RB Leipzig (GER)
+         VfB Stuttgart (GER)      1-4 (0-3)  Paris Saint-Germain FC (FRA)
+         FC Bayern München (GER)  3-1 (1-0)  ŠK Slovan Bratislava (SVK)
+         Borussia Dortmund (GER)  3-1 (2-0)  FK Shakhtar Donetsk (UKR)
+         FC Barcelona (ESP)       2-2 (0-0)  Atalanta BC (ITA)
+         FC Internazionale Milano (ITA)  3-0 (2-0)  AS Monaco FC (MCO)
+         Manchester City FC (ENG)  3-1 (0-1)  Club Brugge KV (BEL)
+         Bayer 04 Leverkusen (GER)  2-0 (1-0)  AC Sparta Praha (CZE)
+         Juventus FC (ITA)        0-2 (0-1)  Sport Lisboa e Benfica (POR)
+         GNK Dinamo Zagreb (CRO)  2-1 (1-0)  AC Milan (ITA)
+         Lille OSC (FRA)          6-1 (2-1)  Feyenoord Rotterdam (NED)
+         PSV (NED)                3-2 (3-2)  Liverpool FC (ENG)
+         FC Red Bull Salzburg (AUT)  1-4 (0-3)  Club Atlético de Madrid (ESP)
 
 
 == Playoffs
 
 Matchday 1
 [Tue Feb/11]
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  Stade Brestois 29 (FRA)  -  Paris Saint-Germain FC (FRA)
+  21.00  Manchester City FC (ENG)  -  Real Madrid CF (ESP)
+         Juventus FC (ITA)        -  PSV (NED)
+         Sporting Clube de Portugal (POR)  -  Borussia Dortmund (GER)
 [Wed Feb/12]
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  Club Brugge KV (BEL)     -  Atalanta BC (ITA)
+  21.00  AS Monaco FC (MCO)       -  Sport Lisboa e Benfica (POR)
+         Celtic FC (SCO)          -  FC Bayern München (GER)
+         Feyenoord Rotterdam (NED)  -  AC Milan (ITA)
 
 
 Matchday 2
 [Tue Feb/18]
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  AC Milan (ITA)           -  Feyenoord Rotterdam (NED)
+  21.00  Sport Lisboa e Benfica (POR)  -  AS Monaco FC (MCO)
+         FC Bayern München (GER)  -  Celtic FC (SCO)
+         Atalanta BC (ITA)        -  Club Brugge KV (BEL)
 [Wed Feb/19]
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  Borussia Dortmund (GER)  -  Sporting Clube de Portugal (POR)
+  21.00  Paris Saint-Germain FC (FRA)  -  Stade Brestois 29 (FRA)
+         Real Madrid CF (ESP)     -  Manchester City FC (ENG)
+         PSV (NED)                -  Juventus FC (ITA)
 
 
 == Finals
