@@ -196,15 +196,15 @@ Matchday 8
 
 Matchday 1
 [Tue Feb/11]
-  18.45  Stade Brestois 29 (FRA)  -  Paris Saint-Germain FC (FRA)
-  21.00  Manchester City FC (ENG)  -  Real Madrid CF (ESP)
-         Juventus FC (ITA)        -  PSV (NED)
-         Sporting Clube de Portugal (POR)  -  Borussia Dortmund (GER)
+  18.45  Stade Brestois 29 (FRA)  0-3 (0-2)  Paris Saint-Germain FC (FRA)
+  21.00  Manchester City FC (ENG)  2-3 (1-0)  Real Madrid CF (ESP)
+         Juventus FC (ITA)        2-1 (1-0)  PSV (NED)
+         Sporting Clube de Portugal (POR)  0-3 (0-0)  Borussia Dortmund (GER)
 [Wed Feb/12]
-  18.45  Club Brugge KV (BEL)     -  Atalanta BC (ITA)
-  21.00  AS Monaco FC (MCO)       -  Sport Lisboa e Benfica (POR)
-         Celtic FC (SCO)          -  FC Bayern München (GER)
-         Feyenoord Rotterdam (NED)  -  AC Milan (ITA)
+  18.45  Club Brugge KV (BEL)     2-1 (1-1)  Atalanta BC (ITA)
+  21.00  AS Monaco FC (MCO)       0-1 (0-0)  Sport Lisboa e Benfica (POR)
+         Celtic FC (SCO)          1-2 (0-1)  FC Bayern München (GER)
+         Feyenoord Rotterdam (NED)  1-0 (1-0)  AC Milan (ITA)
 
 
 Matchday 2
