@@ -224,25 +224,25 @@ Matchday 2
 
 Round of 16
 [Tue Mar/4]
-  01.00  N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  Club Brugge KV (BEL)     -  Aston Villa FC (ENG)
+  21.00  Real Madrid CF (ESP)     -  Club Atlético de Madrid (ESP)
+         PSV (NED)                -  Arsenal FC (ENG)
+         Borussia Dortmund (GER)  -  Lille OSC (FRA)
 [Wed Mar/5]
-  01.00  N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  Feyenoord Rotterdam (NED)  -  FC Internazionale Milano (ITA)
+  21.00  Paris Saint-Germain FC (FRA)  -  Liverpool FC (ENG)
+         FC Bayern München (GER)  -  Bayer 04 Leverkusen (GER)
+         Sport Lisboa e Benfica (POR)  -  FC Barcelona (ESP)
 [Tue Mar/11]
-  01.00  N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  FC Barcelona (ESP)       -  Sport Lisboa e Benfica (POR)
+  21.00  Liverpool FC (ENG)       -  Paris Saint-Germain FC (FRA)
+         FC Internazionale Milano (ITA)  -  Feyenoord Rotterdam (NED)
+         Bayer 04 Leverkusen (GER)  -  FC Bayern München (GER)
 [Wed Mar/12]
-  01.00  N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
-         N.N.                     -  N.N.
+  18.45  Lille OSC (FRA)          -  Borussia Dortmund (GER)
+  21.00  Aston Villa FC (ENG)     -  Club Brugge KV (BEL)
+         Club Atlético de Madrid (ESP)  -  Real Madrid CF (ESP)
+         Arsenal FC (ENG)         -  PSV (NED)
 
 
 Quarterfinals
@@ -265,12 +265,12 @@ Semifinals
          N.N.                     -  N.N.
 [Wed Apr/30]
          N.N.                     -  N.N.
-[Wed May/7]
+[Tue May/6]
          N.N.                     -  N.N.
-[Thu May/8]
+[Wed May/7]
          N.N.                     -  N.N.
 
 
 Final
 [Sat May/31]
-  02.00  N.N.                     -  N.N.
+  21.00  N.N.                     -  N.N.
