@@ -1,317 +1,233 @@
 = UEFA Champions League 2022/23
 
-# Date       Tue Jun/21 2022 - Sat Jun/10 2023 (354d)
-# Teams      79
-# Matches    214
-# Stages     Qualifying (89)  Group (96)  Finals (29)
+# Date       Tue Sep/6 2022 - Sat Jun/10 2023 (277d)
+# Teams      32
+# Matches    125
 
 
-== Qualifying
 
-Preliminary Round
-[Tue Jun/21]
-  15.00  SP La Fiorita (SMR)      1-2 (1-0)  Inter Club d'Escaldes (AND)
-  21.30  FCI Levadia (EST)        1-6 (1-3)  KR Reykjavík (ISL)
-[Fri Jun/24]
-  21.30  Inter Club d'Escaldes (AND)  0-1 (0-0)  KR Reykjavík (ISL)
-
-
-Round 1
-[Tue Jul/5]
-  18.00  FC Pyunik Yerevan (ARM)  0-0  FC CFR 1907 Cluj (ROU)
-  19.00  Malmö FF (SWE)           3-2 (2-1)  KF Víkingur (ISL)
-  19.45  PFK Ludogorets 1945 Razgrad (BUL)  2-0 (0-0)  FK Sutjeska Nikšić (MNE)
-  20.00  KKS Lech Poznań (POL)    1-0 (1-0)  Qarabağ Ağdam FK (AZE)
-         The New Saints FC (WAL)  1-0 (0-0)  Linfield FC (NIR)
-         Ballkani (KOS)           1-1 (1-1)  FK Žalgiris Vilnius (LTU)
-  20.30  Shamrock Rovers FC (IRL)  3-0 (2-0)  Hibernians FC (MLT)
-  20.45  FK Shkupi Skopje (MKD)   3-0 (2-0)  Lincoln Red Imps FC (GIB)
-[Wed Jul/6]
-  16.00  Tobol Kostanay (KAZ)     0-0  Ferencvárosi TC (HUN)
-  18.00  FK Bodø/Glimt (NOR)      3-0 (2-0)  KÍ (FRO)
-         Helsingin JK (FIN)       1-0 (1-0)  FK Rīgas Futbola Skola (LVA)
-  19.30  F91 Diddeleng (LUX)      1-0 (0-0)  KF Tirana (ALB)
-  20.00  HŠK Zrinjski Mostar (BIH)  0-0  FC Sheriff Tiraspol (MDA)
-  20.15  NK Maribor (SVN)         0-0  FK Šachcior Salihorsk (BLR)
-  20.30  ŠK Slovan Bratislava (SVK)  0-0  FC Dinamo Batumi (GEO)
-[Tue Jul/12]
-  17.30  FK Rīgas Futbola Skola (LVA)  4-5 pen. 2-1 a.e.t. (2-1, 0-0)  Helsingin JK (FIN)
-  18.00  Lincoln Red Imps FC (GIB)  2-0 (1-0)  FK Shkupi Skopje (MKD)
-         Qarabağ Ağdam FK (AZE)   5-1 (2-1)  KKS Lech Poznań (POL)
-         FK Žalgiris Vilnius (LTU)  1-0 a.e.t. (0-0)  Ballkani (KOS)
-  19.00  FC Sheriff Tiraspol (MDA)  1-0 (1-0)  HŠK Zrinjski Mostar (BIH)
-  20.00  Hibernians FC (MLT)      0-0  Shamrock Rovers FC (IRL)
-         KF Tirana (ALB)          1-2 (0-0)  F91 Diddeleng (LUX)
-  21.00  FK Sutjeska Nikšić (MNE)  0-1 (0-0)  PFK Ludogorets 1945 Razgrad (BUL)
-  21.30  KF Víkingur (ISL)        3-3 (1-2)  Malmö FF (SWE)
-[Wed Jul/13]
-  19.00  FC Dinamo Batumi (GEO)   1-2 a.e.t. (0-0)  ŠK Slovan Bratislava (SVK)
-         FK Šachcior Salihorsk (BLR)  0-2 (0-1)  NK Maribor (SVN)
-         KÍ (FRO)                 3-1 (2-0)  FK Bodø/Glimt (NOR)
-  20.00  Ferencvárosi TC (HUN)    5-1 (3-1)  Tobol Kostanay (KAZ)
-  20.30  FC CFR 1907 Cluj (ROU)   3-4 pen. 2-2 a.e.t. (1-1, 1-0)  FC Pyunik Yerevan (ARM)
-  20.45  Linfield FC (NIR)        2-0 a.e.t. (1-0, 0-0)  The New Saints FC (WAL)
+» Group A
+  Wed Sep/7 2022
+    18.45  AFC Ajax (NED)          v Rangers FC (SCO)         4-0 (3-0)
+    21.00  SSC Napoli (ITA)        v Liverpool FC (ENG)       4-1 (3-0)
+  Tue Sep/13
+    21.00  Liverpool FC (ENG)      v AFC Ajax (NED)           2-1 (1-1)
+  Wed Sep/14
+    21.00  Rangers FC (SCO)        v SSC Napoli (ITA)         0-3 (0-0)
+  Tue Oct/4
+    21.00  AFC Ajax (NED)          v SSC Napoli (ITA)         1-6 (1-3)
+           Liverpool FC (ENG)      v Rangers FC (SCO)         2-0 (1-0)
+  Wed Oct/12
+    18.45  SSC Napoli (ITA)        v AFC Ajax (NED)           4-2 (2-0)
+    21.00  Rangers FC (SCO)        v Liverpool FC (ENG)       1-7 (1-1)
+  Wed Oct/26
+    21.00  AFC Ajax (NED)          v Liverpool FC (ENG)       0-3 (0-1)
+           SSC Napoli (ITA)        v Rangers FC (SCO)         3-0 (2-0)
+  Tue Nov/1
+    21.00  Rangers FC (SCO)        v AFC Ajax (NED)           1-3 (0-2)
+           Liverpool FC (ENG)      v SSC Napoli (ITA)         2-0 (0-0)
 
 
-Round 2
-[Tue Jul/19]
-  18.00  FC Pyunik Yerevan (ARM)  0-1 (0-0)  F91 Diddeleng (LUX)
-         FK Žalgiris Vilnius (LTU)  1-0 (0-0)  Malmö FF (SWE)
-         Qarabağ Ağdam FK (AZE)   3-2 (2-0)  FC Zürich (SUI)
-  19.45  FC Midtjylland (DEN)     1-1 (0-0)  AÉK Lárnaka (CYP)
-         PFK Ludogorets 1945 Razgrad (BUL)  3-0 (2-0)  Shamrock Rovers FC (IRL)
-  20.45  Linfield FC (NIR)        1-0 (0-0)  FK Bodø/Glimt (NOR)
-  21.00  GNK Dinamo Zagreb (CRO)  2-2 (1-1)  FK Shkupi Skopje (MKD)
-[Wed Jul/20]
-  18.00  Helsingin JK (FIN)       1-2 (0-1)  FC Viktoria Plzeň (CZE)
-  19.15  Maccabi Haifa FC (ISR)   1-1 (0-1)  PAE Olympiakos SFP (GRE)
-  20.00  FK Dynamo Kyiv (UKR)     0-0  Fenerbahçe SK (TUR)
-         Ferencvárosi TC (HUN)    1-2 (0-0)  ŠK Slovan Bratislava (SVK)
-  20.15  NK Maribor (SVN)         0-0  FC Sheriff Tiraspol (MDA)
-[Tue Jul/26]
-  17.30  AÉK Lárnaka (CYP)        3-4 pen. 1-1 a.e.t. (1-1, 1-1)  FC Midtjylland (DEN)
-  19.00  FC Sheriff Tiraspol (MDA)  1-0 (0-0)  NK Maribor (SVN)
-         FC Viktoria Plzeň (CZE)  5-0 (3-0)  Helsingin JK (FIN)
-  19.30  F91 Diddeleng (LUX)      1-4 (1-1)  FC Pyunik Yerevan (ARM)
-  21.00  Shamrock Rovers FC (IRL)  2-1 (1-0)  PFK Ludogorets 1945 Razgrad (BUL)
-         FK Shkupi Skopje (MKD)   0-1 (0-0)  GNK Dinamo Zagreb (CRO)
-[Wed Jul/27]
-  18.00  FK Bodø/Glimt (NOR)      8-0 (4-0)  Linfield FC (NIR)
-  19.00  Fenerbahçe SK (TUR)      1-2 a.e.t. (1-1, 0-0)  FK Dynamo Kyiv (UKR)
-         Malmö FF (SWE)           0-2 (0-1)  FK Žalgiris Vilnius (LTU)
-         FC Zürich (SUI)          2-2 a.e.t. (2-1, 1-0)  Qarabağ Ağdam FK (AZE)
-  20.30  ŠK Slovan Bratislava (SVK)  1-4 (0-2)  Ferencvárosi TC (HUN)
-  21.00  PAE Olympiakos SFP (GRE)  0-4 (0-1)  Maccabi Haifa FC (ISR)
+» Group B
+  Wed Sep/7
+    21.00  Atlético Madrid (ESP)   v FC Porto (POR)           2-1 (0-0)
+           Club Brugge KV (BEL)    v Bayer Leverkusen (GER)   1-0 (1-0)
+  Tue Sep/13
+    21.00  Bayer Leverkusen (GER)  v Atlético Madrid (ESP)    2-0 (0-0)
+           FC Porto (POR)          v Club Brugge KV (BEL)     0-4 (0-1)
+  Tue Oct/4
+    21.00  Club Brugge KV (BEL)    v Atlético Madrid (ESP)    2-0 (1-0)
+           FC Porto (POR)          v Bayer Leverkusen (GER)   2-0 (0-0)
+  Wed Oct/12
+    18.45  Atlético Madrid (ESP)   v Club Brugge KV (BEL)     0-0
+    21.00  Bayer Leverkusen (GER)  v FC Porto (POR)           0-3 (0-1)
+  Wed Oct/26
+    18.45  Club Brugge KV (BEL)    v FC Porto (POR)           0-4 (0-1)
+    21.00  Atlético Madrid (ESP)   v Bayer Leverkusen (GER)   2-2 (1-2)
+  Tue Nov/1
+    18.45  FC Porto (POR)          v Atlético Madrid (ESP)    2-1 (2-0)
+           Bayer Leverkusen (GER)  v Club Brugge KV (BEL)     0-0
 
 
-Round 3
-[Tue Aug/2]
-  19.00  FC Sheriff Tiraspol (MDA)  1-2 (1-1)  FC Viktoria Plzeň (CZE)
-  19.45  PFK Ludogorets 1945 Razgrad (BUL)  1-2 (1-2)  GNK Dinamo Zagreb (CRO)
-  20.00  AS Monaco FC (MCO)       1-1 (0-1)  PSV (NED)
-  20.45  Royale Union Saint-Gilloise (BEL)  2-0 (1-0)  Rangers FC (SCO)
-  21.00  Sport Lisboa e Benfica (POR)  4-1 (3-0)  FC Midtjylland (DEN)
-[Wed Aug/3]
-  18.00  FK Bodø/Glimt (NOR)      5-0 (2-0)  FK Žalgiris Vilnius (LTU)
-         Qarabağ Ağdam FK (AZE)   1-1 (1-1)  Ferencvárosi TC (HUN)
-  19.00  Maccabi Haifa FC (ISR)   4-0 (1-0)  Apollon FC Lemesós (CYP)
-  20.00  FK Dynamo Kyiv (UKR)     1-0 (1-0)  SK Sturm Graz (AUT)
-  20.50  FK Crvena Zvezda (SRB)   5-0 (3-0)  FC Pyunik Yerevan (ARM)
-[Tue Aug/9]
-  18.00  FK Žalgiris Vilnius (LTU)  1-1 (1-0)  FK Bodø/Glimt (NOR)
-  19.00  FC Pyunik Yerevan (ARM)  0-2 (0-1)  FK Crvena Zvezda (SRB)
-         FC Viktoria Plzeň (CZE)  2-1 (1-0)  FC Sheriff Tiraspol (MDA)
-         Apollon FC Lemesós (CYP)  2-0 (2-0)  Maccabi Haifa FC (ISR)
-  19.45  FC Midtjylland (DEN)     1-3 (0-1)  Sport Lisboa e Benfica (POR)
-  20.00  GNK Dinamo Zagreb (CRO)  4-2 (3-1)  PFK Ludogorets 1945 Razgrad (BUL)
-         Ferencvárosi TC (HUN)    1-3 (0-1)  Qarabağ Ağdam FK (AZE)
-  20.30  SK Sturm Graz (AUT)      1-2 a.e.t. (1-0, 1-0)  FK Dynamo Kyiv (UKR)
-         PSV (NED)                3-2 a.e.t. (2-2, 1-0)  AS Monaco FC (MCO)
-  20.45  Rangers FC (SCO)         3-0 (1-0)  Royale Union Saint-Gilloise (BEL)
+» Group C
+  Wed Sep/7
+    21.00  Inter (ITA)             v Bayern München (GER)     0-2 (0-1)
+           FC Barcelona (ESP)      v Viktoria Plzeň (CZE)     5-1 (3-1)
+  Tue Sep/13
+    18.45  Viktoria Plzeň (CZE)    v Inter (ITA)              0-2 (0-1)
+    21.00  Bayern München (GER)    v FC Barcelona (ESP)       2-0 (0-0)
+  Tue Oct/4
+    18.45  Bayern München (GER)    v Viktoria Plzeň (CZE)     5-0 (3-0)
+    21.00  Inter (ITA)             v FC Barcelona (ESP)       1-0 (1-0)
+  Wed Oct/12
+    21.00  Viktoria Plzeň (CZE)    v Bayern München (GER)     2-4 (0-4)
+           FC Barcelona (ESP)      v Inter (ITA)              3-3 (1-0)
+  Wed Oct/26
+    18.45  Inter (ITA)             v Viktoria Plzeň (CZE)     4-0 (2-0)
+    21.00  FC Barcelona (ESP)      v Bayern München (GER)     0-3 (0-2)
+  Tue Nov/1
+    21.00  Bayern München (GER)    v Inter (ITA)              2-0 (1-0)
+           Viktoria Plzeň (CZE)    v FC Barcelona (ESP)       2-4 (0-2)
 
 
-Playoff Round 1
-[Tue Aug/16]
-  21.00  Rangers FC (SCO)         2-2 (1-1)  PSV (NED)
-         FC København (DEN)       2-1 (1-0)  Trabzonspor (TUR)
-         FK Bodø/Glimt (NOR)      1-0 (1-0)  GNK Dinamo Zagreb (CRO)
-[Wed Aug/17]
-  18.45  Qarabağ Ağdam FK (AZE)   0-0  FC Viktoria Plzeň (CZE)
-  21.00  FK Dynamo Kyiv (UKR)     0-2 (0-2)  Sport Lisboa e Benfica (POR)
-         Maccabi Haifa FC (ISR)   3-2 (1-2)  FK Crvena Zvezda (SRB)
-[Tue Aug/23]
-  21.00  Sport Lisboa e Benfica (POR)  3-0 (3-0)  FK Dynamo Kyiv (UKR)
-         FK Crvena Zvezda (SRB)   2-2 (2-1)  Maccabi Haifa FC (ISR)
-         FC Viktoria Plzeň (CZE)  2-1 (0-1)  Qarabağ Ağdam FK (AZE)
-[Wed Aug/24]
-  21.00  PSV (NED)                0-1 (0-0)  Rangers FC (SCO)
-         Trabzonspor (TUR)        0-0  FC København (DEN)
-         GNK Dinamo Zagreb (CRO)  4-1 a.e.t. (2-1, 2-0)  FK Bodø/Glimt (NOR)
+» Group D
+  Wed Sep/7
+    18.45  Eintracht Frankfurt (GER) v Sporting CP (POR)        0-3 (0-0)
+    21.00  Tottenham Hotspur (ENG) v Olympique Marseille (FRA)  2-0 (0-0)
+  Tue Sep/13
+    18.45  Sporting CP (POR)       v Tottenham Hotspur (ENG)  2-0 (0-0)
+    21.00  Olympique Marseille (FRA) v Eintracht Frankfurt (GER)  0-1 (0-1)
+  Tue Oct/4
+    18.45  Olympique Marseille (FRA) v Sporting CP (POR)        4-1 (3-1)
+    21.00  Eintracht Frankfurt (GER) v Tottenham Hotspur (ENG)  0-0
+  Wed Oct/12
+    21.00  Tottenham Hotspur (ENG) v Eintracht Frankfurt (GER)  3-2 (3-1)
+           Sporting CP (POR)       v Olympique Marseille (FRA)  0-2 (0-2)
+  Wed Oct/26
+    21.00  Eintracht Frankfurt (GER) v Olympique Marseille (FRA)  2-1 (2-1)
+           Tottenham Hotspur (ENG) v Sporting CP (POR)        1-1 (0-1)
+  Tue Nov/1
+    21.00  Sporting CP (POR)       v Eintracht Frankfurt (GER)  1-2 (1-0)
+           Olympique Marseille (FRA) v Tottenham Hotspur (ENG)  1-2 (1-0)
 
 
-== Group
-
-Matchday 1
-[Tue Sep/6]
-  18.45  GNK Dinamo Zagreb (CRO)  1-0 (1-0)  Chelsea FC (ENG)
-         Borussia Dortmund (GER)  3-0 (2-0)  FC København (DEN)
-  21.00  FC Red Bull Salzburg (AUT)  1-1 (1-1)  AC Milan (ITA)
-         RB Leipzig (GER)         1-4 (0-1)  FK Shakhtar Donetsk (UKR)
-         Celtic FC (SCO)          0-3 (0-0)  Real Madrid CF (ESP)
-         Sevilla FC (ESP)         0-4 (0-1)  Manchester City FC (ENG)
-         Sport Lisboa e Benfica (POR)  2-0 (0-0)  Maccabi Haifa FC (ISR)
-         Paris Saint-Germain FC (FRA)  2-1 (2-0)  Juventus FC (ITA)
-[Wed Sep/7]
-  18.45  AFC Ajax (NED)           4-0 (3-0)  Rangers FC (SCO)
-         Eintracht Frankfurt (GER)  0-3 (0-0)  Sporting Clube de Portugal (POR)
-  21.00  SSC Napoli (ITA)         4-1 (3-0)  Liverpool FC (ENG)
-         Club Brugge KV (BEL)     1-0 (1-0)  Bayer 04 Leverkusen (GER)
-         Club Atlético de Madrid (ESP)  2-1 (0-0)  FC Porto (POR)
-         FC Internazionale Milano (ITA)  0-2 (0-1)  FC Bayern München (GER)
-         FC Barcelona (ESP)       5-1 (3-1)  FC Viktoria Plzeň (CZE)
-         Tottenham Hotspur FC (ENG)  2-0 (0-0)  Olympique de Marseille (FRA)
+» Group E
+  Tue Sep/6
+    18.45  Dinamo Zagreb (CRO)     v Chelsea FC (ENG)         1-0 (1-0)
+    21.00  RB Salzburg (AUT)       v AC Milan (ITA)           1-1 (1-1)
+  Wed Sep/14
+    18.45  AC Milan (ITA)          v Dinamo Zagreb (CRO)      3-1 (1-0)
+    21.00  Chelsea FC (ENG)        v RB Salzburg (AUT)        1-1 (0-0)
+  Wed Oct/5
+    18.45  RB Salzburg (AUT)       v Dinamo Zagreb (CRO)      1-0 (0-0)
+    21.00  Chelsea FC (ENG)        v AC Milan (ITA)           3-0 (1-0)
+  Tue Oct/11
+    21.00  AC Milan (ITA)          v Chelsea FC (ENG)         0-2 (0-2)
+           Dinamo Zagreb (CRO)     v RB Salzburg (AUT)        1-1 (1-1)
+  Tue Oct/25
+    18.45  RB Salzburg (AUT)       v Chelsea FC (ENG)         1-2 (0-1)
+    21.00  Dinamo Zagreb (CRO)     v AC Milan (ITA)           0-4 (0-1)
+  Wed Nov/2
+    21.00  AC Milan (ITA)          v RB Salzburg (AUT)        4-0 (1-0)
+           Chelsea FC (ENG)        v Dinamo Zagreb (CRO)      2-1 (2-1)
 
 
-Matchday 2
-[Tue Sep/13]
-  18.45  FC Viktoria Plzeň (CZE)  0-2 (0-1)  FC Internazionale Milano (ITA)
-         Sporting Clube de Portugal (POR)  2-0 (0-0)  Tottenham Hotspur FC (ENG)
-  21.00  Liverpool FC (ENG)       2-1 (1-1)  AFC Ajax (NED)
-         FC Porto (POR)           0-4 (0-1)  Club Brugge KV (BEL)
-         Bayer 04 Leverkusen (GER)  2-0 (0-0)  Club Atlético de Madrid (ESP)
-         FC Bayern München (GER)  2-0 (0-0)  FC Barcelona (ESP)
-         Olympique de Marseille (FRA)  0-1 (0-1)  Eintracht Frankfurt (GER)
-[Wed Sep/14]
-  18.45  AC Milan (ITA)           3-1 (1-0)  GNK Dinamo Zagreb (CRO)
-         FK Shakhtar Donetsk (UKR)  1-1 (1-1)  Celtic FC (SCO)
-  21.00  Rangers FC (SCO)         0-3 (0-0)  SSC Napoli (ITA)
-         Chelsea FC (ENG)         1-1 (0-0)  FC Red Bull Salzburg (AUT)
-         Real Madrid CF (ESP)     2-0 (0-0)  RB Leipzig (GER)
-         FC København (DEN)       0-0  Sevilla FC (ESP)
-         Manchester City FC (ENG)  2-1 (0-0)  Borussia Dortmund (GER)
-         Juventus FC (ITA)        1-2 (1-1)  Sport Lisboa e Benfica (POR)
-         Maccabi Haifa FC (ISR)   1-3 (1-1)  Paris Saint-Germain FC (FRA)
+» Group F
+  Tue Sep/6
+    21.00  Celtic FC (SCO)         v Real Madrid (ESP)        0-3 (0-0)
+           RB Leipzig (GER)        v Shakhtar Donetsk (UKR)   1-4 (0-1)
+  Wed Sep/14
+    18.45  Shakhtar Donetsk (UKR)  v Celtic FC (SCO)          1-1 (1-1)
+    21.00  Real Madrid (ESP)       v RB Leipzig (GER)         2-0 (0-0)
+  Wed Oct/5
+    18.45  RB Leipzig (GER)        v Celtic FC (SCO)          3-1 (1-0)
+    21.00  Real Madrid (ESP)       v Shakhtar Donetsk (UKR)   2-1 (2-1)
+  Tue Oct/11
+    21.00  Celtic FC (SCO)         v RB Leipzig (GER)         0-2 (0-0)
+           Shakhtar Donetsk (UKR)  v Real Madrid (ESP)        1-1 (0-0)
+  Tue Oct/25
+    21.00  Celtic FC (SCO)         v Shakhtar Donetsk (UKR)   1-1 (1-0)
+           RB Leipzig (GER)        v Real Madrid (ESP)        3-2 (2-1)
+  Wed Nov/2
+    18.45  Real Madrid (ESP)       v Celtic FC (SCO)          5-1 (2-0)
+           Shakhtar Donetsk (UKR)  v RB Leipzig (GER)         0-4 (0-1)
 
 
-Matchday 3
-[Tue Oct/4]
-  18.45  FC Bayern München (GER)  5-0 (3-0)  FC Viktoria Plzeň (CZE)
-         Olympique de Marseille (FRA)  4-1 (3-1)  Sporting Clube de Portugal (POR)
-  21.00  Liverpool FC (ENG)       2-0 (1-0)  Rangers FC (SCO)
-         AFC Ajax (NED)           1-6 (1-3)  SSC Napoli (ITA)
-         Club Brugge KV (BEL)     2-0 (1-0)  Club Atlético de Madrid (ESP)
-         FC Porto (POR)           2-0 (0-0)  Bayer 04 Leverkusen (GER)
-         FC Internazionale Milano (ITA)  1-0 (1-0)  FC Barcelona (ESP)
-         Eintracht Frankfurt (GER)  0-0  Tottenham Hotspur FC (ENG)
-[Wed Oct/5]
-  18.45  FC Red Bull Salzburg (AUT)  1-0 (0-0)  GNK Dinamo Zagreb (CRO)
-         RB Leipzig (GER)         3-1 (1-0)  Celtic FC (SCO)
-  21.00  Chelsea FC (ENG)         3-0 (1-0)  AC Milan (ITA)
-         Real Madrid CF (ESP)     2-1 (2-1)  FK Shakhtar Donetsk (UKR)
-         Sevilla FC (ESP)         1-4 (0-3)  Borussia Dortmund (GER)
-         Manchester City FC (ENG)  5-0 (3-0)  FC København (DEN)
-         Sport Lisboa e Benfica (POR)  1-1 (1-1)  Paris Saint-Germain FC (FRA)
-         Juventus FC (ITA)        3-1 (1-0)  Maccabi Haifa FC (ISR)
+» Gruppe G
+  Tue Sep/6
+    18.45  Borussia Dortmund (GER) v FC København (DEN)       3-0 (2-0)
+    21.00  Sevilla FC (ESP)        v Manchester City (ENG)    0-4 (0-1)
+  Wed Sep/14
+    21.00  Manchester City (ENG)   v Borussia Dortmund (GER)  2-1 (0-0)
+           FC København (DEN)      v Sevilla FC (ESP)         0-0
+  Wed Oct/5
+    21.00  Sevilla FC (ESP)        v Borussia Dortmund (GER)  1-4 (0-3)
+           Manchester City (ENG)   v FC København (DEN)       5-0 (3-0)
+  Tue Oct/11
+    18.45  FC København (DEN)      v Manchester City (ENG)    0-0
+    21.00  Borussia Dortmund (GER) v Sevilla FC (ESP)         1-1 (1-1)
+  Tue Oct/25
+    18.45  Sevilla FC (ESP)        v FC København (DEN)       3-0 (0-0)
+    21.00  Borussia Dortmund (GER) v Manchester City (ENG)    0-0
+  Wed Nov/2
+    21.00  FC København (DEN)      v Borussia Dortmund (GER)  1-1 (1-1)
+           Manchester City (ENG)   v Sevilla FC (ESP)         3-1 (0-1)
 
 
-Matchday 4
-[Tue Oct/11]
-  18.45  FC København (DEN)       0-0  Manchester City FC (ENG)
-         Maccabi Haifa FC (ISR)   2-0 (2-0)  Juventus FC (ITA)
-  21.00  AC Milan (ITA)           0-2 (0-2)  Chelsea FC (ENG)
-         GNK Dinamo Zagreb (CRO)  1-1 (1-1)  FC Red Bull Salzburg (AUT)
-         Celtic FC (SCO)          0-2 (0-0)  RB Leipzig (GER)
-         FK Shakhtar Donetsk (UKR)  1-1 (0-0)  Real Madrid CF (ESP)
-         Borussia Dortmund (GER)  1-1 (1-1)  Sevilla FC (ESP)
-         Paris Saint-Germain FC (FRA)  1-1 (1-0)  Sport Lisboa e Benfica (POR)
-[Wed Oct/12]
-  18.45  SSC Napoli (ITA)         4-2 (2-0)  AFC Ajax (NED)
-         Club Atlético de Madrid (ESP)  0-0  Club Brugge KV (BEL)
-  21.00  Rangers FC (SCO)         1-7 (1-1)  Liverpool FC (ENG)
-         Bayer 04 Leverkusen (GER)  0-3 (0-1)  FC Porto (POR)
-         FC Viktoria Plzeň (CZE)  2-4 (0-4)  FC Bayern München (GER)
-         FC Barcelona (ESP)       3-3 (1-0)  FC Internazionale Milano (ITA)
-         Sporting Clube de Portugal (POR)  0-2 (0-2)  Olympique de Marseille (FRA)
-         Tottenham Hotspur FC (ENG)  3-2 (3-1)  Eintracht Frankfurt (GER)
+» Gruppe H
+  Tue Sep/6
+    21.00  Paris Saint-Germain (FRA) v Juventus (ITA)           2-1 (2-0)
+           SL Benfica (POR)        v Maccabi Haifa (ISR)      2-0 (0-0)
+  Wed Sep/14
+    21.00  Juventus (ITA)          v SL Benfica (POR)         1-2 (1-1)
+           Maccabi Haifa (ISR)     v Paris Saint-Germain (FRA)  1-3 (1-1)
+  Wed Oct/5
+    21.00  Juventus (ITA)          v Maccabi Haifa (ISR)      3-1 (1-0)
+           SL Benfica (POR)        v Paris Saint-Germain (FRA)  1-1 (1-1)
+  Tue Oct/11
+    18.45  Maccabi Haifa (ISR)     v Juventus (ITA)           2-0 (2-0)
+    21.00  Paris Saint-Germain (FRA) v SL Benfica (POR)         1-1 (1-0)
+  Tue Oct/25
+    21.00  SL Benfica (POR)        v Juventus (ITA)           4-3 (2-1)
+           Paris Saint-Germain (FRA) v Maccabi Haifa (ISR)      7-2 (4-1)
+  Wed Nov/2
+    21.00  Juventus (ITA)          v Paris Saint-Germain (FRA)  1-2 (1-1)
+           Maccabi Haifa (ISR)     v SL Benfica (POR)         1-6 (1-1)
 
 
-Matchday 5
-[Tue Oct/25]
-  18.45  FC Red Bull Salzburg (AUT)  1-2 (0-1)  Chelsea FC (ENG)
-         Sevilla FC (ESP)         3-0 (0-0)  FC København (DEN)
-  21.00  GNK Dinamo Zagreb (CRO)  0-4 (0-1)  AC Milan (ITA)
-         RB Leipzig (GER)         3-2 (2-1)  Real Madrid CF (ESP)
-         Celtic FC (SCO)          1-1 (1-0)  FK Shakhtar Donetsk (UKR)
-         Borussia Dortmund (GER)  0-0  Manchester City FC (ENG)
-         Paris Saint-Germain FC (FRA)  7-2 (4-1)  Maccabi Haifa FC (ISR)
-         Sport Lisboa e Benfica (POR)  4-3 (2-1)  Juventus FC (ITA)
-[Wed Oct/26]
-  18.45  Club Brugge KV (BEL)     0-4 (0-1)  FC Porto (POR)
-         FC Internazionale Milano (ITA)  4-0 (2-0)  FC Viktoria Plzeň (CZE)
-  21.00  AFC Ajax (NED)           0-3 (0-1)  Liverpool FC (ENG)
-         SSC Napoli (ITA)         3-0 (2-0)  Rangers FC (SCO)
-         Club Atlético de Madrid (ESP)  2-2 (1-2)  Bayer 04 Leverkusen (GER)
-         FC Barcelona (ESP)       0-3 (0-2)  FC Bayern München (GER)
-         Tottenham Hotspur FC (ENG)  1-1 (0-1)  Sporting Clube de Portugal (POR)
-         Eintracht Frankfurt (GER)  2-1 (2-1)  Olympique de Marseille (FRA)
+» Round of 16
+  Tue Feb/14 2023
+    21.00  AC Milan (ITA)          v Tottenham Hotspur (ENG)  1-0 (1-0)
+           Paris Saint-Germain (FRA) v Bayern München (GER)     0-1 (0-0)
+  Wed Feb/15
+    21.00  Club Brugge KV (BEL)    v SL Benfica (POR)         0-2 (0-0)
+           Borussia Dortmund (GER) v Chelsea FC (ENG)         1-0 (0-0)
+  Tue Feb/21
+    21.00  Liverpool FC (ENG)      v Real Madrid (ESP)        2-5 (2-2)
+           Eintracht Frankfurt (GER) v SSC Napoli (ITA)         0-2 (0-1)
+  Wed Feb/22
+    21.00  RB Leipzig (GER)        v Manchester City (ENG)    1-1 (0-1)
+           Inter (ITA)             v FC Porto (POR)           1-0 (0-0)
+  Tue Mar/7
+    21.00  SL Benfica (POR)        v Club Brugge KV (BEL)     5-1 (2-0)
+    21.10  Chelsea FC (ENG)        v Borussia Dortmund (GER)  2-0 (1-0)
+  Wed Mar/8
+    21.00  Bayern München (GER)    v Paris Saint-Germain (FRA)  2-0 (0-0)
+    21.10  Tottenham Hotspur (ENG) v AC Milan (ITA)           0-0
+  Tue Mar/14
+    21.00  Manchester City (ENG)   v RB Leipzig (GER)         7-0 (3-0)
+           FC Porto (POR)          v Inter (ITA)              0-0
+  Wed Mar/15
+    21.00  Real Madrid (ESP)       v Liverpool FC (ENG)       1-0 (0-0)
+           SSC Napoli (ITA)        v Eintracht Frankfurt (GER)  3-0 (1-0)
 
 
-Matchday 6
-[Tue Nov/1]
-  18.45  Bayer 04 Leverkusen (GER)  0-0  Club Brugge KV (BEL)
-         FC Porto (POR)           2-1 (2-0)  Club Atlético de Madrid (ESP)
-  21.00  Rangers FC (SCO)         1-3 (0-2)  AFC Ajax (NED)
-         Liverpool FC (ENG)       2-0 (0-0)  SSC Napoli (ITA)
-         FC Viktoria Plzeň (CZE)  2-4 (0-2)  FC Barcelona (ESP)
-         FC Bayern München (GER)  2-0 (1-0)  FC Internazionale Milano (ITA)
-         Olympique de Marseille (FRA)  1-2 (1-0)  Tottenham Hotspur FC (ENG)
-         Sporting Clube de Portugal (POR)  1-2 (1-0)  Eintracht Frankfurt (GER)
-[Wed Nov/2]
-  18.45  FK Shakhtar Donetsk (UKR)  0-4 (0-1)  RB Leipzig (GER)
-         Real Madrid CF (ESP)     5-1 (2-0)  Celtic FC (SCO)
-  21.00  Chelsea FC (ENG)         2-1 (2-1)  GNK Dinamo Zagreb (CRO)
-         AC Milan (ITA)           4-0 (1-0)  FC Red Bull Salzburg (AUT)
-         FC København (DEN)       1-1 (1-1)  Borussia Dortmund (GER)
-         Manchester City FC (ENG)  3-1 (0-1)  Sevilla FC (ESP)
-         Juventus FC (ITA)        1-2 (1-1)  Paris Saint-Germain FC (FRA)
-         Maccabi Haifa FC (ISR)   1-6 (1-1)  Sport Lisboa e Benfica (POR)
+» Quarterfinals
+  Tue Apr/11
+    21.00  SL Benfica (POR)        v Inter (ITA)              0-2 (0-0)
+           Manchester City (ENG)   v Bayern München (GER)     3-0 (1-0)
+  Wed Apr/12
+    21.00  Real Madrid (ESP)       v Chelsea FC (ENG)         2-0 (1-0)
+           AC Milan (ITA)          v SSC Napoli (ITA)         1-0 (1-0)
+  Tue Apr/18
+    21.00  Chelsea FC (ENG)        v Real Madrid (ESP)        0-2 (0-0)
+           SSC Napoli (ITA)        v AC Milan (ITA)           1-1 (0-1)
+  Wed Apr/19
+    21.00  Inter (ITA)             v SL Benfica (POR)         3-3 (1-1)
+           Bayern München (GER)    v Manchester City (ENG)    1-1 (0-0)
 
 
-== Finals
-
-Round of 16
-[Tue Feb/14]
-  21.00  Paris Saint-Germain FC (FRA)  0-1 (0-0)  FC Bayern München (GER)
-         AC Milan (ITA)           1-0 (1-0)  Tottenham Hotspur FC (ENG)
-[Wed Feb/15]
-  21.00  Borussia Dortmund (GER)  1-0 (0-0)  Chelsea FC (ENG)
-         Club Brugge KV (BEL)     0-2 (0-0)  Sport Lisboa e Benfica (POR)
-[Tue Feb/21]
-  21.00  Eintracht Frankfurt (GER)  0-2 (0-1)  SSC Napoli (ITA)
-         Liverpool FC (ENG)       2-5 (2-2)  Real Madrid CF (ESP)
-[Wed Feb/22]
-  21.00  FC Internazionale Milano (ITA)  1-0 (0-0)  FC Porto (POR)
-         RB Leipzig (GER)         1-1 (0-1)  Manchester City FC (ENG)
-[Tue Mar/7]
-  21.00  Sport Lisboa e Benfica (POR)  5-1 (2-0)  Club Brugge KV (BEL)
-  21.10  Chelsea FC (ENG)         2-0 (1-0)  Borussia Dortmund (GER)
-[Wed Mar/8]
-  21.00  FC Bayern München (GER)  2-0 (0-0)  Paris Saint-Germain FC (FRA)
-  21.10  Tottenham Hotspur FC (ENG)  0-0  AC Milan (ITA)
-[Tue Mar/14]
-  21.00  FC Porto (POR)           0-0  FC Internazionale Milano (ITA)
-         Manchester City FC (ENG)  7-0 (3-0)  RB Leipzig (GER)
-[Wed Mar/15]
-  21.00  SSC Napoli (ITA)         3-0 (1-0)  Eintracht Frankfurt (GER)
-         Real Madrid CF (ESP)     1-0 (0-0)  Liverpool FC (ENG)
+» Semifinals
+  Tue May/9
+    21.00  Real Madrid (ESP)       v Manchester City (ENG)    1-1 (1-0)
+  Wed May/10
+    21.00  AC Milan (ITA)          v Inter (ITA)              0-2 (0-2)
+  Tue May/16
+    21.00  Inter (ITA)             v AC Milan (ITA)           1-0 (0-0)
+  Wed May/17
+    21.00  Manchester City (ENG)   v Real Madrid (ESP)        4-0 (2-0)
 
 
-Quarterfinals
-[Tue Apr/11]
-  21.00  Manchester City FC (ENG)  3-0 (1-0)  FC Bayern München (GER)
-         Sport Lisboa e Benfica (POR)  0-2 (0-0)  FC Internazionale Milano (ITA)
-[Wed Apr/12]
-  21.00  AC Milan (ITA)           1-0 (1-0)  SSC Napoli (ITA)
-         Real Madrid CF (ESP)     2-0 (1-0)  Chelsea FC (ENG)
-[Tue Apr/18]
-  21.00  SSC Napoli (ITA)         1-1 (0-1)  AC Milan (ITA)
-         Chelsea FC (ENG)         0-2 (0-0)  Real Madrid CF (ESP)
-[Wed Apr/19]
-  21.00  FC Bayern München (GER)  1-1 (0-0)  Manchester City FC (ENG)
-         FC Internazionale Milano (ITA)  3-3 (1-1)  Sport Lisboa e Benfica (POR)
-
-
-Semifinals
-[Tue May/9]
-  21.00  Real Madrid CF (ESP)     1-1 (1-0)  Manchester City FC (ENG)
-[Wed May/10]
-  21.00  AC Milan (ITA)           0-2 (0-2)  FC Internazionale Milano (ITA)
-[Tue May/16]
-  21.00  FC Internazionale Milano (ITA)  1-0 (0-0)  AC Milan (ITA)
-[Wed May/17]
-  21.00  Manchester City FC (ENG)  4-0 (2-0)  Real Madrid CF (ESP)
-
-
-Final
-[Sat Jun/10]
-  21.00  Manchester City FC (ENG)  1-0 (0-0)  FC Internazionale Milano (ITA)
+» Final
+  Sat Jun/10
+    21.00  Manchester City (ENG)   v Inter (ITA)              1-0 (0-0)
