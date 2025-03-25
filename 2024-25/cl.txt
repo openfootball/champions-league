@@ -6,271 +6,266 @@
 # Stages     League (144)  Playoffs (16)  Finals (29)
 
 
-== League
 
-Matchday 1
-[Tue Sep/17]
-  18.45  BSC Young Boys (SUI)     0-3 (0-2)  Aston Villa FC (ENG)
-         Juventus FC (ITA)        3-1 (2-0)  PSV (NED)
-  21.00  Sporting Clube de Portugal (POR)  2-0 (1-0)  Lille OSC (FRA)
-         FC Bayern München (GER)  9-2 (3-0)  GNK Dinamo Zagreb (CRO)
-         Real Madrid CF (ESP)     3-1 (0-0)  VfB Stuttgart (GER)
-         AC Milan (ITA)           1-3 (1-2)  Liverpool FC (ENG)
-[Wed Sep/18]
-  18.45  Bologna FC 1909 (ITA)    0-0  FK Shakhtar Donetsk (UKR)
-         AC Sparta Praha (CZE)    3-0 (2-0)  FC Red Bull Salzburg (AUT)
-  21.00  Manchester City FC (ENG)  0-0  FC Internazionale Milano (ITA)
-         Paris Saint-Germain FC (FRA)  1-0 (0-0)  Girona FC (ESP)
-         Club Brugge KV (BEL)     0-3 (0-0)  Borussia Dortmund (GER)
-         Celtic FC (SCO)          5-1 (1-0)  ŠK Slovan Bratislava (SVK)
-[Thu Sep/19]
-  18.45  Feyenoord Rotterdam (NED)  0-4 (0-4)  Bayer 04 Leverkusen (GER)
-         FK Crvena Zvezda (SRB)   1-2 (0-2)  Sport Lisboa e Benfica (POR)
-  21.00  AS Monaco FC (MCO)       2-1 (1-1)  FC Barcelona (ESP)
-         Stade Brestois 29 (FRA)  2-1 (1-1)  SK Sturm Graz (AUT)
-         Atalanta BC (ITA)        0-0  Arsenal FC (ENG)
-         Club Atlético de Madrid (ESP)  2-1 (1-1)  RB Leipzig (GER)
-
-
-Matchday 2
-[Tue Oct/1]
-  18.45  VfB Stuttgart (GER)      1-1 (1-1)  AC Sparta Praha (CZE)
-         FC Red Bull Salzburg (AUT)  0-4 (0-1)  Stade Brestois 29 (FRA)
-  21.00  ŠK Slovan Bratislava (SVK)  0-4 (0-2)  Manchester City FC (ENG)
-         Borussia Dortmund (GER)  7-1 (5-1)  Celtic FC (SCO)
-         FC Barcelona (ESP)       5-0 (3-0)  BSC Young Boys (SUI)
-         FC Internazionale Milano (ITA)  4-0 (1-0)  FK Crvena Zvezda (SRB)
-         Bayer 04 Leverkusen (GER)  1-0 (0-0)  AC Milan (ITA)
-         Arsenal FC (ENG)         2-0 (2-0)  Paris Saint-Germain FC (FRA)
-         PSV (NED)                1-1 (1-0)  Sporting Clube de Portugal (POR)
-[Wed Oct/2]
-  18.45  Girona FC (ESP)          2-3 (1-2)  Feyenoord Rotterdam (NED)
-         FK Shakhtar Donetsk (UKR)  0-3 (0-2)  Atalanta BC (ITA)
-  21.00  Aston Villa FC (ENG)     1-0 (0-0)  FC Bayern München (GER)
-         SK Sturm Graz (AUT)      0-1 (0-1)  Club Brugge KV (BEL)
-         Liverpool FC (ENG)       2-0 (1-0)  Bologna FC 1909 (ITA)
-         RB Leipzig (GER)         2-3 (1-0)  Juventus FC (ITA)
-         Sport Lisboa e Benfica (POR)  4-0 (1-0)  Club Atlético de Madrid (ESP)
-         GNK Dinamo Zagreb (CRO)  2-2 (1-0)  AS Monaco FC (MCO)
-         Lille OSC (FRA)          1-0 (1-0)  Real Madrid CF (ESP)
+» League, Matchday 1
+  Tue Sep/17 2024
+    18.45  BSC Young Boys (SUI)    v Aston Villa FC (ENG)     0-3 (0-2)
+           Juventus FC (ITA)       v PSV (NED)                3-1 (2-0)
+    21.00  Sporting Clube de Portugal (POR) v Lille OSC (FRA)          2-0 (1-0)
+           FC Bayern München (GER) v GNK Dinamo Zagreb (CRO)  9-2 (3-0)
+           Real Madrid CF (ESP)    v VfB Stuttgart (GER)      3-1 (0-0)
+           AC Milan (ITA)          v Liverpool FC (ENG)       1-3 (1-2)
+  Wed Sep/18
+    18.45  Bologna FC 1909 (ITA)   v FK Shakhtar Donetsk (UKR)  0-0
+           AC Sparta Praha (CZE)   v FC Red Bull Salzburg (AUT)  3-0 (2-0)
+    21.00  Manchester City FC (ENG) v FC Internazionale Milano (ITA)  0-0
+           Paris Saint-Germain FC (FRA) v Girona FC (ESP)          1-0 (0-0)
+           Club Brugge KV (BEL)    v Borussia Dortmund (GER)  0-3 (0-0)
+           Celtic FC (SCO)         v ŠK Slovan Bratislava (SVK)  5-1 (1-0)
+  Thu Sep/19
+    18.45  Feyenoord Rotterdam (NED) v Bayer 04 Leverkusen (GER)  0-4 (0-4)
+           FK Crvena Zvezda (SRB)  v Sport Lisboa e Benfica (POR)  1-2 (0-2)
+    21.00  AS Monaco FC (MCO)      v FC Barcelona (ESP)       2-1 (1-1)
+           Stade Brestois 29 (FRA) v SK Sturm Graz (AUT)      2-1 (1-1)
+           Atalanta BC (ITA)       v Arsenal FC (ENG)         0-0
+           Club Atlético de Madrid (ESP) v RB Leipzig (GER)         2-1 (1-1)
 
 
-Matchday 3
-[Tue Oct/22]
-  18.45  AS Monaco FC (MCO)       5-1 (2-1)  FK Crvena Zvezda (SRB)
-         AC Milan (ITA)           3-1 (1-0)  Club Brugge KV (BEL)
-  21.00  Aston Villa FC (ENG)     2-0 (0-0)  Bologna FC 1909 (ITA)
-         Girona FC (ESP)          2-0 (1-0)  ŠK Slovan Bratislava (SVK)
-         SK Sturm Graz (AUT)      0-2 (0-1)  Sporting Clube de Portugal (POR)
-         Paris Saint-Germain FC (FRA)  1-1 (0-1)  PSV (NED)
-         Real Madrid CF (ESP)     5-2 (0-2)  Borussia Dortmund (GER)
-         Arsenal FC (ENG)         1-0 (1-0)  FK Shakhtar Donetsk (UKR)
-         Juventus FC (ITA)        0-1 (0-0)  VfB Stuttgart (GER)
-[Wed Oct/23]
-  18.45  Stade Brestois 29 (FRA)  1-1 (1-1)  Bayer 04 Leverkusen (GER)
-         Atalanta BC (ITA)        0-0  Celtic FC (SCO)
-  21.00  BSC Young Boys (SUI)     0-1 (0-0)  FC Internazionale Milano (ITA)
-         FC Barcelona (ESP)       4-1 (3-1)  FC Bayern München (GER)
-         Manchester City FC (ENG)  5-0 (1-0)  AC Sparta Praha (CZE)
-         RB Leipzig (GER)         0-1 (0-1)  Liverpool FC (ENG)
-         Club Atlético de Madrid (ESP)  1-3 (1-0)  Lille OSC (FRA)
-         Sport Lisboa e Benfica (POR)  1-3 (0-2)  Feyenoord Rotterdam (NED)
-         FC Red Bull Salzburg (AUT)  0-2 (0-0)  GNK Dinamo Zagreb (CRO)
+» League, Matchday 2
+  Tue Oct/1
+    18.45  VfB Stuttgart (GER)     v AC Sparta Praha (CZE)    1-1 (1-1)
+           FC Red Bull Salzburg (AUT) v Stade Brestois 29 (FRA)  0-4 (0-1)
+    21.00  ŠK Slovan Bratislava (SVK) v Manchester City FC (ENG)  0-4 (0-2)
+           Borussia Dortmund (GER) v Celtic FC (SCO)          7-1 (5-1)
+           FC Barcelona (ESP)      v BSC Young Boys (SUI)     5-0 (3-0)
+           FC Internazionale Milano (ITA) v FK Crvena Zvezda (SRB)   4-0 (1-0)
+           Bayer 04 Leverkusen (GER) v AC Milan (ITA)           1-0 (0-0)
+           Arsenal FC (ENG)        v Paris Saint-Germain FC (FRA)  2-0 (2-0)
+           PSV (NED)               v Sporting Clube de Portugal (POR)  1-1 (1-0)
+  Wed Oct/2
+    18.45  Girona FC (ESP)         v Feyenoord Rotterdam (NED)  2-3 (1-2)
+           FK Shakhtar Donetsk (UKR) v Atalanta BC (ITA)        0-3 (0-2)
+    21.00  Aston Villa FC (ENG)    v FC Bayern München (GER)  1-0 (0-0)
+           SK Sturm Graz (AUT)     v Club Brugge KV (BEL)     0-1 (0-1)
+           Liverpool FC (ENG)      v Bologna FC 1909 (ITA)    2-0 (1-0)
+           RB Leipzig (GER)        v Juventus FC (ITA)        2-3 (1-0)
+           Sport Lisboa e Benfica (POR) v Club Atlético de Madrid (ESP)  4-0 (1-0)
+           GNK Dinamo Zagreb (CRO) v AS Monaco FC (MCO)       2-2 (1-0)
+           Lille OSC (FRA)         v Real Madrid CF (ESP)     1-0 (1-0)
 
 
-Matchday 4
-[Tue Nov/5]
-  18.45  ŠK Slovan Bratislava (SVK)  1-4 (1-2)  GNK Dinamo Zagreb (CRO)
-         PSV (NED)                4-0 (2-0)  Girona FC (ESP)
-  21.00  Sporting Clube de Portugal (POR)  4-1 (1-1)  Manchester City FC (ENG)
-         Bologna FC 1909 (ITA)    0-1 (0-0)  AS Monaco FC (MCO)
-         Borussia Dortmund (GER)  1-0 (0-0)  SK Sturm Graz (AUT)
-         Liverpool FC (ENG)       4-0 (0-0)  Bayer 04 Leverkusen (GER)
-         Real Madrid CF (ESP)     1-3 (1-2)  AC Milan (ITA)
-         Celtic FC (SCO)          3-1 (2-1)  RB Leipzig (GER)
-         Lille OSC (FRA)          1-1 (1-0)  Juventus FC (ITA)
-[Wed Nov/6]
-  18.45  Club Brugge KV (BEL)     1-0 (0-0)  Aston Villa FC (ENG)
-         FK Shakhtar Donetsk (UKR)  2-1 (2-1)  BSC Young Boys (SUI)
-  21.00  AC Sparta Praha (CZE)    1-2 (0-1)  Stade Brestois 29 (FRA)
-         VfB Stuttgart (GER)      0-2 (0-0)  Atalanta BC (ITA)
-         FC Internazionale Milano (ITA)  1-0 (1-0)  Arsenal FC (ENG)
-         Paris Saint-Germain FC (FRA)  1-2 (1-1)  Club Atlético de Madrid (ESP)
-         Feyenoord Rotterdam (NED)  1-3 (0-1)  FC Red Bull Salzburg (AUT)
-         FK Crvena Zvezda (SRB)   2-5 (1-2)  FC Barcelona (ESP)
-  21.15  FC Bayern München (GER)  1-0 (0-0)  Sport Lisboa e Benfica (POR)
+» League, Matchday 3
+  Tue Oct/22
+    18.45  AS Monaco FC (MCO)      v FK Crvena Zvezda (SRB)   5-1 (2-1)
+           AC Milan (ITA)          v Club Brugge KV (BEL)     3-1 (1-0)
+    21.00  Aston Villa FC (ENG)    v Bologna FC 1909 (ITA)    2-0 (0-0)
+           Girona FC (ESP)         v ŠK Slovan Bratislava (SVK)  2-0 (1-0)
+           SK Sturm Graz (AUT)     v Sporting Clube de Portugal (POR)  0-2 (0-1)
+           Paris Saint-Germain FC (FRA) v PSV (NED)                1-1 (0-1)
+           Real Madrid CF (ESP)    v Borussia Dortmund (GER)  5-2 (0-2)
+           Arsenal FC (ENG)        v FK Shakhtar Donetsk (UKR)  1-0 (1-0)
+           Juventus FC (ITA)       v VfB Stuttgart (GER)      0-1 (0-0)
+  Wed Oct/23
+    18.45  Stade Brestois 29 (FRA) v Bayer 04 Leverkusen (GER)  1-1 (1-1)
+           Atalanta BC (ITA)       v Celtic FC (SCO)          0-0
+    21.00  BSC Young Boys (SUI)    v FC Internazionale Milano (ITA)  0-1 (0-0)
+           FC Barcelona (ESP)      v FC Bayern München (GER)  4-1 (3-1)
+           Manchester City FC (ENG) v AC Sparta Praha (CZE)    5-0 (1-0)
+           RB Leipzig (GER)        v Liverpool FC (ENG)       0-1 (0-1)
+           Club Atlético de Madrid (ESP) v Lille OSC (FRA)          1-3 (1-0)
+           Sport Lisboa e Benfica (POR) v Feyenoord Rotterdam (NED)  1-3 (0-2)
+           FC Red Bull Salzburg (AUT) v GNK Dinamo Zagreb (CRO)  0-2 (0-0)
 
 
-Matchday 5
-[Tue Nov/26]
-  18.45  ŠK Slovan Bratislava (SVK)  2-3 (1-1)  AC Milan (ITA)
-         AC Sparta Praha (CZE)    0-6 (0-2)  Club Atlético de Madrid (ESP)
-  21.00  Sporting Clube de Portugal (POR)  1-5 (0-3)  Arsenal FC (ENG)
-         BSC Young Boys (SUI)     1-6 (1-4)  Atalanta BC (ITA)
-         FC Bayern München (GER)  1-0 (1-0)  Paris Saint-Germain FC (FRA)
-         FC Barcelona (ESP)       3-0 (1-0)  Stade Brestois 29 (FRA)
-         FC Internazionale Milano (ITA)  1-0 (1-0)  RB Leipzig (GER)
-         Manchester City FC (ENG)  3-3 (1-0)  Feyenoord Rotterdam (NED)
-         Bayer 04 Leverkusen (GER)  5-0 (3-0)  FC Red Bull Salzburg (AUT)
-[Wed Nov/27]
-  18.45  SK Sturm Graz (AUT)      1-0 (0-0)  Girona FC (ESP)
-         FK Crvena Zvezda (SRB)   5-1 (2-1)  VfB Stuttgart (GER)
-  21.00  AS Monaco FC (MCO)       2-3 (1-0)  Sport Lisboa e Benfica (POR)
-         Aston Villa FC (ENG)     0-0  Juventus FC (ITA)
-         Bologna FC 1909 (ITA)    1-2 (0-1)  Lille OSC (FRA)
-         Liverpool FC (ENG)       2-0 (0-0)  Real Madrid CF (ESP)
-         Celtic FC (SCO)          1-1 (0-1)  Club Brugge KV (BEL)
-         GNK Dinamo Zagreb (CRO)  0-3 (0-1)  Borussia Dortmund (GER)
-         PSV (NED)                3-2 (0-2)  FK Shakhtar Donetsk (UKR)
+» League, Matchday 4
+  Tue Nov/5
+    18.45  ŠK Slovan Bratislava (SVK) v GNK Dinamo Zagreb (CRO)  1-4 (1-2)
+           PSV (NED)               v Girona FC (ESP)          4-0 (2-0)
+    21.00  Sporting Clube de Portugal (POR) v Manchester City FC (ENG)  4-1 (1-1)
+           Bologna FC 1909 (ITA)   v AS Monaco FC (MCO)       0-1 (0-0)
+           Borussia Dortmund (GER) v SK Sturm Graz (AUT)      1-0 (0-0)
+           Liverpool FC (ENG)      v Bayer 04 Leverkusen (GER)  4-0 (0-0)
+           Real Madrid CF (ESP)    v AC Milan (ITA)           1-3 (1-2)
+           Celtic FC (SCO)         v RB Leipzig (GER)         3-1 (2-1)
+           Lille OSC (FRA)         v Juventus FC (ITA)        1-1 (1-0)
+  Wed Nov/6
+    18.45  Club Brugge KV (BEL)    v Aston Villa FC (ENG)     1-0 (0-0)
+           FK Shakhtar Donetsk (UKR) v BSC Young Boys (SUI)     2-1 (2-1)
+    21.00  AC Sparta Praha (CZE)   v Stade Brestois 29 (FRA)  1-2 (0-1)
+           VfB Stuttgart (GER)     v Atalanta BC (ITA)        0-2 (0-0)
+           FC Internazionale Milano (ITA) v Arsenal FC (ENG)         1-0 (1-0)
+           Paris Saint-Germain FC (FRA) v Club Atlético de Madrid (ESP)  1-2 (1-1)
+           Feyenoord Rotterdam (NED) v FC Red Bull Salzburg (AUT)  1-3 (0-1)
+           FK Crvena Zvezda (SRB)  v FC Barcelona (ESP)       2-5 (1-2)
+    21.15  FC Bayern München (GER) v Sport Lisboa e Benfica (POR)  1-0 (0-0)
 
 
-Matchday 6
-[Tue Dec/10]
-  18.45  Girona FC (ESP)          0-1 (0-0)  Liverpool FC (ENG)
-         GNK Dinamo Zagreb (CRO)  0-0  Celtic FC (SCO)
-  21.00  Stade Brestois 29 (FRA)  1-0 (1-0)  PSV (NED)
-         RB Leipzig (GER)         2-3 (1-1)  Aston Villa FC (ENG)
-         Atalanta BC (ITA)        2-3 (1-1)  Real Madrid CF (ESP)
-         Bayer 04 Leverkusen (GER)  1-0 (0-0)  FC Internazionale Milano (ITA)
-         Club Brugge KV (BEL)     2-1 (1-1)  Sporting Clube de Portugal (POR)
-         FK Shakhtar Donetsk (UKR)  1-5 (1-2)  FC Bayern München (GER)
-         FC Red Bull Salzburg (AUT)  0-3 (0-1)  Paris Saint-Germain FC (FRA)
-[Wed Dec/11]
-  18.45  Club Atlético de Madrid (ESP)  3-1 (2-0)  ŠK Slovan Bratislava (SVK)
-         Lille OSC (FRA)          3-2 (2-1)  SK Sturm Graz (AUT)
-  21.00  VfB Stuttgart (GER)      5-1 (1-1)  BSC Young Boys (SUI)
-         Borussia Dortmund (GER)  2-3 (0-0)  FC Barcelona (ESP)
-         AC Milan (ITA)           2-1 (1-0)  FK Crvena Zvezda (SRB)
-         Sport Lisboa e Benfica (POR)  0-0  Bologna FC 1909 (ITA)
-         Arsenal FC (ENG)         3-0 (1-0)  AS Monaco FC (MCO)
-         Juventus FC (ITA)        2-0 (0-0)  Manchester City FC (ENG)
-         Feyenoord Rotterdam (NED)  4-2 (3-1)  AC Sparta Praha (CZE)
+» League, Matchday 5
+  Tue Nov/26
+    18.45  ŠK Slovan Bratislava (SVK) v AC Milan (ITA)           2-3 (1-1)
+           AC Sparta Praha (CZE)   v Club Atlético de Madrid (ESP)  0-6 (0-2)
+    21.00  Sporting Clube de Portugal (POR) v Arsenal FC (ENG)         1-5 (0-3)
+           BSC Young Boys (SUI)    v Atalanta BC (ITA)        1-6 (1-4)
+           FC Bayern München (GER) v Paris Saint-Germain FC (FRA)  1-0 (1-0)
+           FC Barcelona (ESP)      v Stade Brestois 29 (FRA)  3-0 (1-0)
+           FC Internazionale Milano (ITA) v RB Leipzig (GER)         1-0 (1-0)
+           Manchester City FC (ENG) v Feyenoord Rotterdam (NED)  3-3 (1-0)
+           Bayer 04 Leverkusen (GER) v FC Red Bull Salzburg (AUT)  5-0 (3-0)
+  Wed Nov/27
+    18.45  SK Sturm Graz (AUT)     v Girona FC (ESP)          1-0 (0-0)
+           FK Crvena Zvezda (SRB)  v VfB Stuttgart (GER)      5-1 (2-1)
+    21.00  AS Monaco FC (MCO)      v Sport Lisboa e Benfica (POR)  2-3 (1-0)
+           Aston Villa FC (ENG)    v Juventus FC (ITA)        0-0
+           Bologna FC 1909 (ITA)   v Lille OSC (FRA)          1-2 (0-1)
+           Liverpool FC (ENG)      v Real Madrid CF (ESP)     2-0 (0-0)
+           Celtic FC (SCO)         v Club Brugge KV (BEL)     1-1 (0-1)
+           GNK Dinamo Zagreb (CRO) v Borussia Dortmund (GER)  0-3 (0-1)
+           PSV (NED)               v FK Shakhtar Donetsk (UKR)  3-2 (0-2)
 
 
-Matchday 7
-[Tue Jan/21]
-  18.45  AS Monaco FC (MCO)       1-0 (1-0)  Aston Villa FC (ENG)
-         Atalanta BC (ITA)        5-0 (1-0)  SK Sturm Graz (AUT)
-  21.00  Bologna FC 1909 (ITA)    2-1 (0-1)  Borussia Dortmund (GER)
-         ŠK Slovan Bratislava (SVK)  1-3 (0-2)  VfB Stuttgart (GER)
-         Liverpool FC (ENG)       2-1 (1-0)  Lille OSC (FRA)
-         Club Atlético de Madrid (ESP)  2-1 (0-1)  Bayer 04 Leverkusen (GER)
-         Sport Lisboa e Benfica (POR)  4-5 (3-1)  FC Barcelona (ESP)
-         Club Brugge KV (BEL)     0-0  Juventus FC (ITA)
-         FK Crvena Zvezda (SRB)   2-3 (0-3)  PSV (NED)
-[Wed Jan/22]
-  18.45  RB Leipzig (GER)         2-1 (1-0)  Sporting Clube de Portugal (POR)
-         FK Shakhtar Donetsk (UKR)  2-0 (2-0)  Stade Brestois 29 (FRA)
-  21.00  AC Sparta Praha (CZE)    0-1 (0-1)  FC Internazionale Milano (ITA)
-         Paris Saint-Germain FC (FRA)  4-2 (0-0)  Manchester City FC (ENG)
-         Real Madrid CF (ESP)     5-1 (2-0)  FC Red Bull Salzburg (AUT)
-         AC Milan (ITA)           1-0 (1-0)  Girona FC (ESP)
-         Arsenal FC (ENG)         3-0 (1-0)  GNK Dinamo Zagreb (CRO)
-         Celtic FC (SCO)          1-0 (0-0)  BSC Young Boys (SUI)
-         Feyenoord Rotterdam (NED)  3-0 (2-0)  FC Bayern München (GER)
+» League, Matchday 6
+  Tue Dec/10
+    18.45  Girona FC (ESP)         v Liverpool FC (ENG)       0-1 (0-0)
+           GNK Dinamo Zagreb (CRO) v Celtic FC (SCO)          0-0
+    21.00  Stade Brestois 29 (FRA) v PSV (NED)                1-0 (1-0)
+           RB Leipzig (GER)        v Aston Villa FC (ENG)     2-3 (1-1)
+           Atalanta BC (ITA)       v Real Madrid CF (ESP)     2-3 (1-1)
+           Bayer 04 Leverkusen (GER) v FC Internazionale Milano (ITA)  1-0 (0-0)
+           Club Brugge KV (BEL)    v Sporting Clube de Portugal (POR)  2-1 (1-1)
+           FK Shakhtar Donetsk (UKR) v FC Bayern München (GER)  1-5 (1-2)
+           FC Red Bull Salzburg (AUT) v Paris Saint-Germain FC (FRA)  0-3 (0-1)
+  Wed Dec/11
+    18.45  Club Atlético de Madrid (ESP) v ŠK Slovan Bratislava (SVK)  3-1 (2-0)
+           Lille OSC (FRA)         v SK Sturm Graz (AUT)      3-2 (2-1)
+    21.00  VfB Stuttgart (GER)     v BSC Young Boys (SUI)     5-1 (1-1)
+           Borussia Dortmund (GER) v FC Barcelona (ESP)       2-3 (0-0)
+           AC Milan (ITA)          v FK Crvena Zvezda (SRB)   2-1 (1-0)
+           Sport Lisboa e Benfica (POR) v Bologna FC 1909 (ITA)    0-0
+           Arsenal FC (ENG)        v AS Monaco FC (MCO)       3-0 (1-0)
+           Juventus FC (ITA)       v Manchester City FC (ENG)  2-0 (0-0)
+           Feyenoord Rotterdam (NED) v AC Sparta Praha (CZE)    4-2 (3-1)
 
 
-Matchday 8
-[Wed Jan/29]
-  21.00  Sporting Clube de Portugal (POR)  1-1 (0-1)  Bologna FC 1909 (ITA)
-         BSC Young Boys (SUI)     0-1 (0-0)  FK Crvena Zvezda (SRB)
-         Aston Villa FC (ENG)     4-2 (2-2)  Celtic FC (SCO)
-         Girona FC (ESP)          1-2 (1-2)  Arsenal FC (ENG)
-         Stade Brestois 29 (FRA)  0-3 (0-1)  Real Madrid CF (ESP)
-         SK Sturm Graz (AUT)      1-0 (1-0)  RB Leipzig (GER)
-         VfB Stuttgart (GER)      1-4 (0-3)  Paris Saint-Germain FC (FRA)
-         FC Bayern München (GER)  3-1 (1-0)  ŠK Slovan Bratislava (SVK)
-         Borussia Dortmund (GER)  3-1 (2-0)  FK Shakhtar Donetsk (UKR)
-         FC Barcelona (ESP)       2-2 (0-0)  Atalanta BC (ITA)
-         FC Internazionale Milano (ITA)  3-0 (2-0)  AS Monaco FC (MCO)
-         Manchester City FC (ENG)  3-1 (0-1)  Club Brugge KV (BEL)
-         Bayer 04 Leverkusen (GER)  2-0 (1-0)  AC Sparta Praha (CZE)
-         Juventus FC (ITA)        0-2 (0-1)  Sport Lisboa e Benfica (POR)
-         GNK Dinamo Zagreb (CRO)  2-1 (1-0)  AC Milan (ITA)
-         Lille OSC (FRA)          6-1 (2-1)  Feyenoord Rotterdam (NED)
-         PSV (NED)                3-2 (3-2)  Liverpool FC (ENG)
-         FC Red Bull Salzburg (AUT)  1-4 (0-3)  Club Atlético de Madrid (ESP)
+» League, Matchday 7
+  Tue Jan/21 2025
+    18.45  AS Monaco FC (MCO)      v Aston Villa FC (ENG)     1-0 (1-0)
+           Atalanta BC (ITA)       v SK Sturm Graz (AUT)      5-0 (1-0)
+    21.00  Bologna FC 1909 (ITA)   v Borussia Dortmund (GER)  2-1 (0-1)
+           ŠK Slovan Bratislava (SVK) v VfB Stuttgart (GER)      1-3 (0-2)
+           Liverpool FC (ENG)      v Lille OSC (FRA)          2-1 (1-0)
+           Club Atlético de Madrid (ESP) v Bayer 04 Leverkusen (GER)  2-1 (0-1)
+           Sport Lisboa e Benfica (POR) v FC Barcelona (ESP)       4-5 (3-1)
+           Club Brugge KV (BEL)    v Juventus FC (ITA)        0-0
+           FK Crvena Zvezda (SRB)  v PSV (NED)                2-3 (0-3)
+  Wed Jan/22
+    18.45  RB Leipzig (GER)        v Sporting Clube de Portugal (POR)  2-1 (1-0)
+           FK Shakhtar Donetsk (UKR) v Stade Brestois 29 (FRA)  2-0 (2-0)
+    21.00  AC Sparta Praha (CZE)   v FC Internazionale Milano (ITA)  0-1 (0-1)
+           Paris Saint-Germain FC (FRA) v Manchester City FC (ENG)  4-2 (0-0)
+           Real Madrid CF (ESP)    v FC Red Bull Salzburg (AUT)  5-1 (2-0)
+           AC Milan (ITA)          v Girona FC (ESP)          1-0 (1-0)
+           Arsenal FC (ENG)        v GNK Dinamo Zagreb (CRO)  3-0 (1-0)
+           Celtic FC (SCO)         v BSC Young Boys (SUI)     1-0 (0-0)
+           Feyenoord Rotterdam (NED) v FC Bayern München (GER)  3-0 (2-0)
 
 
-== Playoffs
-
-Matchday 1
-[Tue Feb/11]
-  18.45  Stade Brestois 29 (FRA)  0-3 (0-2)  Paris Saint-Germain FC (FRA)
-  21.00  Manchester City FC (ENG)  2-3 (1-0)  Real Madrid CF (ESP)
-         Juventus FC (ITA)        2-1 (1-0)  PSV (NED)
-         Sporting Clube de Portugal (POR)  0-3 (0-0)  Borussia Dortmund (GER)
-[Wed Feb/12]
-  18.45  Club Brugge KV (BEL)     2-1 (1-1)  Atalanta BC (ITA)
-  21.00  AS Monaco FC (MCO)       0-1 (0-0)  Sport Lisboa e Benfica (POR)
-         Celtic FC (SCO)          1-2 (0-1)  FC Bayern München (GER)
-         Feyenoord Rotterdam (NED)  1-0 (1-0)  AC Milan (ITA)
-
-
-Matchday 2
-[Tue Feb/18]
-  18.45  AC Milan (ITA)           1-1 (1-0)  Feyenoord Rotterdam (NED)
-  21.00  Sport Lisboa e Benfica (POR)  3-3 (1-1)  AS Monaco FC (MCO)
-         FC Bayern München (GER)  1-1 (0-0)  Celtic FC (SCO)
-         Atalanta BC (ITA)        1-3 (0-3)  Club Brugge KV (BEL)
-[Wed Feb/19]
-  18.45  Borussia Dortmund (GER)  0-0  Sporting Clube de Portugal (POR)
-  21.00  Paris Saint-Germain FC (FRA)  7-0 (2-0)  Stade Brestois 29 (FRA)
-         Real Madrid CF (ESP)     3-1 (2-0)  Manchester City FC (ENG)
-         PSV (NED)                3-1 (0-0)  Juventus FC (ITA)
+» League, Matchday 8
+  Wed Jan/29
+    21.00  Sporting Clube de Portugal (POR) v Bologna FC 1909 (ITA)    1-1 (0-1)
+           BSC Young Boys (SUI)    v FK Crvena Zvezda (SRB)   0-1 (0-0)
+           Aston Villa FC (ENG)    v Celtic FC (SCO)          4-2 (2-2)
+           Girona FC (ESP)         v Arsenal FC (ENG)         1-2 (1-2)
+           Stade Brestois 29 (FRA) v Real Madrid CF (ESP)     0-3 (0-1)
+           SK Sturm Graz (AUT)     v RB Leipzig (GER)         1-0 (1-0)
+           VfB Stuttgart (GER)     v Paris Saint-Germain FC (FRA)  1-4 (0-3)
+           FC Bayern München (GER) v ŠK Slovan Bratislava (SVK)  3-1 (1-0)
+           Borussia Dortmund (GER) v FK Shakhtar Donetsk (UKR)  3-1 (2-0)
+           FC Barcelona (ESP)      v Atalanta BC (ITA)        2-2 (0-0)
+           FC Internazionale Milano (ITA) v AS Monaco FC (MCO)       3-0 (2-0)
+           Manchester City FC (ENG) v Club Brugge KV (BEL)     3-1 (0-1)
+           Bayer 04 Leverkusen (GER) v AC Sparta Praha (CZE)    2-0 (1-0)
+           Juventus FC (ITA)       v Sport Lisboa e Benfica (POR)  0-2 (0-1)
+           GNK Dinamo Zagreb (CRO) v AC Milan (ITA)           2-1 (1-0)
+           Lille OSC (FRA)         v Feyenoord Rotterdam (NED)  6-1 (2-1)
+           PSV (NED)               v Liverpool FC (ENG)       3-2 (3-2)
+           FC Red Bull Salzburg (AUT) v Club Atlético de Madrid (ESP)  1-4 (0-3)
 
 
-== Finals
-
-Round of 16
-[Tue Mar/4]
-  18.45  Club Brugge KV (BEL)     1-3 (1-1)  Aston Villa FC (ENG)
-  21.00  Real Madrid CF (ESP)     2-1 (1-1)  Club Atlético de Madrid (ESP)
-         PSV (NED)                1-7 (1-3)  Arsenal FC (ENG)
-         Borussia Dortmund (GER)  1-1 (1-0)  Lille OSC (FRA)
-[Wed Mar/5]
-  18.45  Feyenoord Rotterdam (NED)  0-2 (0-1)  FC Internazionale Milano (ITA)
-  21.00  Paris Saint-Germain FC (FRA)  0-1 (0-0)  Liverpool FC (ENG)
-         FC Bayern München (GER)  3-0 (1-0)  Bayer 04 Leverkusen (GER)
-         Sport Lisboa e Benfica (POR)  0-1 (0-0)  FC Barcelona (ESP)
-[Tue Mar/11]
-  18.45  FC Barcelona (ESP)       3-1 (3-1)  Sport Lisboa e Benfica (POR)
-  21.00  Liverpool FC (ENG)       1-5 (0-1)  Paris Saint-Germain FC (FRA)
-         FC Internazionale Milano (ITA)  2-1 (1-1)  Feyenoord Rotterdam (NED)
-         Bayer 04 Leverkusen (GER)  0-2 (0-0)  FC Bayern München (GER)
-[Wed Mar/12]
-  18.45  Lille OSC (FRA)          1-2 (1-0)  Borussia Dortmund (GER)
-  21.00  Aston Villa FC (ENG)     3-0 (0-0)  Club Brugge KV (BEL)
-         Club Atlético de Madrid (ESP)  3-4 (1-0)  Real Madrid CF (ESP)
-         Arsenal FC (ENG)         2-2 (2-1)  PSV (NED)
+» Playoffs, Matchday 1
+  Tue Feb/11
+    18.45  Stade Brestois 29 (FRA) v Paris Saint-Germain FC (FRA)  0-3 (0-2)
+    21.00  Manchester City FC (ENG) v Real Madrid CF (ESP)     2-3 (1-0)
+           Juventus FC (ITA)       v PSV (NED)                2-1 (1-0)
+           Sporting Clube de Portugal (POR) v Borussia Dortmund (GER)  0-3 (0-0)
+  Wed Feb/12
+    18.45  Club Brugge KV (BEL)    v Atalanta BC (ITA)        2-1 (1-1)
+    21.00  AS Monaco FC (MCO)      v Sport Lisboa e Benfica (POR)  0-1 (0-0)
+           Celtic FC (SCO)         v FC Bayern München (GER)  1-2 (0-1)
+           Feyenoord Rotterdam (NED) v AC Milan (ITA)           1-0 (1-0)
 
 
-Quarterfinals
-[Tue Apr/8]
-  21.00  Arsenal FC (ENG)         -  Real Madrid CF (ESP)
-         FC Bayern München (GER)  -  FC Internazionale Milano (ITA)
-[Wed Apr/9]
-  21.00  Paris Saint-Germain FC (FRA)  -  Aston Villa FC (ENG)
-         FC Barcelona (ESP)       -  Borussia Dortmund (GER)
-[Tue Apr/15]
-  21.00  Aston Villa FC (ENG)     -  Paris Saint-Germain FC (FRA)
-         Borussia Dortmund (GER)  -  FC Barcelona (ESP)
-[Wed Apr/16]
-  21.00  Real Madrid CF (ESP)     -  Arsenal FC (ENG)
-         FC Internazionale Milano (ITA)  -  FC Bayern München (GER)
+» Playoffs, Matchday 2
+  Tue Feb/18
+    18.45  AC Milan (ITA)          v Feyenoord Rotterdam (NED)  1-1 (1-0)
+    21.00  Sport Lisboa e Benfica (POR) v AS Monaco FC (MCO)       3-3 (1-1)
+           FC Bayern München (GER) v Celtic FC (SCO)          1-1 (0-0)
+           Atalanta BC (ITA)       v Club Brugge KV (BEL)     1-3 (0-3)
+  Wed Feb/19
+    18.45  Borussia Dortmund (GER) v Sporting Clube de Portugal (POR)  0-0
+    21.00  Paris Saint-Germain FC (FRA) v Stade Brestois 29 (FRA)  7-0 (2-0)
+           Real Madrid CF (ESP)    v Manchester City FC (ENG)  3-1 (2-0)
+           PSV (NED)               v Juventus FC (ITA)        3-1 (0-0)
 
 
-Semifinals
-[Tue Apr/29]
-         N.N.                     -  N.N.
-[Wed Apr/30]
-         N.N.                     -  N.N.
-[Tue May/6]
-         N.N.                     -  N.N.
-[Wed May/7]
-         N.N.                     -  N.N.
+» Finals, Round of 16
+  Tue Mar/4
+    18.45  Club Brugge KV (BEL)    v Aston Villa FC (ENG)     1-3 (1-1)
+    21.00  Real Madrid CF (ESP)    v Club Atlético de Madrid (ESP)  2-1 (1-1)
+           PSV (NED)               v Arsenal FC (ENG)         1-7 (1-3)
+           Borussia Dortmund (GER) v Lille OSC (FRA)          1-1 (1-0)
+  Wed Mar/5
+    18.45  Feyenoord Rotterdam (NED) v FC Internazionale Milano (ITA)  0-2 (0-1)
+    21.00  Paris Saint-Germain FC (FRA) v Liverpool FC (ENG)       0-1 (0-0)
+           FC Bayern München (GER) v Bayer 04 Leverkusen (GER)  3-0 (1-0)
+           Sport Lisboa e Benfica (POR) v FC Barcelona (ESP)       0-1 (0-0)
+  Tue Mar/11
+    18.45  FC Barcelona (ESP)      v Sport Lisboa e Benfica (POR)  3-1 (3-1)
+    21.00  Liverpool FC (ENG)      v Paris Saint-Germain FC (FRA)  1-5 (0-1)
+           FC Internazionale Milano (ITA) v Feyenoord Rotterdam (NED)  2-1 (1-1)
+           Bayer 04 Leverkusen (GER) v FC Bayern München (GER)  0-2 (0-0)
+  Wed Mar/12
+    18.45  Lille OSC (FRA)         v Borussia Dortmund (GER)  1-2 (1-0)
+    21.00  Aston Villa FC (ENG)    v Club Brugge KV (BEL)     3-0 (0-0)
+           Club Atlético de Madrid (ESP) v Real Madrid CF (ESP)     3-4 (1-0)
+           Arsenal FC (ENG)        v PSV (NED)                2-2 (2-1)
 
 
-Final
-[Sat May/31]
-  21.00  N.N.                     -  N.N.
+» Finals, Quarterfinals
+  Tue Apr/8
+    21.00  Arsenal FC (ENG)        v Real Madrid CF (ESP)
+           FC Bayern München (GER) v FC Internazionale Milano (ITA)
+  Wed Apr/9
+    21.00  Paris Saint-Germain FC (FRA) v Aston Villa FC (ENG)
+           FC Barcelona (ESP)      v Borussia Dortmund (GER)
+  Tue Apr/15
+    21.00  Aston Villa FC (ENG)    v Paris Saint-Germain FC (FRA)
+           Borussia Dortmund (GER) v FC Barcelona (ESP)
+  Wed Apr/16
+    21.00  Real Madrid CF (ESP)    v Arsenal FC (ENG)
+           FC Internazionale Milano (ITA) v FC Bayern München (GER)
+
+
+» Finals, Semifinals
+  Tue Apr/29
+           N.N.                    v N.N.
+  Wed Apr/30
+           N.N.                    v N.N.
+  Tue May/6
+           N.N.                    v N.N.
+  Wed May/7
+           N.N.                    v N.N.
+
+
+» Finals, Final
+  Sat May/31
+    21.00  N.N.                    v N.N.
