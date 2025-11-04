@@ -1,0 +1,271 @@
+= UEFA Champions League 2025/26
+
+# Date       Tue Sep/16 2025 - Sat May/30 2026 (256d)
+# Teams      36
+# Matches    189
+# Stages     League (144)  Playoffs (16)  Finals (29)
+
+
+
+» League, Matchday 1
+  Tue Sep/16 2025
+    18.45  Athletic Club (ESP)     v Arsenal FC (ENG)         0-2 (0-0)
+           PSV (NED)               v Royale Union Saint-Gilloise (BEL)  1-3 (0-2)
+    21.00  Juventus FC (ITA)       v Borussia Dortmund (GER)  4-4 (0-0)
+           Sport Lisboa e Benfica (POR) v Qarabağ Ağdam FK (AZE)   2-3 (2-1)
+           Tottenham Hotspur FC (ENG) v Villarreal CF (ESP)      1-0 (1-0)
+           Real Madrid CF (ESP)    v Olympique de Marseille (FRA)  2-1 (1-1)
+  Wed Sep/17
+    18.45  SK Slavia Praha (CZE)   v FK Bodø/Glimt (NOR)      2-2 (1-0)
+           PAE Olympiakos SFP (GRE) v Paphos FC (CYP)          0-0
+    21.00  AFC Ajax (NED)          v FC Internazionale Milano (ITA)  0-2 (0-1)
+           Liverpool FC (ENG)      v Club Atlético de Madrid (ESP)  3-2 (2-1)
+           Paris Saint-Germain FC (FRA) v Atalanta BC (ITA)        4-0 (2-0)
+           FC Bayern München (GER) v Chelsea FC (ENG)         3-1 (2-1)
+  Thu Sep/18
+    18.45  FC København (DEN)      v Bayer 04 Leverkusen (GER)  2-2 (1-0)
+           Club Brugge KV (BEL)    v AS Monaco FC (MCO)       4-1 (3-0)
+    21.00  Newcastle United FC (ENG) v FC Barcelona (ESP)       1-2 (0-0)
+           Manchester City FC (ENG) v SSC Napoli (ITA)         2-0 (0-0)
+           Eintracht Frankfurt (GER) v Galatasaray SK (TUR)     5-1 (3-1)
+           Sporting Clube de Portugal (POR) v FK Kairat (KAZ)          4-1 (1-0)
+
+
+» League, Matchday 2
+  Tue Sep/30
+    18.45  Atalanta BC (ITA)       v Club Brugge KV (BEL)     2-1 (0-1)
+           FK Kairat (KAZ)         v Real Madrid CF (ESP)     0-5 (0-1)
+    21.00  Galatasaray SK (TUR)    v Liverpool FC (ENG)       1-0 (1-0)
+           Club Atlético de Madrid (ESP) v Eintracht Frankfurt (GER)  5-1 (3-0)
+           Olympique de Marseille (FRA) v AFC Ajax (NED)           4-0 (3-0)
+           FK Bodø/Glimt (NOR)     v Tottenham Hotspur FC (ENG)  2-2 (0-0)
+           Paphos FC (CYP)         v FC Bayern München (GER)  1-5 (1-4)
+           Chelsea FC (ENG)        v Sport Lisboa e Benfica (POR)  1-0 (1-0)
+           FC Internazionale Milano (ITA) v SK Slavia Praha (CZE)    3-0 (2-0)
+  Wed Oct/1
+    18.45  Qarabağ Ağdam FK (AZE)  v FC København (DEN)       2-0 (1-0)
+           Royale Union Saint-Gilloise (BEL) v Newcastle United FC (ENG)  0-4 (0-2)
+    21.00  Borussia Dortmund (GER) v Athletic Club (ESP)      4-1 (1-0)
+           FC Barcelona (ESP)      v Paris Saint-Germain FC (FRA)  1-2 (1-1)
+           AS Monaco FC (MCO)      v Manchester City FC (ENG)  2-2 (1-2)
+           Bayer 04 Leverkusen (GER) v PSV (NED)                1-1 (0-0)
+           Arsenal FC (ENG)        v PAE Olympiakos SFP (GRE)  2-0 (1-0)
+           Villarreal CF (ESP)     v Juventus FC (ITA)        2-2 (1-0)
+           SSC Napoli (ITA)        v Sporting Clube de Portugal (POR)  2-1 (1-0)
+
+
+» League, Matchday 3
+  Tue Oct/21
+    18.45  FC Barcelona (ESP)      v PAE Olympiakos SFP (GRE)  6-1 (2-0)
+           FK Kairat (KAZ)         v Paphos FC (CYP)          0-0
+    21.00  Royale Union Saint-Gilloise (BEL) v FC Internazionale Milano (ITA)  0-4 (0-2)
+           FC København (DEN)      v Borussia Dortmund (GER)  2-4 (1-1)
+           Bayer 04 Leverkusen (GER) v Paris Saint-Germain FC (FRA)  2-7 (1-4)
+           Villarreal CF (ESP)     v Manchester City FC (ENG)  0-2 (0-2)
+           Arsenal FC (ENG)        v Club Atlético de Madrid (ESP)  4-0 (0-0)
+           Newcastle United FC (ENG) v Sport Lisboa e Benfica (POR)  3-0 (1-0)
+           PSV (NED)               v SSC Napoli (ITA)         6-2 (2-1)
+  Wed Oct/22
+    18.45  Galatasaray SK (TUR)    v FK Bodø/Glimt (NOR)      3-1 (2-0)
+           Athletic Club (ESP)     v Qarabağ Ağdam FK (AZE)   3-1 (1-1)
+    21.00  Eintracht Frankfurt (GER) v Liverpool FC (ENG)       1-5 (1-3)
+           Atalanta BC (ITA)       v SK Slavia Praha (CZE)    0-0
+           Sporting Clube de Portugal (POR) v Olympique de Marseille (FRA)  2-1 (0-1)
+           AS Monaco FC (MCO)      v Tottenham Hotspur FC (ENG)  0-0
+           FC Bayern München (GER) v Club Brugge KV (BEL)     4-0 (3-0)
+           Chelsea FC (ENG)        v AFC Ajax (NED)           5-1 (4-1)
+           Real Madrid CF (ESP)    v Juventus FC (ITA)        1-0 (0-0)
+
+
+» League, Matchday 4
+  Tue Nov/4
+    18.45  SK Slavia Praha (CZE)   v Arsenal FC (ENG)
+           SSC Napoli (ITA)        v Eintracht Frankfurt (GER)
+    21.00  Juventus FC (ITA)       v Sporting Clube de Portugal (POR)
+           Club Atlético de Madrid (ESP) v Royale Union Saint-Gilloise (BEL)
+           Tottenham Hotspur FC (ENG) v FC København (DEN)
+           FK Bodø/Glimt (NOR)     v AS Monaco FC (MCO)
+           PAE Olympiakos SFP (GRE) v PSV (NED)
+           Paris Saint-Germain FC (FRA) v FC Bayern München (GER)
+           Liverpool FC (ENG)      v Real Madrid CF (ESP)
+  Wed Nov/5
+    18.45  Paphos FC (CYP)         v Villarreal CF (ESP)
+           Qarabağ Ağdam FK (AZE)  v Chelsea FC (ENG)
+    21.00  FC Internazionale Milano (ITA) v FK Kairat (KAZ)
+           Manchester City FC (ENG) v Borussia Dortmund (GER)
+           Club Brugge KV (BEL)    v FC Barcelona (ESP)
+           Sport Lisboa e Benfica (POR) v Bayer 04 Leverkusen (GER)
+           Olympique de Marseille (FRA) v Atalanta BC (ITA)
+           AFC Ajax (NED)          v Galatasaray SK (TUR)
+           Newcastle United FC (ENG) v Athletic Club (ESP)
+
+
+» League, Matchday 5
+  Tue Nov/25
+    18.45  AFC Ajax (NED)          v Sport Lisboa e Benfica (POR)
+           Galatasaray SK (TUR)    v Royale Union Saint-Gilloise (BEL)
+    21.00  Borussia Dortmund (GER) v Villarreal CF (ESP)
+           Manchester City FC (ENG) v Bayer 04 Leverkusen (GER)
+           FK Bodø/Glimt (NOR)     v Juventus FC (ITA)
+           Olympique de Marseille (FRA) v Newcastle United FC (ENG)
+           SK Slavia Praha (CZE)   v Athletic Club (ESP)
+           SSC Napoli (ITA)        v Qarabağ Ağdam FK (AZE)
+           Chelsea FC (ENG)        v FC Barcelona (ESP)
+  Wed Nov/26
+    18.45  Paphos FC (CYP)         v AS Monaco FC (MCO)
+           FC København (DEN)      v FK Kairat (KAZ)
+    21.00  Liverpool FC (ENG)      v PSV (NED)
+           Paris Saint-Germain FC (FRA) v Tottenham Hotspur FC (ENG)
+           Eintracht Frankfurt (GER) v Atalanta BC (ITA)
+           Sporting Clube de Portugal (POR) v Club Brugge KV (BEL)
+           Arsenal FC (ENG)        v FC Bayern München (GER)
+           PAE Olympiakos SFP (GRE) v Real Madrid CF (ESP)
+           Club Atlético de Madrid (ESP) v FC Internazionale Milano (ITA)
+
+
+» League, Matchday 6
+  Tue Dec/9
+    16.30  FK Kairat (KAZ)         v PAE Olympiakos SFP (GRE)
+    18.45  FC Bayern München (GER) v Sporting Clube de Portugal (POR)
+    21.00  FC Barcelona (ESP)      v Eintracht Frankfurt (GER)
+           PSV (NED)               v Club Atlético de Madrid (ESP)
+           Royale Union Saint-Gilloise (BEL) v Olympique de Marseille (FRA)
+           Tottenham Hotspur FC (ENG) v SK Slavia Praha (CZE)
+           AS Monaco FC (MCO)      v Galatasaray SK (TUR)
+           Atalanta BC (ITA)       v Chelsea FC (ENG)
+           FC Internazionale Milano (ITA) v Liverpool FC (ENG)
+  Wed Dec/10
+    18.45  Villarreal CF (ESP)     v FC København (DEN)
+           Qarabağ Ağdam FK (AZE)  v AFC Ajax (NED)
+    21.00  Borussia Dortmund (GER) v FK Bodø/Glimt (NOR)
+           Athletic Club (ESP)     v Paris Saint-Germain FC (FRA)
+           Bayer 04 Leverkusen (GER) v Newcastle United FC (ENG)
+           Club Brugge KV (BEL)    v Arsenal FC (ENG)
+           Sport Lisboa e Benfica (POR) v SSC Napoli (ITA)
+           Juventus FC (ITA)       v Paphos FC (CYP)
+           Real Madrid CF (ESP)    v Manchester City FC (ENG)
+
+
+» League, Matchday 7
+  Tue Jan/20 2026
+    16.30  FK Kairat (KAZ)         v Club Brugge KV (BEL)
+    18.45  FK Bodø/Glimt (NOR)     v Manchester City FC (ENG)
+    21.00  Tottenham Hotspur FC (ENG) v Borussia Dortmund (GER)
+           Sporting Clube de Portugal (POR) v Paris Saint-Germain FC (FRA)
+           PAE Olympiakos SFP (GRE) v Bayer 04 Leverkusen (GER)
+           Villarreal CF (ESP)     v AFC Ajax (NED)
+           FC København (DEN)      v SSC Napoli (ITA)
+           Real Madrid CF (ESP)    v AS Monaco FC (MCO)
+           FC Internazionale Milano (ITA) v Arsenal FC (ENG)
+  Wed Jan/21
+    18.45  Qarabağ Ağdam FK (AZE)  v Eintracht Frankfurt (GER)
+           Galatasaray SK (TUR)    v Club Atlético de Madrid (ESP)
+    21.00  Olympique de Marseille (FRA) v Liverpool FC (ENG)
+           SK Slavia Praha (CZE)   v FC Barcelona (ESP)
+           Atalanta BC (ITA)       v Athletic Club (ESP)
+           Juventus FC (ITA)       v Sport Lisboa e Benfica (POR)
+           Newcastle United FC (ENG) v PSV (NED)
+           FC Bayern München (GER) v Royale Union Saint-Gilloise (BEL)
+           Chelsea FC (ENG)        v Paphos FC (CYP)
+
+
+» League, Matchday 8
+  Wed Jan/28
+    21.00  Liverpool FC (ENG)      v Qarabağ Ağdam FK (AZE)
+           FC Barcelona (ESP)      v FC København (DEN)
+           Manchester City FC (ENG) v Galatasaray SK (TUR)
+           Bayer 04 Leverkusen (GER) v Villarreal CF (ESP)
+           Arsenal FC (ENG)        v FK Kairat (KAZ)
+           Royale Union Saint-Gilloise (BEL) v Atalanta BC (ITA)
+           Club Brugge KV (BEL)    v Olympique de Marseille (FRA)
+           Eintracht Frankfurt (GER) v Tottenham Hotspur FC (ENG)
+           AS Monaco FC (MCO)      v Juventus FC (ITA)
+           Club Atlético de Madrid (ESP) v FK Bodø/Glimt (NOR)
+           Athletic Club (ESP)     v Sporting Clube de Portugal (POR)
+           AFC Ajax (NED)          v PAE Olympiakos SFP (GRE)
+           Paris Saint-Germain FC (FRA) v Newcastle United FC (ENG)
+           Paphos FC (CYP)         v SK Slavia Praha (CZE)
+           PSV (NED)               v FC Bayern München (GER)
+           SSC Napoli (ITA)        v Chelsea FC (ENG)
+           Sport Lisboa e Benfica (POR) v Real Madrid CF (ESP)
+           Borussia Dortmund (GER) v FC Internazionale Milano (ITA)
+
+
+» Playoffs, Matchday 1
+  Tue Feb/17
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Wed Feb/18
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+
+
+» Playoffs, Matchday 2
+  Tue Feb/24
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Wed Feb/25
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+
+
+» Finals, Round of 16
+  Tue Mar/10
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Wed Mar/11
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Tue Mar/17
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Wed Mar/18
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+
+
+» Finals, Quarterfinals
+  Tue Apr/7
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Wed Apr/8
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Tue Apr/14
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+  Wed Apr/15
+           N.N.                    v N.N.
+           N.N.                    v N.N.
+
+
+» Finals, Semifinals
+  Tue Apr/28
+           N.N.                    v N.N.
+  Wed Apr/29
+           N.N.                    v N.N.
+  Tue May/5
+           N.N.                    v N.N.
+  Wed May/6
+           N.N.                    v N.N.
+
+
+» Finals, Final
+  Sat May/30
+    18.00  N.N.                    v N.N.
