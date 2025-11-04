@@ -230,13 +230,13 @@
            Sport Lisboa e Benfica (POR) v FC Barcelona (ESP)       0-1 (0-0)
   Tue Mar/11
     18.45  FC Barcelona (ESP)      v Sport Lisboa e Benfica (POR)  3-1 (3-1)
-    21.00  Liverpool FC (ENG)      v Paris Saint-Germain FC (FRA)  4-4 pen. 0-1 a.e.t. (0-1, 0-1)
+    21.00  Liverpool FC (ENG)      v Paris Saint-Germain FC (FRA)  1-4 pen. 0-1 a.e.t. (0-1, 0-1)
            FC Internazionale Milano (ITA) v Feyenoord Rotterdam (NED)  2-1 (1-1)
            Bayer 04 Leverkusen (GER) v FC Bayern München (GER)  0-2 (0-0)
   Wed Mar/12
     18.45  Lille OSC (FRA)         v Borussia Dortmund (GER)  1-2 (1-0)
     21.00  Aston Villa FC (ENG)    v Club Brugge KV (BEL)     3-0 (0-0)
-           Club Atlético de Madrid (ESP) v Real Madrid CF (ESP)     4-4 pen. 1-0 a.e.t. (1-0, 1-0)
+           Club Atlético de Madrid (ESP) v Real Madrid CF (ESP)     2-4 pen. 1-0 a.e.t. (1-0, 1-0)
            Arsenal FC (ENG)        v PSV (NED)                2-2 (2-1)
 
 
@@ -268,4 +268,4 @@
 
 » Finals, Final
   Sat May/31
-    21.00  Paris Saint-Germain FC (FRA) v FC Internazionale Milano (ITA)
+    21.00  Paris Saint-Germain FC (FRA) v FC Internazionale Milano (ITA)  5-0 (2-0)
