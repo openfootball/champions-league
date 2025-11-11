@@ -79,25 +79,25 @@
 
 » League, Matchday 4
   Tue Nov/4
-    18.45  SK Slavia Praha (CZE)   v Arsenal FC (ENG)
-           SSC Napoli (ITA)        v Eintracht Frankfurt (GER)
-    21.00  Juventus FC (ITA)       v Sporting Clube de Portugal (POR)
-           Club Atlético de Madrid (ESP) v Royale Union Saint-Gilloise (BEL)
-           Tottenham Hotspur FC (ENG) v FC København (DEN)
-           FK Bodø/Glimt (NOR)     v AS Monaco FC (MCO)
-           PAE Olympiakos SFP (GRE) v PSV (NED)
-           Paris Saint-Germain FC (FRA) v FC Bayern München (GER)
-           Liverpool FC (ENG)      v Real Madrid CF (ESP)
+    18.45  SK Slavia Praha (CZE)   v Arsenal FC (ENG)         0-3 (0-1)
+           SSC Napoli (ITA)        v Eintracht Frankfurt (GER)  0-0
+    21.00  Juventus FC (ITA)       v Sporting Clube de Portugal (POR)  1-1 (1-1)
+           Club Atlético de Madrid (ESP) v Royale Union Saint-Gilloise (BEL)  3-1 (1-0)
+           Tottenham Hotspur FC (ENG) v FC København (DEN)       4-0 (1-0)
+           FK Bodø/Glimt (NOR)     v AS Monaco FC (MCO)       0-1 (0-1)
+           PAE Olympiakos SFP (GRE) v PSV (NED)                1-1 (1-0)
+           Paris Saint-Germain FC (FRA) v FC Bayern München (GER)  1-2 (0-2)
+           Liverpool FC (ENG)      v Real Madrid CF (ESP)     1-0 (0-0)
   Wed Nov/5
-    18.45  Paphos FC (CYP)         v Villarreal CF (ESP)
-           Qarabağ Ağdam FK (AZE)  v Chelsea FC (ENG)
-    21.00  FC Internazionale Milano (ITA) v FK Kairat (KAZ)
-           Manchester City FC (ENG) v Borussia Dortmund (GER)
-           Club Brugge KV (BEL)    v FC Barcelona (ESP)
-           Sport Lisboa e Benfica (POR) v Bayer 04 Leverkusen (GER)
-           Olympique de Marseille (FRA) v Atalanta BC (ITA)
-           AFC Ajax (NED)          v Galatasaray SK (TUR)
-           Newcastle United FC (ENG) v Athletic Club (ESP)
+    18.45  Paphos FC (CYP)         v Villarreal CF (ESP)      1-0 (0-0)
+           Qarabağ Ağdam FK (AZE)  v Chelsea FC (ENG)         2-2 (2-1)
+    21.00  FC Internazionale Milano (ITA) v FK Kairat (KAZ)          2-1 (1-0)
+           Manchester City FC (ENG) v Borussia Dortmund (GER)  4-1 (2-0)
+           Club Brugge KV (BEL)    v FC Barcelona (ESP)       3-3 (2-1)
+           Sport Lisboa e Benfica (POR) v Bayer 04 Leverkusen (GER)  0-1 (0-0)
+           Olympique de Marseille (FRA) v Atalanta BC (ITA)        0-1 (0-0)
+           AFC Ajax (NED)          v Galatasaray SK (TUR)     0-3 (0-0)
+           Newcastle United FC (ENG) v Athletic Club (ESP)      2-0 (1-0)
 
 
 » League, Matchday 5
