@@ -15,6 +15,7 @@ Intern'l football club tournaments include:
 
 - UEFA Champions League
 - UEFA Europa League
+- UEFA Conference League
 
 Example:
 
