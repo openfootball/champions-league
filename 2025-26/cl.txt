@@ -211,44 +211,44 @@
            Bayer 04 Leverkusen (GER) v PAE Olympiakos SFP (GRE)  0-0
            FC Internazionale Milano (ITA) v FK Bodø/Glimt (NOR)      1-2 (0-0)
   Wed Feb/25
-    18.45  Atalanta BC (ITA)       v Borussia Dortmund (GER)
-    21.00  Real Madrid CF (ESP)    v Sport Lisboa e Benfica (POR)
-           Paris Saint-Germain FC (FRA) v AS Monaco FC (MCO)
-           Juventus FC (ITA)       v Galatasaray SK (TUR)
+    18.45  Atalanta BC (ITA)       v Borussia Dortmund (GER)  4-1 (2-0)
+    21.00  Real Madrid CF (ESP)    v Sport Lisboa e Benfica (POR)  2-1 (1-1)
+           Paris Saint-Germain FC (FRA) v AS Monaco FC (MCO)       2-2 (0-1)
+           Juventus FC (ITA)       v Galatasaray SK (TUR)     3-2 a.e.t. (3-0, 1-0)
 
 
 » Finals, Round of 16
+  Tue Mar/10
+    18.45  Galatasaray SK (TUR)    v Liverpool FC (ENG)
+    21.00  Atalanta BC (ITA)       v FC Bayern München (GER)
+           Newcastle United FC (ENG) v FC Barcelona (ESP)
+           Club Atlético de Madrid (ESP) v Tottenham Hotspur FC (ENG)
   Wed Mar/11
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
+    18.45  Bayer 04 Leverkusen (GER) v Arsenal FC (ENG)
+    21.00  Paris Saint-Germain FC (FRA) v Chelsea FC (ENG)
+           Real Madrid CF (ESP)    v Manchester City FC (ENG)
+           FK Bodø/Glimt (NOR)     v Sporting Clube de Portugal (POR)
+  Tue Mar/17
+    18.45  Sporting Clube de Portugal (POR) v FK Bodø/Glimt (NOR)
+    21.00  Chelsea FC (ENG)        v Paris Saint-Germain FC (FRA)
+           Manchester City FC (ENG) v Real Madrid CF (ESP)
+           Arsenal FC (ENG)        v Bayer 04 Leverkusen (GER)
   Wed Mar/18
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
+    18.45  FC Barcelona (ESP)      v Newcastle United FC (ENG)
+    21.00  Liverpool FC (ENG)      v Galatasaray SK (TUR)
+           FC Bayern München (GER) v Atalanta BC (ITA)
+           Tottenham Hotspur FC (ENG) v Club Atlético de Madrid (ESP)
 
 
 » Finals, Quarterfinals
   Tue Apr/7
            N.N.                    v N.N.
            N.N.                    v N.N.
-  Wed Apr/8
            N.N.                    v N.N.
            N.N.                    v N.N.
   Tue Apr/14
            N.N.                    v N.N.
            N.N.                    v N.N.
-  Wed Apr/15
            N.N.                    v N.N.
            N.N.                    v N.N.
 
