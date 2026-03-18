@@ -229,10 +229,10 @@
            Real Madrid CF (ESP)    v Manchester City FC (ENG)  3-0 (3-0)
            FK Bodø/Glimt (NOR)     v Sporting Clube de Portugal (POR)  3-0 (2-0)
   Tue Mar/17
-    18.45  Sporting Clube de Portugal (POR) v FK Bodø/Glimt (NOR)
-    21.00  Chelsea FC (ENG)        v Paris Saint-Germain FC (FRA)
-           Manchester City FC (ENG) v Real Madrid CF (ESP)
-           Arsenal FC (ENG)        v Bayer 04 Leverkusen (GER)
+    18.45  Sporting Clube de Portugal (POR) v FK Bodø/Glimt (NOR)      5-0 a.e.t. (3-0, 1-0)
+    21.00  Chelsea FC (ENG)        v Paris Saint-Germain FC (FRA)  0-3 (0-2)
+           Manchester City FC (ENG) v Real Madrid CF (ESP)     1-2 (1-1)
+           Arsenal FC (ENG)        v Bayer 04 Leverkusen (GER)  2-0 (1-0)
   Wed Mar/18
     18.45  FC Barcelona (ESP)      v Newcastle United FC (ENG)
     21.00  Liverpool FC (ENG)      v Galatasaray SK (TUR)
@@ -242,15 +242,15 @@
 
 » Finals, Quarterfinals
   Tue Apr/7
+           Paris Saint-Germain FC (FRA) v N.N.
+           Real Madrid CF (ESP)    v N.N.
            N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
+           Sporting Clube de Portugal (POR) v Arsenal FC (ENG)
   Tue Apr/14
+           N.N.                    v Paris Saint-Germain FC (FRA)
+           N.N.                    v Real Madrid CF (ESP)
            N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
-           N.N.                    v N.N.
+           Arsenal FC (ENG)        v Sporting Clube de Portugal (POR)
 
 
 » Finals, Semifinals
