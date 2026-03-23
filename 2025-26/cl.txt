@@ -234,22 +234,24 @@
            Manchester City FC (ENG) v Real Madrid CF (ESP)     1-2 (1-1)
            Arsenal FC (ENG)        v Bayer 04 Leverkusen (GER)  2-0 (1-0)
   Wed Mar/18
-    18.45  FC Barcelona (ESP)      v Newcastle United FC (ENG)
-    21.00  Liverpool FC (ENG)      v Galatasaray SK (TUR)
-           FC Bayern München (GER) v Atalanta BC (ITA)
-           Tottenham Hotspur FC (ENG) v Club Atlético de Madrid (ESP)
+    18.45  FC Barcelona (ESP)      v Newcastle United FC (ENG)  7-2 (3-2)
+    21.00  Liverpool FC (ENG)      v Galatasaray SK (TUR)     4-0 (1-0)
+           FC Bayern München (GER) v Atalanta BC (ITA)        4-1 (1-0)
+           Tottenham Hotspur FC (ENG) v Club Atlético de Madrid (ESP)  3-2 (1-0)
 
 
 » Finals, Quarterfinals
   Tue Apr/7
-           Paris Saint-Germain FC (FRA) v N.N.
-           Real Madrid CF (ESP)    v N.N.
-           N.N.                    v N.N.
+    21.00  Real Madrid CF (ESP)    v FC Bayern München (GER)
            Sporting Clube de Portugal (POR) v Arsenal FC (ENG)
+  Wed Apr/8
+    21.00  Paris Saint-Germain FC (FRA) v Liverpool FC (ENG)
+           FC Barcelona (ESP)      v Club Atlético de Madrid (ESP)
   Tue Apr/14
-           N.N.                    v Paris Saint-Germain FC (FRA)
-           N.N.                    v Real Madrid CF (ESP)
-           N.N.                    v N.N.
+    21.00  Liverpool FC (ENG)      v Paris Saint-Germain FC (FRA)
+           Club Atlético de Madrid (ESP) v FC Barcelona (ESP)
+  Wed Apr/15
+    21.00  FC Bayern München (GER) v Real Madrid CF (ESP)
            Arsenal FC (ENG)        v Sporting Clube de Portugal (POR)
 
 
